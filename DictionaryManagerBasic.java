@@ -98,8 +98,11 @@ class DictionaryManagerBasic {
 
     public static void showAllWords(Dictionary dictionary) {
         dictionarySortAlphabet(dictionary);
+        System.out.println("No | English | Vietnamese");
+        int index = 1;
         for (Map.Entry<String, String> entry : dictionary.words.entrySet()) {
-            System.out.println(entry.getKey() + " " + entry.getValue());
+            System.out.println(index + " | " + entry.getKey() + " | " + entry.getValue());
+            index++;
         }
     }
 
