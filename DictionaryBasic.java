@@ -17,9 +17,19 @@ public class DictionaryBasic {
         System.out.println("8. Thoat");
         System.out.println("--------------------------");
         System.out.println("Chon: ");
+        // Kiểm tra xem người dùng nhập vào có phải là số không
+        while (!scanner.hasNextInt()) {
+            System.out.println("Nhap so thuoc khoang (1-8): ");
+            scanner.next();
+        }
         int choice = scanner.nextInt();
+        // Kiểm tra xem người dùng nhập vào có nằm trong khoảng từ 1-8 không
         while (choice < 1 || choice > 8) {
-            System.out.println("Nhap lai (gia tri trong khoang 1-9): ");
+            System.out.println("Nhap so thuoc khoang (1-8): ");
+            while (!scanner.hasNextInt()) {
+                System.out.println("Nhap so thuoc khoang (1-8): ");
+                scanner.next();
+            }
             choice = scanner.nextInt();
         }
         scanner.nextLine();

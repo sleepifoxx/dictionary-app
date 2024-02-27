@@ -8,7 +8,21 @@ class DictionaryManagerBasic {
     public static void insertFromCommandline(Dictionary dictionary) {
         Scanner scanner = new Scanner(System.in);
         System.out.println("Nhap so tu: ");
+        // Kiểm tra xem người dùng nhập số hay không
+        while (!scanner.hasNextInt()) {
+            System.out.println("Nhap so nguyen duong: ");
+            scanner.next();
+        }
         int n = scanner.nextInt();
+        // Kiểm tra xem người dùng nhập số âm hay không
+        while (n <= 0) {
+            System.out.println("Nhap so nguyen duong: ");
+            while (!scanner.hasNextInt()) {
+                System.out.println("Nhap so nguyen duong: ");
+                scanner.next();
+            }
+            n = scanner.nextInt();
+        }
         scanner.nextLine();
         for (int i = 0; i < n; i++) {
             System.out.println("Nhap tu tieng Anh: ");
@@ -30,7 +44,7 @@ class DictionaryManagerBasic {
                 dictionaryAdd(dictionary, word);
             }
         } catch (FileNotFoundException e) {
-            e.printStackTrace();
+            System.out.println("Co loi xay ra!");
         }
     }
 
@@ -64,7 +78,7 @@ class DictionaryManagerBasic {
             output.close();
             System.out.println("Xuat ra file thanh cong!");
         } catch (FileNotFoundException e) {
-            e.printStackTrace();
+            System.out.println("Co loi xay ra!");
         }
     }
 
@@ -81,7 +95,12 @@ class DictionaryManagerBasic {
         Scanner scanner = new Scanner(System.in);
         System.out.println("Nhap tu can xoa: ");
         String word_target = scanner.nextLine();
-        dictionary.words.remove(word_target);
+        // Kiểm tra từ cần xóa có trong từ điển không
+        if (dictionary.words.get(word_target) == null) {
+            System.out.println("Tu nay khong co trong tu dien!");
+            return;
+        } else
+            dictionary.words.remove(word_target);
     }
 
     public static void dictionarySearcher(Dictionary dictionary) {
