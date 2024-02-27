@@ -1,0 +1,198 @@
+lunch
+bữa trưa
+movie
+phim
+year
+năm
+beef
+thịt bò
+fire station
+đồn cứu hỏa
+tea
+trà
+number
+số
+mountain
+núi
+bank
+ngân hàng
+music
+nhạc
+friend
+bạn bè
+pen
+bút
+fire
+lửa
+cinema
+rạp chiếu phim
+sky
+bầu trời
+lightning
+chớp
+night
+đêm
+tomorrow
+ngày mai
+drink
+đồ uống
+airport
+sân bay
+moon
+mặt trăng
+phone
+điện thoại
+breakfast
+bữa sáng
+dog
+con chó
+wind
+gió
+forest
+rừng
+city
+thành phố
+sun
+mặt trời
+computer
+máy tính
+library
+thư viện
+grass
+cỏ
+nurse
+y tá
+hotel
+khách sạn
+watermelon
+dưa hấu
+table
+bàn
+chair
+ghế
+television
+truyền hình
+boat
+thuyền
+food
+thức ăn
+flower
+hoa
+police
+cảnh sát
+watch
+đồng hồ đeo tay
+fish
+cá
+river
+sông
+desert
+sa mạc
+bus
+xe bus
+country
+quốc gia
+bee
+con ong
+shopping mall
+trung tâm mua sắm
+thunder
+sấm
+cloud
+đám mây
+school
+trường học
+post office
+bưu điện
+day
+ngày
+train
+tàu hỏa
+banana
+chuối
+add
+thêm
+rain
+mưa
+noodles
+mì
+island
+đảo
+tree
+cây
+clock
+đồng hồ
+water
+nước
+market
+chợ
+rainbow
+cầu vồng
+museum
+bảo tàng
+month
+tháng
+snow
+tuyết
+pharmacy
+nhà thuốc
+lake
+hồ
+chicken
+gà
+week
+tuần
+color
+màu sắc
+student
+học sinh
+fruit
+trái cây
+book
+sách
+vegetable
+rau củ
+house
+nhà
+bike
+xe đạp
+yesterday
+ngày hôm qua
+apple
+táo
+teacher
+giáo viên
+paper
+giấy
+car
+xe ô tô
+cat
+con mèo
+today
+hôm nay
+zoo
+sở thú
+hospital
+bệnh viện
+park
+công viên
+rice
+cơm
+dinner
+bữa tối
+orange
+cam
+doctor
+bác sĩ
+earth
+trái đất
+airplane
+máy bay
+beach
+bãi biển
+coffee
+cà phê
+time
+thời gian
+family
+gia đình
