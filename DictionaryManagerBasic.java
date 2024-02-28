@@ -36,7 +36,9 @@ class DictionaryManagerBasic {
 
     public static void insertFromFile(Dictionary dictionary) {
         try {
-            Scanner scanner = new Scanner(new File("dictionaries.txt"));
+            // Lấy đường dẫn tới file dictionaries.txt
+            String directory = DictionaryPath.getPath() + "\\dictionaries.txt";
+            Scanner scanner = new Scanner(new File(directory));
             while (scanner.hasNextLine()) {
                 String word_target = scanner.nextLine();
                 String word_explain = scanner.nextLine();
