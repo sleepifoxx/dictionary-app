@@ -1,200 +1,876 @@
-lunch
-bữa trưa
-movie
-phim
-year
-năm
-beef
-thịt bò
-fire station
-đồn cứu hỏa
-tea
-trà
-number
-số
-mountain
-núi
-bank
-ngân hàng
-music
-nhạc
-friend
-bạn bè
-pen
-bút
-fire
-lửa
-cinema
-rạp chiếu phim
-sky
-bầu trời
-lightning
-chớp
-night
-đêm
-tomorrow
-ngày mai
-drink
-đồ uống
-airport
-sân bay
-moon
-mặt trăng
-phone
-điện thoại
-breakfast
-bữa sáng
-dog
-con chó
-wind
-gió
-forest
-rừng
-city
-thành phố
-sun
-mặt trời
-computer
-máy tính
-library
-thư viện
-grass
-cỏ
-nurse
-y tá
-hotel
-khách sạn
-watermelon
-dưa hấu
-table
-bàn
-chair
-ghế
-television
-truyền hình
-boat
-thuyền
-food
-thức ăn
-flower
-hoa
-police
-cảnh sát
-watch
-đồng hồ đeo tay
-fish
-cá
-river
-sông
-desert
-sa mạc
-bus
-xe bus
-country
-quốc gia
-bee
-con ong
-shopping mall
-trung tâm mua sắm
-thunder
-sấm
-lab
-Phong thi nghiem
-cloud
-đám mây
-school
-trường học
-post office
-bưu điện
-day
-ngày
-train
-tàu hỏa
-banana
-chuối
-add
-thêm
-rain
-mưa
-noodles
-mì
-island
-đảo
-tree
-cây
-clock
-đồng hồ
-water
-nước
-market
-chợ
-rainbow
-cầu vồng
-museum
-bảo tàng
-month
-tháng
-snow
-tuyết
-pharmacy
-nhà thuốc
-lake
-hồ
-chicken
-gà
-week
-tuần
-color
-màu sắc
-student
-học sinh
-fruit
-trái cây
-book
-sách
-vegetable
-rau củ
-house
-nhà
-bike
-xe đạp
-yesterday
-ngày hôm qua
 apple
-táo
-teacher
-giáo viên
-paper
-giấy
-car
-xe ô tô
-cat
-con mèo
-today
-hôm nay
-zoo
-sở thú
-hospital
-bệnh viện
-park
-công viên
-rice
-cơm
-dinner
-bữa tối
+Quả táo
 orange
-cam
+Quả cam
+water
+Nước
+food
+Thức ăn
+drink
+Đồ uống
+music
+Âm nhạc
+movie theater
+Rạp chiếu phim
+hospital
+Bệnh viện
 doctor
-bác sĩ
-earth
-trái đất
-airplane
-máy bay
+Bác sĩ
+nurse
+Y tá
+police
+Cảnh sát
+fire
+Lửa
+watermelon
+Dưa hấu
+lemon
+Quả chanh
+strawberry
+Dâu
 beach
-bãi biển
-coffee
-cà phê
-time
-thời gian
-family
-gia đình
+Bãi biển
+sun
+Mặt trời
+moon
+Mặt trăng
+stars
+Ngôi sao
+cloud
+Mây
+rain
+Mưa
+snow
+Tuyết
+summer
+Mùa hè
+winter
+Mùa đông
+spring
+Mùa xuân
+autumn
+Mùa thu
+tree
+Cây
+flower
+Hoa
+grass
+Cỏ
+sky
+Bầu trời
+earth
+Trái đất
+mountain
+Núi
+river
+Sông
+lake
+Hồ
+ocean
+Đại dương
+fish
+Cá
+bird
+Chim
+dog
+Chó
+cat
+Mèo
+elephant
+Voi
+lion
+Sư tử
+tiger
+Hổ
+monkey
+Khỉ
+bear
+Gấu
+horse
+Ngựa
+rabbit
+Thỏ
+snake
+Rắn
+turtle
+Rùa
+crocodile
+Cá sấu
+giraffe
+Hươu cao cổ
+zebra
+Ngựa vằn
+kangaroo
+Kangaroo
+penguin
+Chim cánh cụt
+seal
+Hải cẩu
+dolphin
+Cá heo
+whale
+Cá voi
+shark
+Cá mập
+octopus
+Bạch tuộc
+squid
+Mực
+crab
+Cua
+lobster
+Tôm hùm
+shrimp
+Tôm
+starfish
+Sao biển
+coral
+San hô
+jellyfish
+Sứa
+oyster
+Hàu
+mussel
+Con trai
+snail
+Ốc sên
+ant
+Kiến
+bee
+Ong
+butterfly
+Bướm
+fly
+Ruồi
+mosquito
+Muỗi
+spider
+Nhện
+snail
+Ốc sên
+earthworm
+Sâu đất
+slug
+Sâu truồi
+ladybug
+Bọ rùa
+dragonfly
+Chuồn chuồn
+grasshopper
+Dế
+cockroach
+Gián
+beetle
+Bọ cánh cứng
+antelope
+Hươu sao
+buffalo
+Trâu
+camel
+Lạc đà
+deer
+Nai
+elephant
+Voi
+giraffe
+Hươu cao cổ
+hippopotamus
+Hà mã
+kangaroo
+Kangaroo
+koala
+Gấu túi
+leopard
+Báo
+lion
+Sư tử
+monkey
+Khỉ
+panda
+Gấu trúc
+rhinoceros
+Tê giác
+tiger
+Hổ
+wolf
+Sói
+zebra
+Ngựa vằn
+bat
+Dơi
+bear
+Gấu
+bird
+Chim
+butterfly
+Bướm
+camel
+Lạc đà
+cat
+Mèo
+cow
+Bò
+dog
+Chó
+donkey
+Lừa
+elephant
+Voi
+goat
+Dê
+horse
+Ngựa
+lion
+Sư tử
+monkey
+Khỉ
+mouse
+Chuột
+pig
+Heo
+rabbit
+Thỏ
+rat
+Chuột
+sheep
+Cừu
+tiger
+Hổ
+bull
+Bò đực
+calf
+Con bê
+chicken
+Gà
+duck
+Vịt
+goose
+Ngỗng
+hen
+Gà mái
+rooster
+Gà trống
+turkey
+Gà tây
+crab
+Cua
+lobster
+Tôm hùm
+octopus
+Bạch tuộc
+shrimp
+Tôm
+starfish
+Sao biển
+blue whale
+Cá voi xanh
+dolphin
+Cá heo
+killer whale
+Cá voi sát thủ
+narwhal
+Sứa còn
+whale shark
+Cá voi cá mập
+bird
+Chim
+budgie
+Vẹt nhỏ
+canary
+Chim yến
+cockatiel
+Vẹt sẻ
+parrot
+Vẹt
+pigeon
+Chim bồ câu
+penguin
+Chim cánh cụt
+robin
+Chim sẻ
+budgie
+Vẹt nhỏ
+canary
+Chim yến
+cockatiel
+Vẹt sẻ
+parrot
+Vẹt
+pigeon
+Chim bồ câu
+robin
+Chim sẻ
+butterfly
+Bướm
+dragonfly
+Chuồn chuồn
+firefly
+Bọ rùa
+mosquito
+Muỗi
+ant
+Kiến
+bee
+Ong
+grasshopper
+Dế
+ladybug
+Bọ rùa
+beetle
+Bọ cánh cứng
+fly
+Ruồi
+moth
+Bướm đêm
+spider
+Nhện
+tarantula
+Nhện lông
+earthworm
+Sâu đất
+slug
+Sâu truồi
+amphibian
+Động vật lưỡng cư
+frog
+Ếch
+salamander
+Salamander
+toad
+Ếch cóc
+turtle
+Rùa
+chameleon
+Tắc kè hoa
+crocodile
+Cá sấu
+dinosaur
+Khủng long
+alligator
+Cá sấu Mississippi
+Komodo dragon
+Varan Komodo
+lizard
+Thằn lằn
+snake
+Rắn
+anaconda
+Anaconda
+cobra
+Rắn hổ mang
+python
+Rắn san hô
+viper
+Rắn độc
+turtle
+Rùa
+tortoise
+Rùa đất
+bird
+Chim
+albatross
+Chim albatross
+bluebird
+Chim xanh
+canary
+Chim yến
+chickadee
+Chim mào đen
+crow
+Con quạ
+dove
+Chim bồ câu
+duck
+Vịt
+eagle
+Đại bàng
+falcon
+Sơn đầu
+flamingo
+Hồng hạc
+goose
+Ngỗng
+hawk
+Hắc
+hummingbird
+Chim ruồi
+kiwi
+Chim kiwi
+macaw
+Vẹt mào cầm
+magpie
+Quạ
+nightingale
+Chim đêm
+ostrich
+Đà điểu
+owl
+Con cú
+parakeet
+Vẹt con
+parrot
+Vẹt
+peacock
+Công
+pelican
+Cá heo
+penguin
+Chim cánh cụt
+pigeon
+Chim bồ câu
+robin
+Chim sẻ
+seagull
+Chim hải âu
+sparrow
+Chim sẻ
+swan
+Thiên nga
+woodpecker
+Chim gõ kiến
+bee
+Ong
+ant
+Kiến
+mosquito
+Muỗi
+butterfly
+Bướm
+caterpillar
+Sâu bướm
+dragonfly
+Chuồn chuồn
+grasshopper
+Dế
+ladybug
+Bọ rùa
+beetle
+Bọ cánh cứng
+fly
+Ruồi
+moth
+Bướm đêm
+spider
+Nhện
+tarantula
+Nhện lông
+earthworm
+Sâu đất
+slug
+Sâu truồi
+whale
+Cá voi
+dolphin
+Cá heo
+shark
+Cá mập
+octopus
+Bạch tuộc
+squid
+Mực
+crab
+Cua
+lobster
+Tôm hùm
+shrimp
+Tôm
+starfish
+Sao biển
+coral
+San hô
+jellyfish
+Sứa
+oyster
+Hàu
+mussel
+Con trai
+snail
+Ốc sên
+ant
+Kiến
+bee
+Ong
+butterfly
+Bướm
+fly
+Ruồi
+mosquito
+Muỗi
+spider
+Nhện
+snail
+Ốc sên
+earthworm
+Sâu đất
+slug
+Sâu truồi
+ladybug
+Bọ rùa
+dragonfly
+Chuồn chuồn
+grasshopper
+Dế
+cockroach
+Gián
+beetle
+Bọ cánh cứng
+antelope
+Hươu sao
+buffalo
+Trâu
+camel
+Lạc đà
+deer
+Nai
+elephant
+Voi
+giraffe
+Hươu cao cổ
+hippopotamus
+Hà mã
+kangaroo
+Kangaroo
+koala
+Gấu túi
+leopard
+Báo
+lion
+Sư tử
+monkey
+Khỉ
+mouse
+Chuột
+pig
+Heo
+rabbit
+Thỏ
+rat
+Chuột
+sheep
+Cừu
+tiger
+Hổ
+bull
+Bò đực
+calf
+Con bê
+chicken
+Gà
+duck
+Vịt
+goose
+Ngỗng
+hen
+Gà mái
+rooster
+Gà trống
+turkey
+Gà tây
+crab
+Cua
+lobster
+Tôm hùm
+octopus
+Bạch tuộc
+shrimp
+Tôm
+starfish
+Sao biển
+blue whale
+Cá voi xanh
+dolphin
+Cá heo
+killer whale
+Cá voi sát thủ
+narwhal
+Sứa còn
+whale shark
+Cá voi cá mập
+bird
+Chim
+budgie
+Vẹt nhỏ
+canary
+Chim yến
+cockatiel
+Vẹt sẻ
+parrot
+Vẹt
+pigeon
+Chim bồ câu
+penguin
+Chim cánh cụt
+seal
+Hải cẩu
+dolphin
+Cá heo
+whale
+Cá voi
+shark
+Cá mập
+octopus
+Bạch tuộc
+squid
+Mực
+crab
+Cua
+lobster
+Tôm hùm
+shrimp
+Tôm
+starfish
+Sao biển
+coral
+San hô
+jellyfish
+Sứa
+oyster
+Hàu
+mussel
+Con trai
+snail
+Ốc sên
+ant
+Kiến
+bee
+Ong
+butterfly
+Bướm
+fly
+Ruồi
+mosquito
+Muỗi
+spider
+Nhện
+snail
+Ốc sên
+earthworm
+Sâu đất
+slug
+Sâu truồi
+ladybug
+Bọ rùa
+dragonfly
+Chuồn chuồn
+grasshopper
+Dế
+cockroach
+Gián
+beetle
+Bọ cánh cứng
+antelope
+Hươu sao
+buffalo
+Trâu
+camel
+Lạc đà
+deer
+Nai
+elephant
+Voi
+giraffe
+Hươu cao cổ
+hippopotamus
+Hà mã
+kangaroo
+Kangaroo
+koala
+Gấu túi
+leopard
+Báo
+lion
+Sư tử
+monkey
+Khỉ
+mouse
+Chuột
+pig
+Heo
+rabbit
+Thỏ
+rat
+Chuột
+sheep
+Cừu
+tiger
+Hổ
+bull
+Bò đực
+calf
+Con bê
+chicken
+Gà
+duck
+Vịt
+goose
+Ngỗng
+hen
+Gà mái
+rooster
+Gà trống
+turkey
+Gà tây
+crab
+Cua
+lobster
+Tôm hùm
+octopus
+Bạch tuộc
+shrimp
+Tôm
+starfish
+Sao biển
+blue whale
+Cá voi xanh
+dolphin
+Cá heo
+killer whale
+Cá voi sát thủ
+narwhal
+Sứa còn
+whale shark
+Cá voi cá mập
+bird
+Chim
+budgie
+Vẹt nhỏ
+canary
+Chim yến
+cockatiel
+Vẹt sẻ
+parrot
+Vẹt
+pigeon
+Chim bồ câu
+penguin
+Chim cánh cụt
+seal
+Hải cẩu
+dolphin
+Cá heo
+whale
+Cá voi
+shark
+Cá mập
+octopus
+Bạch tuộc
+squid
+Mực
+crab
+Cua
+lobster
+Tôm hùm
+shrimp
+Tôm
+starfish
+Sao biển
+coral
+San hô
+jellyfish
+Sứa
+oyster
+Hàu
+mussel
+Con trai
+snail
+Ốc sên
+ant
+Kiến
+bee
+Ong
+butterfly
+Bướm
+fly
+Ruồi
+mosquito
+Muỗi
+spider
+Nhện
+snail
+Ốc sên
+earthworm
+Sâu đất
+slug
+Sâu truồi
+ladybug
+Bọ rùa
+dragonfly
+Chuồn chuồn
+grasshopper
+Dế
+cockroach
+Gián
+beetle
+Bọ cánh cứng
+antelope
+Hươu sao
+buffalo
+Trâu
+camel
+Lạc đà
+deer
+Nai
+elephant
+Voi
+giraffe
+Hươu cao cổ
+hippopotamus
+Hà mã
+kangaroo
+Kangaroo
+koala
+Gấu túi
+leopard
+Báo
+lion
+Sư tử
+monkey
+Khỉ
+mouse
+Chuột
+pig
+Heo
+rabbit
+Thỏ
+rat
+Chuột
+sheep
+Cừu
+tiger
+Hổ
+bull
+Bò đực
+calf
+Con bê
+chicken
+Gà
+duck
+Vịt
+goose
+Ngỗng
+hen
+Gà mái
+rooster
+Gà trống
+turkey
+Gà tây
+crab
+Cua
+lobster
+Tôm hùm
+octopus
+Bạch tuộc
+shrimp
+Tôm
+starfish
+Sao biển
+blue whale
+Cá voi xanh
+dolphin
+Cá heo
+killer whale
+Cá voi sát thủ
+narwhal
+Sứa còn
+whale shark
+Cá voi cá mập

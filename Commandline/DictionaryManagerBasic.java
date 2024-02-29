@@ -54,7 +54,7 @@ class DictionaryManagerBasic {
     public static void dictionaryLookup(Dictionary dictionary) {
         Scanner scanner = new Scanner(System.in);
         System.out.println("Nhap tu can tra nghia Tieng Viet: ");
-        String word_target = scanner.nextLine();
+        String word_target = scanner.nextLine().toLowerCase();
         if (dictionary.words.get(word_target) == null) {
             System.out.println("Khong tim thay tu nay. Nhap them tu moi? (Y/N): ");
             String choice = scanner.nextLine();
