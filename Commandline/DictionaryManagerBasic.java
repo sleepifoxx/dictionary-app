@@ -5,6 +5,7 @@ import java.util.Map;
 import java.util.TreeMap;
 
 class DictionaryManagerBasic {
+    // Thêm từ vào từ điển từ commandline
     public static void insertFromCommandline(Dictionary dictionary) {
         Scanner scanner = new Scanner(System.in);
         System.out.println("Nhap so tu: ");
@@ -34,11 +35,10 @@ class DictionaryManagerBasic {
         }
     }
 
+    // Thêm từ vào từ điển từ file dictionaries.txt
     public static void insertFromFile(Dictionary dictionary) {
         try {
-            // Lấy đường dẫn tới file dictionaries.txt
-            String directory = getPath() + "\\dictionaries.txt";
-            Scanner scanner = new Scanner(new File(directory));
+            Scanner scanner = new Scanner(new File(getPath() + "\\dictionaries.txt"));
             while (scanner.hasNextLine()) {
                 String word_target = scanner.nextLine();
                 String word_explain = scanner.nextLine();
@@ -50,6 +50,7 @@ class DictionaryManagerBasic {
         }
     }
 
+    // Tra từ điển
     public static void dictionaryLookup(Dictionary dictionary) {
         Scanner scanner = new Scanner(System.in);
         System.out.println("Nhap tu can tra nghia Tieng Viet: ");
@@ -65,13 +66,15 @@ class DictionaryManagerBasic {
             System.out.println(dictionary.words.get(word_target));
     }
 
+    // Thêm từ vào từ điển
     public static void dictionaryAdd(Dictionary dictionary, Word word) {
         dictionary.words.put(word.word_target, word.word_explain);
     }
 
+    // Xuất từ điển ra file dictionaries.txt
     public static void exportToFile(Dictionary dictionary) {
         try {
-            File file = new File("dictionaries.txt");
+            File file = new File(getPath() + "\\dictionaries.txt");
             java.io.PrintWriter output = new java.io.PrintWriter(file);
             for (Map.Entry<String, String> entry : dictionary.words.entrySet()) {
                 output.println(entry.getKey());
@@ -84,6 +87,7 @@ class DictionaryManagerBasic {
         }
     }
 
+    // Sửa từ trong từ điển
     public static void dictionaryEdit(Dictionary dictionary) {
         Scanner scanner = new Scanner(System.in);
         System.out.println("Nhap tu can sua: ");
@@ -93,6 +97,7 @@ class DictionaryManagerBasic {
         dictionary.words.put(word_target, word_explain);
     }
 
+    // Xóa từ trong từ điển
     public static void dictionaryDelete(Dictionary dictionary) {
         Scanner scanner = new Scanner(System.in);
         System.out.println("Nhap tu can xoa: ");
@@ -105,10 +110,11 @@ class DictionaryManagerBasic {
             dictionary.words.remove(word_target);
     }
 
+    // Tìm kiếm từ điển theo từ khóa
     public static void dictionarySearcher(Dictionary dictionary) {
         dictionarySortAlphabet(dictionary);
         Scanner scanner = new Scanner(System.in);
-        System.out.println("Nhap tu can tim: ");
+        System.out.println("Nhap chu cai can tim: ");
         String word_target = scanner.nextLine();
         for (Map.Entry<String, String> entry : dictionary.words.entrySet()) {
             if (entry.getKey().startsWith(word_target)) {
@@ -117,6 +123,7 @@ class DictionaryManagerBasic {
         }
     }
 
+    // Hiển thị tất cả các từ trong từ điển
     public static void showAllWords(Dictionary dictionary) {
         dictionarySortAlphabet(dictionary);
         System.out.println("No | English | Vietnamese");
@@ -127,11 +134,13 @@ class DictionaryManagerBasic {
         }
     }
 
+    // Sắp xếp từ điển theo thứ tự bảng chữ cái
     public static void dictionarySortAlphabet(Dictionary dictionary) {
         Map<String, String> sorted = new TreeMap<String, String>(dictionary.words);
         dictionary.words = sorted;
     }
 
+    // Code để lấy đường dẫn tới thư mục chứa file dictionaries.txt
     public static String getPath() {
         String currentDirectory = System.getProperty("user.dir");
         File txtFolder = findTxtFolder(new File(currentDirectory));
