@@ -37,7 +37,7 @@ class DictionaryManagerBasic {
     public static void insertFromFile(Dictionary dictionary) {
         try {
             // Lấy đường dẫn tới file dictionaries.txt
-            String directory = DictionaryPath.getPath() + "\\dictionaries.txt";
+            String directory = getPath() + "\\dictionaries.txt";
             Scanner scanner = new Scanner(new File(directory));
             while (scanner.hasNextLine()) {
                 String word_target = scanner.nextLine();
@@ -130,5 +130,42 @@ class DictionaryManagerBasic {
     public static void dictionarySortAlphabet(Dictionary dictionary) {
         Map<String, String> sorted = new TreeMap<String, String>(dictionary.words);
         dictionary.words = sorted;
+    }
+
+    public static String getPath() {
+        String currentDirectory = System.getProperty("user.dir");
+        File txtFolder = findTxtFolder(new File(currentDirectory));
+        return txtFolder.getAbsolutePath();
+    }
+
+    private static File findTxtFolder(File directory) {
+        File[] files = directory.listFiles();
+        if (files != null) {
+            for (File file : files) {
+                if (file.isDirectory()) {
+                    if (containsTxtFiles(file)) {
+                        return file;
+                    } else {
+                        File txtFolder = findTxtFolder(file);
+                        if (txtFolder != null) {
+                            return txtFolder;
+                        }
+                    }
+                }
+            }
+        }
+        return null;
+    }
+
+    private static boolean containsTxtFiles(File directory) {
+        File[] files = directory.listFiles();
+        if (files != null) {
+            for (File file : files) {
+                if (file.isFile() && file.getName().endsWith(".txt")) {
+                    return true;
+                }
+            }
+        }
+        return false;
     }
 }
