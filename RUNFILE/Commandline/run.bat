@@ -1,3 +1,4 @@
 @echo off
-java -jar --enable-preview "%~dp0\basic.jar"
+chcp 65001
+java -jar --enable-preview "%~dp0\DictionaryBasic.jar"
 PAUSE
