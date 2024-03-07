@@ -7,7 +7,7 @@ import java.net.URLEncoder;
 
 public class GoogleAPI {
 
-    static String translate(String langFrom, String langTo, String text) throws IOException {
+    public static String translate(String langFrom, String langTo, String text) throws IOException {
         // INSERT YOU URL HERE
         String urlStr = "https://script.google.com/macros/s/AKfycbyy9PjjDO1fKR2kV5wI0i8I-mZDLSK0zOHKPUQDwk0rk-g5QCHUueAgiNIm-fhIFJMa_A/exec"
                 +

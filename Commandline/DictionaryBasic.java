@@ -5,30 +5,30 @@ public class DictionaryBasic {
     public static void dictionaryMenu(Dictionary dictionary) throws IOException {
         Scanner scanner = new Scanner(System.in);
         System.out.println("--------------------------");
-        System.out.println("Nhan Enter de tiep tuc.");
+        System.out.println("Nhấn Enter để tiếp tục.");
         scanner.nextLine();
         System.out.println("--------DICTIONARY--------");
-        System.out.println("1. Nhap tu ban phim: ");
-        System.out.println("2. Tra tu: ");
-        System.out.println("3. Sua tu: ");
-        System.out.println("4. Xoa tu: ");
-        System.out.println("5. Xuat ra file: ");
-        System.out.println("6. Tim kiem tu: ");
-        System.out.println("7. Hien thi tat ca tu: ");
-        System.out.println("8. Thoat");
+        System.out.println("1. Nhập từ bàn phím: ");
+        System.out.println("2. Tra từ: ");
+        System.out.println("3. Sửa từ: ");
+        System.out.println("4. Xoá từ: ");
+        System.out.println("5. Xuất ra file: ");
+        System.out.println("6. Tìm kiếm từ theo chữ cái: ");
+        System.out.println("7. Hiển thị tất cả các từ: ");
+        System.out.println("8. Thoát");
         System.out.println("--------------------------");
-        System.out.println("Chon: ");
+        System.out.println("Lựa chọn: ");
         // Kiểm tra xem người dùng nhập vào có phải là số không
         while (!scanner.hasNextInt()) {
-            System.out.println("Nhap so thuoc khoang (1-8): ");
+            System.out.println("Chú ý! Nhập số thuộc khoảng (1-8): ");
             scanner.next();
         }
         int choice = scanner.nextInt();
         // Kiểm tra xem người dùng nhập vào có nằm trong khoảng từ 1-8 không
         while (choice < 1 || choice > 8) {
-            System.out.println("Nhap so thuoc khoang (1-8): ");
+            System.out.println("Chú ý! Nhập số thuộc khoảng (1-8): ");
             while (!scanner.hasNextInt()) {
-                System.out.println("Nhap so thuoc khoang (1-8): ");
+                System.out.println("Chú ý! Nhập số thuộc khoảng (1-8): ");
                 scanner.next();
             }
             choice = scanner.nextInt();

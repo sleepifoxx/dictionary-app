@@ -9,27 +9,27 @@ class DictionaryManagerBasic {
     // Thêm từ vào từ điển từ commandline
     public static void insertFromCommandline(Dictionary dictionary) {
         Scanner scanner = new Scanner(System.in);
-        System.out.println("Nhap so tu: ");
+        System.out.println("Nhập số từ cần thêm: ");
         // Kiểm tra xem người dùng nhập số hay không
         while (!scanner.hasNextInt()) {
-            System.out.println("Nhap so nguyen duong: ");
+            System.out.println("Chú ý! Nhập số nguyên dương: ");
             scanner.next();
         }
         int n = scanner.nextInt();
         // Kiểm tra xem người dùng nhập số âm hay không
         while (n <= 0) {
-            System.out.println("Nhap so nguyen duong: ");
+            System.out.println("Chú ý! Nhập số nguyên dương: ");
             while (!scanner.hasNextInt()) {
-                System.out.println("Nhap so nguyen duong: ");
+                System.out.println("Chú ý! Nhập số nguyên dương: ");
                 scanner.next();
             }
             n = scanner.nextInt();
         }
         scanner.nextLine();
         for (int i = 0; i < n; i++) {
-            System.out.println("Nhap tu tieng Anh: ");
+            System.out.println("Nhập từ tiếng Anh: ");
             String word_target = scanner.nextLine().toLowerCase(); // Chuyển sang chữ thường
-            System.out.println("Nhap nghia tieng Viet: ");
+            System.out.println("Nhập nghĩa tiếng Việt: ");
             String word_explain = scanner.nextLine();
             Word word = new Word(word_target, word_explain);
             dictionaryAdd(dictionary, word);
@@ -47,22 +47,22 @@ class DictionaryManagerBasic {
                 dictionaryAdd(dictionary, word);
             }
         } catch (FileNotFoundException e) {
-            System.out.println("Co loi xay ra!");
+            System.out.println("Có lỗi xảy ra khi thêm dữ liệu từ file!");
         }
     }
 
     // Tra từ điển
     public static void dictionaryLookup(Dictionary dictionary) throws IOException {
         Scanner scanner = new Scanner(System.in);
-        System.out.println("Nhap tu can tra nghia Tieng Viet: ");
+        System.out.println("Nhập từ cần tra nghĩa: ");
         String word_target = scanner.nextLine().toLowerCase(); // Chuyển từ cần tìm tiếng anh thành in thường
         if (dictionary.words.get(word_target) == null) {
             String word_explain = GoogleAPI.translate("en", "vi", word_target);
-            System.out.println("Nghia tieng Viet: ");
+            System.out.println("Nghĩa tiếng Việt: ");
             System.out.println(word_explain);
             dictionary.words.put(word_target, word_explain);
         } else {
-            System.out.println("Nghia tieng Viet: ");
+            System.out.println("Nghĩa tiếng Việt: ");
             System.out.println(dictionary.words.get(word_target));
         }
     }
@@ -82,18 +82,18 @@ class DictionaryManagerBasic {
                 output.println(entry.getValue());
             }
             output.close();
-            System.out.println("Xuat ra file thanh cong!");
+            System.out.println("Xuất ra file thành công!");
         } catch (FileNotFoundException e) {
-            System.out.println("Co loi xay ra!");
+            System.out.println("Có lỗi xảy ra khi xuất file!");
         }
     }
 
     // Sửa từ trong từ điển
     public static void dictionaryEdit(Dictionary dictionary) {
         Scanner scanner = new Scanner(System.in);
-        System.out.println("Nhap tu can sua: ");
+        System.out.println("Nhập từ cần sửa: ");
         String word_target = scanner.nextLine().toLowerCase(); // Chuyển từ tiếng anh thành in thường
-        System.out.println("Nhap nghia tieng Viet moi: ");
+        System.out.println("Nhập nghĩa tiếng Việt mới: ");
         String word_explain = scanner.nextLine();
         dictionary.words.put(word_target, word_explain);
     }
@@ -101,11 +101,11 @@ class DictionaryManagerBasic {
     // Xóa từ trong từ điển
     public static void dictionaryDelete(Dictionary dictionary) {
         Scanner scanner = new Scanner(System.in);
-        System.out.println("Nhap tu can xoa: ");
+        System.out.println("Nhập từ cần xoá: ");
         String word_target = scanner.nextLine().toLowerCase();
         // Kiểm tra từ cần xóa có trong từ điển không
         if (dictionary.words.get(word_target) == null) {
-            System.out.println("Tu nay khong co trong tu dien!");
+            System.out.println("Từ này không có trong từ điển để xoá!");
             return;
         } else
             dictionary.words.remove(word_target);
@@ -115,7 +115,7 @@ class DictionaryManagerBasic {
     public static void dictionarySearcher(Dictionary dictionary) {
         dictionarySortAlphabet(dictionary);
         Scanner scanner = new Scanner(System.in);
-        System.out.println("Nhap chu cai can tim: ");
+        System.out.println("Nhập chữ cái của các từ cần tìm: ");
         String word_target = scanner.nextLine().toLowerCase();
         for (Map.Entry<String, String> entry : dictionary.words.entrySet()) {
             if (entry.getKey().startsWith(word_target)) {
