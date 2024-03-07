@@ -1,6 +1,7 @@
 import java.util.Scanner;
 import java.io.File;
 import java.io.FileNotFoundException;
+import java.io.IOException;
 import java.util.Map;
 import java.util.TreeMap;
 
@@ -27,7 +28,7 @@ class DictionaryManagerBasic {
         scanner.nextLine();
         for (int i = 0; i < n; i++) {
             System.out.println("Nhap tu tieng Anh: ");
-            String word_target = scanner.nextLine();
+            String word_target = scanner.nextLine().toLowerCase(); // Chuyển sang chữ thường
             System.out.println("Nhap nghia tieng Viet: ");
             String word_explain = scanner.nextLine();
             Word word = new Word(word_target, word_explain);
@@ -40,7 +41,7 @@ class DictionaryManagerBasic {
         try {
             Scanner scanner = new Scanner(new File(getPath() + "\\dictionaries.txt"));
             while (scanner.hasNextLine()) {
-                String word_target = scanner.nextLine();
+                String word_target = scanner.nextLine().toLowerCase();
                 String word_explain = scanner.nextLine();
                 Word word = new Word(word_target, word_explain);
                 dictionaryAdd(dictionary, word);
@@ -51,19 +52,19 @@ class DictionaryManagerBasic {
     }
 
     // Tra từ điển
-    public static void dictionaryLookup(Dictionary dictionary) {
+    public static void dictionaryLookup(Dictionary dictionary) throws IOException {
         Scanner scanner = new Scanner(System.in);
         System.out.println("Nhap tu can tra nghia Tieng Viet: ");
-        String word_target = scanner.nextLine().toLowerCase();
+        String word_target = scanner.nextLine().toLowerCase(); // Chuyển từ cần tìm tiếng anh thành in thường
         if (dictionary.words.get(word_target) == null) {
-            System.out.println("Khong tim thay tu nay. Nhap them tu moi? (Y/N): ");
-            String choice = scanner.nextLine();
-            if (choice.equals("Y")) {
-                insertFromCommandline(dictionary);
-            } else
-                return;
-        } else
+            String word_explain = GoogleAPI.translating(word_target);
+            System.out.println("Nghia tieng Viet: ");
+            System.out.println(word_explain);
+            dictionary.words.put(word_target, word_explain);
+        } else {
+            System.out.println("Nghia tieng Viet: ");
             System.out.println(dictionary.words.get(word_target));
+        }
     }
 
     // Thêm từ vào từ điển
@@ -91,7 +92,7 @@ class DictionaryManagerBasic {
     public static void dictionaryEdit(Dictionary dictionary) {
         Scanner scanner = new Scanner(System.in);
         System.out.println("Nhap tu can sua: ");
-        String word_target = scanner.nextLine();
+        String word_target = scanner.nextLine().toLowerCase(); // Chuyển từ tiếng anh thành in thường
         System.out.println("Nhap nghia tieng Viet moi: ");
         String word_explain = scanner.nextLine();
         dictionary.words.put(word_target, word_explain);
@@ -101,7 +102,7 @@ class DictionaryManagerBasic {
     public static void dictionaryDelete(Dictionary dictionary) {
         Scanner scanner = new Scanner(System.in);
         System.out.println("Nhap tu can xoa: ");
-        String word_target = scanner.nextLine();
+        String word_target = scanner.nextLine().toLowerCase();
         // Kiểm tra từ cần xóa có trong từ điển không
         if (dictionary.words.get(word_target) == null) {
             System.out.println("Tu nay khong co trong tu dien!");
@@ -115,7 +116,7 @@ class DictionaryManagerBasic {
         dictionarySortAlphabet(dictionary);
         Scanner scanner = new Scanner(System.in);
         System.out.println("Nhap chu cai can tim: ");
-        String word_target = scanner.nextLine();
+        String word_target = scanner.nextLine().toLowerCase();
         for (Map.Entry<String, String> entry : dictionary.words.entrySet()) {
             if (entry.getKey().startsWith(word_target)) {
                 System.out.println(entry.getKey());
