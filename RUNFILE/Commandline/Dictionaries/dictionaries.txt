@@ -1,0 +1,1724 @@
+apple
+Quả táo
+orange
+Quả cam
+water
+Nước
+food
+Thức ăn
+drink
+Đồ uống
+music
+Âm nhạc
+movie theater
+Rạp chiếu phim
+hospital
+Bệnh viện
+doctor
+Bác sĩ
+nurse
+Y tá
+police
+Cảnh sát
+fire
+Lửa
+watermelon
+Dưa hấu
+lemon
+Quả chanh
+strawberry
+Dâu
+beach
+Bãi biển
+sun
+Mặt trời
+moon
+Mặt trăng
+stars
+Ngôi sao
+cloud
+Mây
+rain
+Mưa
+snow
+Tuyết
+summer
+Mùa hè
+winter
+Mùa đông
+spring
+Mùa xuân
+autumn
+Mùa thu
+tree
+Cây
+flower
+Hoa
+grass
+Cỏ
+sky
+Bầu trời
+earth
+Trái đất
+mountain
+Núi
+river
+Sông
+lake
+Hồ
+ocean
+Đại dương
+fish
+Cá
+bird
+Chim
+dog
+Chó
+cat
+Mèo
+elephant
+Voi
+lion
+Sư tử
+tiger
+Hổ
+monkey
+Khỉ
+bear
+Gấu
+horse
+Ngựa
+rabbit
+Thỏ
+snake
+Rắn
+turtle
+Rùa
+crocodile
+Cá sấu
+giraffe
+Hươu cao cổ
+zebra
+Ngựa vằn
+kangaroo
+Kangaroo
+penguin
+Chim cánh cụt
+seal
+Hải cẩu
+dolphin
+Cá heo
+whale
+Cá voi
+shark
+Cá mập
+octopus
+Bạch tuộc
+squid
+Mực
+crab
+Cua
+lobster
+Tôm hùm
+shrimp
+Tôm
+starfish
+Sao biển
+coral
+San hô
+jellyfish
+Sứa
+oyster
+Hàu
+mussel
+Con trai
+snail
+Ốc sên
+ant
+Kiến
+bee
+Ong
+butterfly
+Bướm
+fly
+Ruồi
+mosquito
+Muỗi
+spider
+Nhện
+snail
+Ốc sên
+earthworm
+Sâu đất
+slug
+Sâu truồi
+ladybug
+Bọ rùa
+dragonfly
+Chuồn chuồn
+grasshopper
+Dế
+cockroach
+Gián
+beetle
+Bọ cánh cứng
+antelope
+Hươu sao
+buffalo
+Trâu
+camel
+Lạc đà
+deer
+Nai
+elephant
+Voi
+giraffe
+Hươu cao cổ
+hippopotamus
+Hà mã
+kangaroo
+Kangaroo
+koala
+Gấu túi
+leopard
+Báo
+lion
+Sư tử
+monkey
+Khỉ
+panda
+Gấu trúc
+rhinoceros
+Tê giác
+tiger
+Hổ
+wolf
+Sói
+zebra
+Ngựa vằn
+bat
+Dơi
+bear
+Gấu
+bird
+Chim
+butterfly
+Bướm
+camel
+Lạc đà
+cat
+Mèo
+cow
+Bò
+dog
+Chó
+donkey
+Lừa
+elephant
+Voi
+goat
+Dê
+horse
+Ngựa
+lion
+Sư tử
+monkey
+Khỉ
+mouse
+Chuột
+pig
+Heo
+rabbit
+Thỏ
+rat
+Chuột
+sheep
+Cừu
+tiger
+Hổ
+bull
+Bò đực
+calf
+Con bê
+chicken
+Gà
+duck
+Vịt
+goose
+Ngỗng
+hen
+Gà mái
+rooster
+Gà trống
+turkey
+Gà tây
+crab
+Cua
+lobster
+Tôm hùm
+octopus
+Bạch tuộc
+shrimp
+Tôm
+starfish
+Sao biển
+blue whale
+Cá voi xanh
+dolphin
+Cá heo
+killer whale
+Cá voi sát thủ
+narwhal
+Sứa còn
+whale shark
+Cá voi cá mập
+bird
+Chim
+budgie
+Vẹt nhỏ
+canary
+Chim yến
+cockatiel
+Vẹt sẻ
+parrot
+Vẹt
+pigeon
+Chim bồ câu
+penguin
+Chim cánh cụt
+robin
+Chim sẻ
+budgie
+Vẹt nhỏ
+canary
+Chim yến
+cockatiel
+Vẹt sẻ
+parrot
+Vẹt
+pigeon
+Chim bồ câu
+robin
+Chim sẻ
+butterfly
+Bướm
+dragonfly
+Chuồn chuồn
+firefly
+Bọ rùa
+mosquito
+Muỗi
+ant
+Kiến
+bee
+Ong
+grasshopper
+Dế
+ladybug
+Bọ rùa
+beetle
+Bọ cánh cứng
+fly
+Ruồi
+moth
+Bướm đêm
+spider
+Nhện
+tarantula
+Nhện lông
+earthworm
+Sâu đất
+slug
+Sâu truồi
+amphibian
+Động vật lưỡng cư
+frog
+Ếch
+salamander
+Salamander
+toad
+Ếch cóc
+turtle
+Rùa
+chameleon
+Tắc kè hoa
+crocodile
+Cá sấu
+dinosaur
+Khủng long
+alligator
+Cá sấu Mississippi
+Komodo dragon
+Varan Komodo
+lizard
+Thằn lằn
+snake
+Rắn
+anaconda
+Anaconda
+cobra
+Rắn hổ mang
+python
+Rắn san hô
+viper
+Rắn độc
+turtle
+Rùa
+tortoise
+Rùa đất
+bird
+Chim
+albatross
+Chim albatross
+bluebird
+Chim xanh
+canary
+Chim yến
+chickadee
+Chim mào đen
+crow
+Con quạ
+dove
+Chim bồ câu
+duck
+Vịt
+eagle
+Đại bàng
+falcon
+Sơn đầu
+flamingo
+Hồng hạc
+goose
+Ngỗng
+hawk
+Hắc
+hummingbird
+Chim ruồi
+kiwi
+Chim kiwi
+macaw
+Vẹt mào cầm
+magpie
+Quạ
+nightingale
+Chim đêm
+ostrich
+Đà điểu
+owl
+Con cú
+parakeet
+Vẹt con
+parrot
+Vẹt
+peacock
+Công
+pelican
+Cá heo
+penguin
+Chim cánh cụt
+pigeon
+Chim bồ câu
+robin
+Chim sẻ
+seagull
+Chim hải âu
+sparrow
+Chim sẻ
+swan
+Thiên nga
+woodpecker
+Chim gõ kiến
+bee
+Ong
+ant
+Kiến
+mosquito
+Muỗi
+butterfly
+Bướm
+caterpillar
+Sâu bướm
+dragonfly
+Chuồn chuồn
+grasshopper
+Dế
+ladybug
+Bọ rùa
+beetle
+Bọ cánh cứng
+fly
+Ruồi
+moth
+Bướm đêm
+spider
+Nhện
+tarantula
+Nhện lông
+earthworm
+Sâu đất
+slug
+Sâu truồi
+whale
+Cá voi
+dolphin
+Cá heo
+shark
+Cá mập
+octopus
+Bạch tuộc
+squid
+Mực
+crab
+Cua
+lobster
+Tôm hùm
+shrimp
+Tôm
+starfish
+Sao biển
+coral
+San hô
+jellyfish
+Sứa
+oyster
+Hàu
+mussel
+Con trai
+snail
+Ốc sên
+ant
+Kiến
+bee
+Ong
+butterfly
+Bướm
+fly
+Ruồi
+mosquito
+Muỗi
+spider
+Nhện
+snail
+Ốc sên
+earthworm
+Sâu đất
+slug
+Sâu truồi
+ladybug
+Bọ rùa
+dragonfly
+Chuồn chuồn
+grasshopper
+Dế
+cockroach
+Gián
+beetle
+Bọ cánh cứng
+antelope
+Hươu sao
+buffalo
+Trâu
+camel
+Lạc đà
+deer
+Nai
+elephant
+Voi
+giraffe
+Hươu cao cổ
+hippopotamus
+Hà mã
+kangaroo
+Kangaroo
+koala
+Gấu túi
+leopard
+Báo
+lion
+Sư tử
+monkey
+Khỉ
+mouse
+Chuột
+pig
+Heo
+rabbit
+Thỏ
+rat
+Chuột
+sheep
+Cừu
+tiger
+Hổ
+bull
+Bò đực
+calf
+Con bê
+chicken
+Gà
+duck
+Vịt
+goose
+Ngỗng
+hen
+Gà mái
+rooster
+Gà trống
+turkey
+Gà tây
+crab
+Cua
+lobster
+Tôm hùm
+octopus
+Bạch tuộc
+shrimp
+Tôm
+starfish
+Sao biển
+blue whale
+Cá voi xanh
+dolphin
+Cá heo
+killer whale
+Cá voi sát thủ
+narwhal
+Sứa còn
+whale shark
+Cá voi cá mập
+bird
+Chim
+budgie
+Vẹt nhỏ
+canary
+Chim yến
+cockatiel
+Vẹt sẻ
+parrot
+Vẹt
+pigeon
+Chim bồ câu
+penguin
+Chim cánh cụt
+seal
+Hải cẩu
+dolphin
+Cá heo
+whale
+Cá voi
+shark
+Cá mập
+octopus
+Bạch tuộc
+squid
+Mực
+crab
+Cua
+lobster
+Tôm hùm
+shrimp
+Tôm
+starfish
+Sao biển
+coral
+San hô
+jellyfish
+Sứa
+oyster
+Hàu
+mussel
+Con trai
+snail
+Ốc sên
+ant
+Kiến
+bee
+Ong
+butterfly
+Bướm
+fly
+Ruồi
+mosquito
+Muỗi
+spider
+Nhện
+snail
+Ốc sên
+earthworm
+Sâu đất
+slug
+Sâu truồi
+ladybug
+Bọ rùa
+dragonfly
+Chuồn chuồn
+grasshopper
+Dế
+cockroach
+Gián
+beetle
+Bọ cánh cứng
+antelope
+Hươu sao
+buffalo
+Trâu
+camel
+Lạc đà
+deer
+Nai
+elephant
+Voi
+giraffe
+Hươu cao cổ
+hippopotamus
+Hà mã
+kangaroo
+Kangaroo
+koala
+Gấu túi
+leopard
+Báo
+lion
+Sư tử
+monkey
+Khỉ
+mouse
+Chuột
+pig
+Heo
+rabbit
+Thỏ
+rat
+Chuột
+sheep
+Cừu
+tiger
+Hổ
+bull
+Bò đực
+calf
+Con bê
+chicken
+Gà
+duck
+Vịt
+goose
+Ngỗng
+hen
+Gà mái
+rooster
+Gà trống
+turkey
+Gà tây
+crab
+Cua
+lobster
+Tôm hùm
+octopus
+Bạch tuộc
+shrimp
+Tôm
+starfish
+Sao biển
+blue whale
+Cá voi xanh
+dolphin
+Cá heo
+killer whale
+Cá voi sát thủ
+narwhal
+Sứa còn
+whale shark
+Cá voi cá mập
+bird
+Chim
+budgie
+Vẹt nhỏ
+canary
+Chim yến
+cockatiel
+Vẹt sẻ
+parrot
+Vẹt
+pigeon
+Chim bồ câu
+penguin
+Chim cánh cụt
+seal
+Hải cẩu
+dolphin
+Cá heo
+whale
+Cá voi
+shark
+Cá mập
+octopus
+Bạch tuộc
+squid
+Mực
+crab
+Cua
+lobster
+Tôm hùm
+shrimp
+Tôm
+starfish
+Sao biển
+coral
+San hô
+jellyfish
+Sứa
+oyster
+Hàu
+mussel
+Con trai
+snail
+Ốc sên
+ant
+Kiến
+bee
+Ong
+butterfly
+Bướm
+fly
+Ruồi
+mosquito
+Muỗi
+spider
+Nhện
+snail
+Ốc sên
+earthworm
+Sâu đất
+slug
+Sâu truồi
+ladybug
+Bọ rùa
+dragonfly
+Chuồn chuồn
+grasshopper
+Dế
+cockroach
+Gián
+beetle
+Bọ cánh cứng
+antelope
+Hươu sao
+buffalo
+Trâu
+camel
+Lạc đà
+deer
+Nai
+elephant
+Voi
+giraffe
+Hươu cao cổ
+hippopotamus
+Hà mã
+kangaroo
+Kangaroo
+koala
+Gấu túi
+leopard
+Báo
+lion
+Sư tử
+monkey
+Khỉ
+mouse
+Chuột
+pig
+Heo
+rabbit
+Thỏ
+rat
+Chuột
+sheep
+Cừu
+tiger
+Hổ
+bull
+Bò đực
+calf
+Con bê
+chicken
+Gà
+duck
+Vịt
+goose
+Ngỗng
+hen
+Gà mái
+rooster
+Gà trống
+turkey
+Gà tây
+crab
+Cua
+lobster
+Tôm hùm
+octopus
+Bạch tuộc
+shrimp
+Tôm
+starfish
+Sao biển
+blue whale
+Cá voi xanh
+dolphin
+Cá heo
+killer whale
+Cá voi sát thủ
+narwhal
+Sứa còn
+whale shark
+Cá voi cá mập
+knowledge
+Kiến thức
+wisdom
+Trí tuệ
+learning
+Học tập
+education
+Giáo dục
+school
+Trường học
+teacher
+Giáo viên
+student
+Học sinh, sinh viên
+university
+Đại học
+college
+Cao đẳng
+classroom
+Lớp học
+lesson
+Bài học
+lecture
+Bài giảng
+study
+Học
+subject
+Môn học
+mathematics
+Toán học
+science
+Khoa học
+biology
+Sinh học
+chemistry
+Hóa học
+physics
+Vật lý
+history
+Lịch sử
+geography
+Địa lý
+language
+Ngôn ngữ
+literature
+Văn học
+art
+Nghệ thuật
+music
+Âm nhạc
+sport
+Thể thao
+football
+Bóng đá
+basketball
+Bóng rổ
+tennis
+Quần vợt
+volleyball
+Bóng chuyền
+swimming
+Bơi lội
+running
+Chạy bộ
+exercise
+Tập thể dục
+healthy
+Khỏe mạnh
+fitness
+Sức khỏe
+nutrition
+Dinh dưỡng
+diet
+Chế độ ăn uống
+food
+Thức ăn
+breakfast
+Bữa sáng
+lunch
+Bữa trưa
+dinner
+Bữa tối
+snack
+Ăn vặt
+fruit
+Trái cây
+vegetable
+Rau củ
+meat
+Thịt
+chicken
+Gà
+beef
+Thịt bò
+pork
+Thịt lợn
+fish
+Cá
+seafood
+Hải sản
+rice
+Gạo
+noodle
+Mì
+bread
+Bánh mì
+cheese
+Phô mai
+milk
+Sữa
+yogurt
+Sữa chua
+coffee
+Cà phê
+tea
+Trà
+water
+Nước
+juice
+Nước trái cây
+soda
+Nước ngọt
+alcohol
+Rượu
+beer
+Bia
+wine
+Rượu vang
+whisky
+Rượu whisky
+vodka
+Rượu vodka
+rum
+Rượu rum
+gin
+Rượu gin
+cocktail
+Cocktail
+martini
+Rượu martini
+champagne
+Rượu sâm banh
+sparkling wine
+Rượu vang sủi
+bottle
+Chai
+glass
+Ly
+cup
+Cốc
+plate
+Đĩa
+bowl
+Tô
+fork
+Nĩa
+spoon
+Thìa
+knife
+Dao
+chopsticks
+Đũa
+napkin
+Khăn lụa
+tablecloth
+Khăn trải bàn
+apron
+Tạp dề
+oven
+Lò nướng
+stove
+Bếp lò
+microwave
+Lò vi sóng
+refrigerator
+Tủ lạnh
+freezer
+Tủ đông
+pan
+Chảo
+pot
+Nồi
+baking tray
+Khay nướng bánh
+grill
+Vỉ nướng
+blender
+Máy xay sinh tố
+mixer
+Máy trộn
+toaster
+Máy nướng bánh mì
+kettle
+Ấm đun nước
+teapot
+Ấm pha trà
+cutting board
+Đục thịt
+kitchen knife
+Dao bếp
+rolling pin
+Cái cán bột
+measuring cup
+Cốc đo
+recipe
+Công thức nấu ăn
+cooking
+Nấu ăn
+baking
+Nướng bánh
+grilling
+Nướng
+frying
+Chiên
+boiling
+Luộc
+steaming
+Hấp
+sautéing
+Xào
+roasting
+Nướng
+shopping
+Mua sắm
+store
+Cửa hàng
+mall
+Trung tâm mua sắm
+market
+Chợ
+shop
+Cửa hàng
+boutique
+Cửa hàng thời trang
+department store
+Siêu thị
+supermarket
+Siêu thị
+grocery store
+Cửa hàng tạp hóa
+pharmacy
+Nhà thuốc
+bookstore
+Hiệu sách
+stationery store
+Cửa hàng văn phòng phẩm
+clothing store
+Cửa hàng quần áo
+shoe store
+Cửa hàng giày
+jewelry store
+Cửa hàng trang sức
+electronics store
+Cửa hàng điện tử
+hardware store
+Cửa hàng dụng cụ cơ khí
+furniture store
+Cửa hàng đồ nội thất
+home appliance store
+Cửa hàng đồ gia dụng
+pet store
+Cửa hàng thú cưng
+toy store
+Cửa hàng đồ chơi
+sports store
+Cửa hàng thể thao
+music store
+Cửa hàng nhạc cụ
+stationery
+Văn phòng phẩm
+pen
+Bút
+pencil
+Bút chì
+notebook
+Sổ tay
+paper
+Giấy
+folder
+Hồ sơ
+stapler
+Bấm kim
+tape
+Băng dính
+scissors
+Kéo
+ruler
+Thước kẻ
+calculator
+Máy tính bỏ túi
+backpack
+Ba lô
+briefcase
+Cặp sách
+wallet
+Ví
+purse
+Túi xách
+handbag
+Túi xách
+credit card
+Thẻ tín dụng
+cash
+Tiền mặt
+coin
+Tiền xu
+receipt
+Biên lai
+price tag
+Nhãn giá
+sale
+Bán hàng
+discount
+Giảm giá
+offer
+Ưu đãi
+promotion
+Khuyến mãi
+shopping cart
+Xe đẩy mua sắm
+basket
+Giỏ hàng
+checkout
+Quầy thanh toán
+cashier
+Thu ngân
+queue
+Hàng đợi
+customer
+Khách hàng
+shopper
+Người mua sắm
+browse
+Xem hàng
+try on
+Thử đồ
+purchase
+Mua
+buy
+Mua
+sell
+Bán
+return
+Trả lại
+exchange
+Đổi hàng
+refund
+Hoàn tiền
+receipt
+Biên lai
+bag
+Túi
+gift
+Quà tặng
+voucher
+Phiếu quà tặng
+online shopping
+Mua sắm trực tuyến
+website
+Trang web
+online store
+Cửa hàng trực tuyến
+add to cart
+Thêm vào giỏ hàng
+checkout
+Thanh toán
+shipping
+Vận chuyển
+delivery
+Giao hàng
+billing address
+Địa chỉ thanh toán
+shipping address
+Địa chỉ nhận hàng
+wishlist
+Danh sách mong muốn
+baking powder
+Bột nở
+yeast
+Men nở
+flour
+Bột mì
+sugar
+Đường
+salt
+Muối
+pepper
+Tiêu
+oil
+Dầu
+butter
+Bơ
+cream
+Sữa kem
+margarine
+Bơ đậu phộng
+vinegar
+Giấm
+soy sauce
+Nước tương
+mustard
+Mù tạt
+ketchup
+Sốt cà chua
+mayonnaise
+Sốt mayonnaise
+honey
+Mật ong
+jam
+Mứt
+syrup
+Si-rô
+chocolate
+Socola
+vanilla
+Hoa vani
+cinnamon
+Bột quế
+ginger
+Gừng
+garlic
+Tỏi
+onion
+Hành tây
+bell pepper
+Ớt chuông
+chili pepper
+Ớt cay
+basil
+Húng quế
+cilantro
+Mùi
+parsley
+Rau mùi
+thyme
+Rau thơm
+rosemary
+Rau mùi hương
+oregano
+Rau húng quế
+mint
+Rau bạc hà
+lettuce
+Rau diếp
+spinach
+Rau cải
+kale
+Rau cải bắp
+cabbage
+Bắp cải
+broccoli
+Bông cải xanh
+cauliflower
+Bông cải
+carrot
+Cà rốt
+celery
+Cần tây
+cucumber
+Dưa leo
+tomato
+Cà chua
+potato
+Khoai tây
+sweet potato
+Khoai lang
+onion
+Hành tây
+garlic
+Tỏi
+leek
+Củ hành tây
+beetroot
+Củ dền
+radish
+Củ cải
+turnip
+Củ cải trắng
+parsnip
+Củ mần rợp
+zucchini
+Bí ngô
+pumpkin
+Bí ngô hạt lựu
+butternut squash
+Bí đỏ
+acorn squash
+Bí vàng
+cabbage
+Bắp cải
+broccoli
+Bông cải xanh
+cauliflower
+Bông cải
+artichoke
+Atiso
+asparagus
+Măng tây
+eggplant
+Cà tím
+green beans
+Đậu cô ve xanh
+snow peas
+Đậu Hà Lan
+snap peas
+Đậu Hà Lan bao
+bell pepper
+Ớt chuông
+chili pepper
+Ớt cay
+jalapeno
+Ớt jalapeno
+habanero
+Ớt habanero
+mushroom
+Nấm
+button mushroom
+Nấm bào ngư
+shiitake mushroom
+Nấm linh chi
+oyster mushroom
+Nấm hải sản
+portobello mushroom
+Nấm mỡ
+truffle
+Nấm truffle
+chive
+Rau hẹ
+green onion
+Hành lá
+coriander
+Ngò
+dill
+Rau thì là
+chive
+Rau hẹ
+rosemary
+Rau mùi hương
+thyme
+Rau thơm
+oregano
+Rau húng quế
+sage
+Rau mùi
+fennel
+Hành hương
+bay leaf
+Lá nguyệt quế
+clove
+Hoa hồi
+star anise
+Đại hồi
+saffron
+Nhụy hoa nghệ tây
+cardamom
+Bột thảo quả
+cumin
+Tiêu hạt
+coriander
+Hạt ngò
+turmeric
+Nghệ
+paprika
+Ớt bột
+cayenne pepper
+Ớt bột cayenne
+wasabi
+Wasabi
+horseradish
+Cải ngựa
+cayenne pepper
+Ớt bột cayenne
+jalapeno
+Ớt jalapeno
+chili powder
+Bột ớt
+soy milk
+Sữa đậu nành
+almond milk
+Sữa hạnh nhân
+coconut milk
+Sữa dừa
+rice milk
+Sữa gạo
+oat milk
+Sữa yến mạch
+cashew milk
+Sữa hạt điều
+flaxseed milk
+Sữa hạt lanh
+hemp milk
+Sữa hạt gai
+grain
+Ngũ cốc
+cereal
+Ngũ cốc sáng
+granola
+Granola
+porridge
+Bánh mì ngũ cốc
+rice
+Gạo
+brown rice
+Gạo lứt
+white rice
+Gạo trắng
+quinoa
+Hạt chia
+barley
+Lúa mạch
+oats
+Yến mạch
+pasta
+Mì ống
+spaghetti
+Mì spaghetti
+macaroni
+Mì ống nhỏ
+penne
+Mì ống lỡ
+fettuccine
+Mì ngắn
+lasagna
+Mì ống to
+noodles
+Mì sợi
+ramen
+Mì ramen
+soba
+Mì soba
+udon
+Mì udon
+vermicelli
+Bún
+rice noodles
+Bún gạo
+egg noodles
+Mì trứng
+pho
+Phở
+pizza
+Bánh pizza
+hamburger
+Bánh hamburger
+hot dog
+Xúc xích
+sandwich
+Bánh mì sandwich
+taco
+Taco
+burrito
+Burrito
+quesadilla
+Bánh quesadilla
+sushi
+Sushi
+sashimi
+Sashimi
+tempura
+Tempura
+ramen
+Mì ramen
+pho
+Phở
+spring roll
+Gỏi cuốn
+egg roll
+Chả giò trứng
+pancake
+Bánh bột lúa mạch
+waffle
+Bánh waffle
+crepe
+Bánh crepe
+french toast
+Bánh nướng
+muffin
+Bánh mì ngọt
+croissant
+Bánh croissant
+bagel
+Bánh mì quấn
+donut
+Bánh donut
+cake
+Bánh bông lan
+cupcake
+Bánh cupcake
+pie
+Bánh pie
+tart
+Bánh tart
+cookie
+Bánh quy
+brownie
+Bánh brownie
+biscuit
+Bánh quy
+scone
+Bánh ngọt Anh
+candy
+Kẹo
+chocolate
+Sô cô la
+lollipop
+Kẹo mút
+gum
+Kẹo cao su
+caramel
+Kẹo caramen
+toffee
+Kẹo đậu
+fudge
+Kẹo fudge
+marshmallow
+Kẹo dẻo
+hard candy
+Kẹo cứng
+soft candy
+Kẹo mềm
+jelly beans
+Kẹo dẻo
+gummy bears
+Gấu dẻo
+gummy worms
+Sâu dẻo
+licorice
+Kẹo cây cỏ
+peanut brittle
+Kẹo đậu phộng giòn
+cotton candy
+Kẹo bông gòn
+rock candy
+Kẹo đá
+butterscotch
+Kẹo sữa bơ
+tiramisu
+Bánh tiramisu
+cheesecake
+Bánh phô mai
+apple pie
+Bánh táo
+cherry pie
+Bánh anh đào
+blueberry pie
+Bánh việt quất
+key lime pie
+Bánh chanh
+lemon meringue pie
+Bánh chanh kem trứng
+banana bread
+Bánh mì chuối
+zucchini bread
+Bánh mì bí ngô
+carrot cake
+Bánh cà rốt
+red velvet cake
+Bánh red velvet
+pound cake
+Bánh quả nặng
+angel food cake
+Bánh thiên thần
+bundt cake
+Bánh gỗ
+coffee cake
+Bánh cà phê
+sponge cake
+Bánh sponge
+layer cake
+Bánh lớp
+ice cream cake
+Bánh kem
+wedding cake
+Bánh cưới
+birthday cake
+Bánh sinh nhật
+cupcake
+Bánh cupcake
+frosting
+Kem đánh bông
+icing
+Kem trang trí
+whipped cream
+Kem tươi
+chocolate sauce
+Sốt sô cô la
+caramel sauce
+Sốt caramen
+fruit sauce
+Sốt trái cây
+strawberry sauce
+Sốt dâu
+blueberry sauce
+Sốt việt quất
+raspberry sauce
+Sốt dâu tây
+cherry sauce
+Sốt anh đào
+apple sauce
+Sốt táo
+lemon curd
+Sốt chanh
+caramelized sugar
+Đường đun nâu
+vanilla extract
+Cây vani
+almond extract
+Cây hạnh nhân
+peppermint extract
+Cây bạc hà
+food coloring
+Màu thực phẩm
+sprinkles
+Hạt màu
+chocolate chips
+Thỏi sô cô la
+cocoa powder
+Bột cacao
+coconut flakes
+Dừa sợi
+nuts
+Hạt hạnh nhân
+almonds
+Hạt hạnh nhân
+cashews
+Hạt điều
+walnuts
+Hạt óc chó
+pecans
+Hạt hồ đào
+pistachios
+Hạt dừa
+macadamia nuts
+Hạt macca
+peanuts
+Hạt đậu phộng
+hazelnuts
+Hạt hạnh nhân
+chestnuts
+Hạt dẻ cười
+brazil nuts
+Hạt hồ đào Brazil
+seeds
+Hạt giống
+chia seeds
+Hạt chia
+flax seeds
+Hạt lanh
