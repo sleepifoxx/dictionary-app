@@ -57,7 +57,7 @@ class DictionaryManagerBasic {
         System.out.println("Nhap tu can tra nghia Tieng Viet: ");
         String word_target = scanner.nextLine().toLowerCase(); // Chuyển từ cần tìm tiếng anh thành in thường
         if (dictionary.words.get(word_target) == null) {
-            String word_explain = GoogleAPI.translating(word_target);
+            String word_explain = GoogleAPI.translate("en", "vi", word_target);
             System.out.println("Nghia tieng Viet: ");
             System.out.println(word_explain);
             dictionary.words.put(word_target, word_explain);
