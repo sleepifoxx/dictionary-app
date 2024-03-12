@@ -1,1724 +1,1112 @@
-apple
-Quả táo
-orange
-Quả cam
-water
-Nước
-food
-Thức ăn
-drink
-Đồ uống
-music
-Âm nhạc
-movie theater
-Rạp chiếu phim
-hospital
-Bệnh viện
-doctor
-Bác sĩ
-nurse
-Y tá
-police
-Cảnh sát
-fire
-Lửa
-watermelon
-Dưa hấu
-lemon
-Quả chanh
-strawberry
-Dâu
-beach
-Bãi biển
-sun
-Mặt trời
-moon
-Mặt trăng
-stars
-Ngôi sao
-cloud
-Mây
-rain
-Mưa
-snow
-Tuyết
-summer
-Mùa hè
-winter
-Mùa đông
-spring
-Mùa xuân
-autumn
-Mùa thu
-tree
-Cây
-flower
-Hoa
-grass
-Cỏ
-sky
-Bầu trời
-earth
-Trái đất
-mountain
-Núi
-river
-Sông
-lake
-Hồ
-ocean
-Đại dương
-fish
-Cá
-bird
-Chim
-dog
-Chó
-cat
-Mèo
-elephant
-Voi
-lion
-Sư tử
-tiger
-Hổ
-monkey
-Khỉ
-bear
-Gấu
-horse
-Ngựa
-rabbit
-Thỏ
-snake
-Rắn
-turtle
-Rùa
-crocodile
-Cá sấu
-giraffe
-Hươu cao cổ
-zebra
-Ngựa vằn
-kangaroo
-Kangaroo
-penguin
-Chim cánh cụt
-seal
-Hải cẩu
-dolphin
-Cá heo
-whale
-Cá voi
-shark
-Cá mập
-octopus
-Bạch tuộc
-squid
-Mực
-crab
-Cua
-lobster
-Tôm hùm
-shrimp
-Tôm
-starfish
-Sao biển
-coral
-San hô
-jellyfish
-Sứa
-oyster
-Hàu
-mussel
-Con trai
-snail
-Ốc sên
-ant
-Kiến
-bee
-Ong
-butterfly
-Bướm
-fly
-Ruồi
-mosquito
-Muỗi
-spider
-Nhện
-snail
-Ốc sên
-earthworm
-Sâu đất
-slug
-Sâu truồi
-ladybug
-Bọ rùa
-dragonfly
-Chuồn chuồn
-grasshopper
-Dế
-cockroach
-Gián
-beetle
-Bọ cánh cứng
-antelope
-Hươu sao
-buffalo
-Trâu
-camel
-Lạc đà
-deer
-Nai
-elephant
-Voi
-giraffe
-Hươu cao cổ
-hippopotamus
-Hà mã
-kangaroo
-Kangaroo
-koala
-Gấu túi
-leopard
-Báo
-lion
-Sư tử
-monkey
-Khỉ
-panda
-Gấu trúc
-rhinoceros
-Tê giác
-tiger
-Hổ
-wolf
-Sói
-zebra
-Ngựa vằn
-bat
-Dơi
-bear
-Gấu
-bird
-Chim
-butterfly
-Bướm
-camel
-Lạc đà
-cat
-Mèo
-cow
-Bò
-dog
-Chó
-donkey
-Lừa
-elephant
-Voi
-goat
-Dê
-horse
-Ngựa
-lion
-Sư tử
-monkey
-Khỉ
-mouse
-Chuột
-pig
-Heo
-rabbit
-Thỏ
-rat
-Chuột
-sheep
-Cừu
-tiger
-Hổ
-bull
-Bò đực
-calf
-Con bê
-chicken
-Gà
-duck
-Vịt
-goose
-Ngỗng
-hen
-Gà mái
-rooster
-Gà trống
-turkey
-Gà tây
-crab
-Cua
-lobster
-Tôm hùm
-octopus
-Bạch tuộc
-shrimp
-Tôm
-starfish
-Sao biển
-blue whale
-Cá voi xanh
-dolphin
-Cá heo
-killer whale
-Cá voi sát thủ
-narwhal
-Sứa còn
-whale shark
-Cá voi cá mập
-bird
-Chim
-budgie
-Vẹt nhỏ
-canary
-Chim yến
-cockatiel
-Vẹt sẻ
-parrot
-Vẹt
-pigeon
-Chim bồ câu
-penguin
-Chim cánh cụt
-robin
-Chim sẻ
-budgie
-Vẹt nhỏ
-canary
-Chim yến
-cockatiel
-Vẹt sẻ
-parrot
-Vẹt
-pigeon
-Chim bồ câu
-robin
-Chim sẻ
-butterfly
-Bướm
-dragonfly
-Chuồn chuồn
-firefly
-Bọ rùa
-mosquito
-Muỗi
-ant
-Kiến
-bee
-Ong
-grasshopper
-Dế
-ladybug
-Bọ rùa
-beetle
-Bọ cánh cứng
-fly
-Ruồi
-moth
-Bướm đêm
-spider
-Nhện
-tarantula
-Nhện lông
-earthworm
-Sâu đất
-slug
-Sâu truồi
-amphibian
-Động vật lưỡng cư
-frog
-Ếch
-salamander
-Salamander
-toad
-Ếch cóc
-turtle
-Rùa
-chameleon
-Tắc kè hoa
-crocodile
-Cá sấu
-dinosaur
-Khủng long
-alligator
-Cá sấu Mississippi
-Komodo dragon
-Varan Komodo
-lizard
-Thằn lằn
-snake
-Rắn
-anaconda
-Anaconda
-cobra
-Rắn hổ mang
-python
-Rắn san hô
-viper
-Rắn độc
-turtle
-Rùa
-tortoise
-Rùa đất
-bird
-Chim
-albatross
-Chim albatross
-bluebird
-Chim xanh
-canary
-Chim yến
-chickadee
-Chim mào đen
-crow
-Con quạ
-dove
-Chim bồ câu
-duck
-Vịt
-eagle
-Đại bàng
-falcon
-Sơn đầu
-flamingo
-Hồng hạc
-goose
-Ngỗng
-hawk
-Hắc
-hummingbird
-Chim ruồi
-kiwi
-Chim kiwi
-macaw
-Vẹt mào cầm
-magpie
-Quạ
-nightingale
-Chim đêm
-ostrich
-Đà điểu
-owl
-Con cú
-parakeet
-Vẹt con
-parrot
-Vẹt
-peacock
-Công
-pelican
-Cá heo
-penguin
-Chim cánh cụt
-pigeon
-Chim bồ câu
-robin
-Chim sẻ
-seagull
-Chim hải âu
-sparrow
-Chim sẻ
-swan
-Thiên nga
-woodpecker
-Chim gõ kiến
-bee
-Ong
-ant
-Kiến
-mosquito
-Muỗi
-butterfly
-Bướm
-caterpillar
-Sâu bướm
-dragonfly
-Chuồn chuồn
-grasshopper
-Dế
-ladybug
-Bọ rùa
-beetle
-Bọ cánh cứng
-fly
-Ruồi
-moth
-Bướm đêm
-spider
-Nhện
-tarantula
-Nhện lông
-earthworm
-Sâu đất
-slug
-Sâu truồi
-whale
-Cá voi
-dolphin
-Cá heo
-shark
-Cá mập
-octopus
-Bạch tuộc
-squid
-Mực
-crab
-Cua
-lobster
-Tôm hùm
-shrimp
-Tôm
-starfish
-Sao biển
-coral
-San hô
-jellyfish
-Sứa
-oyster
-Hàu
-mussel
-Con trai
-snail
-Ốc sên
-ant
-Kiến
-bee
-Ong
-butterfly
-Bướm
-fly
-Ruồi
-mosquito
-Muỗi
-spider
-Nhện
-snail
-Ốc sên
-earthworm
-Sâu đất
-slug
-Sâu truồi
-ladybug
-Bọ rùa
-dragonfly
-Chuồn chuồn
-grasshopper
-Dế
-cockroach
-Gián
-beetle
-Bọ cánh cứng
-antelope
-Hươu sao
-buffalo
-Trâu
-camel
-Lạc đà
-deer
-Nai
-elephant
-Voi
-giraffe
-Hươu cao cổ
-hippopotamus
-Hà mã
-kangaroo
-Kangaroo
-koala
-Gấu túi
-leopard
-Báo
-lion
-Sư tử
-monkey
-Khỉ
-mouse
-Chuột
-pig
-Heo
-rabbit
-Thỏ
-rat
-Chuột
-sheep
-Cừu
-tiger
-Hổ
-bull
-Bò đực
-calf
-Con bê
-chicken
-Gà
-duck
-Vịt
-goose
-Ngỗng
-hen
-Gà mái
-rooster
-Gà trống
-turkey
-Gà tây
-crab
-Cua
-lobster
-Tôm hùm
-octopus
-Bạch tuộc
-shrimp
-Tôm
-starfish
-Sao biển
-blue whale
-Cá voi xanh
-dolphin
-Cá heo
-killer whale
-Cá voi sát thủ
-narwhal
-Sứa còn
-whale shark
-Cá voi cá mập
-bird
-Chim
-budgie
-Vẹt nhỏ
-canary
-Chim yến
-cockatiel
-Vẹt sẻ
-parrot
-Vẹt
-pigeon
-Chim bồ câu
-penguin
-Chim cánh cụt
-seal
-Hải cẩu
-dolphin
-Cá heo
-whale
-Cá voi
-shark
-Cá mập
-octopus
-Bạch tuộc
-squid
-Mực
-crab
-Cua
-lobster
-Tôm hùm
-shrimp
-Tôm
-starfish
-Sao biển
-coral
-San hô
-jellyfish
-Sứa
-oyster
-Hàu
-mussel
-Con trai
-snail
-Ốc sên
-ant
-Kiến
-bee
-Ong
-butterfly
-Bướm
-fly
-Ruồi
-mosquito
-Muỗi
-spider
-Nhện
-snail
-Ốc sên
-earthworm
-Sâu đất
-slug
-Sâu truồi
-ladybug
-Bọ rùa
-dragonfly
-Chuồn chuồn
-grasshopper
-Dế
-cockroach
-Gián
-beetle
-Bọ cánh cứng
-antelope
-Hươu sao
-buffalo
-Trâu
-camel
-Lạc đà
-deer
-Nai
-elephant
-Voi
-giraffe
-Hươu cao cổ
-hippopotamus
-Hà mã
-kangaroo
-Kangaroo
-koala
-Gấu túi
-leopard
-Báo
-lion
-Sư tử
-monkey
-Khỉ
-mouse
-Chuột
-pig
-Heo
-rabbit
-Thỏ
-rat
-Chuột
-sheep
-Cừu
-tiger
-Hổ
-bull
-Bò đực
-calf
-Con bê
-chicken
-Gà
-duck
-Vịt
-goose
-Ngỗng
-hen
-Gà mái
-rooster
-Gà trống
-turkey
-Gà tây
-crab
-Cua
-lobster
-Tôm hùm
-octopus
-Bạch tuộc
-shrimp
-Tôm
-starfish
-Sao biển
-blue whale
-Cá voi xanh
-dolphin
-Cá heo
-killer whale
-Cá voi sát thủ
-narwhal
-Sứa còn
-whale shark
-Cá voi cá mập
-bird
-Chim
-budgie
-Vẹt nhỏ
-canary
-Chim yến
-cockatiel
-Vẹt sẻ
-parrot
-Vẹt
-pigeon
-Chim bồ câu
-penguin
-Chim cánh cụt
-seal
-Hải cẩu
-dolphin
-Cá heo
-whale
-Cá voi
-shark
-Cá mập
-octopus
-Bạch tuộc
-squid
-Mực
-crab
-Cua
-lobster
-Tôm hùm
-shrimp
-Tôm
-starfish
-Sao biển
-coral
-San hô
-jellyfish
-Sứa
-oyster
-Hàu
-mussel
-Con trai
-snail
-Ốc sên
-ant
-Kiến
-bee
-Ong
-butterfly
-Bướm
-fly
-Ruồi
-mosquito
-Muỗi
-spider
-Nhện
-snail
-Ốc sên
-earthworm
-Sâu đất
-slug
-Sâu truồi
-ladybug
-Bọ rùa
-dragonfly
-Chuồn chuồn
-grasshopper
-Dế
-cockroach
-Gián
-beetle
-Bọ cánh cứng
-antelope
-Hươu sao
-buffalo
-Trâu
-camel
-Lạc đà
-deer
-Nai
-elephant
-Voi
-giraffe
-Hươu cao cổ
-hippopotamus
-Hà mã
-kangaroo
-Kangaroo
-koala
-Gấu túi
-leopard
-Báo
-lion
-Sư tử
-monkey
-Khỉ
-mouse
-Chuột
-pig
-Heo
-rabbit
-Thỏ
-rat
-Chuột
-sheep
-Cừu
-tiger
-Hổ
-bull
-Bò đực
-calf
-Con bê
-chicken
-Gà
-duck
-Vịt
-goose
-Ngỗng
-hen
-Gà mái
-rooster
-Gà trống
-turkey
-Gà tây
-crab
-Cua
-lobster
-Tôm hùm
-octopus
-Bạch tuộc
-shrimp
-Tôm
-starfish
-Sao biển
-blue whale
-Cá voi xanh
-dolphin
-Cá heo
-killer whale
-Cá voi sát thủ
-narwhal
-Sứa còn
-whale shark
-Cá voi cá mập
-knowledge
-Kiến thức
-wisdom
-Trí tuệ
-learning
-Học tập
-education
-Giáo dục
-school
-Trường học
-teacher
-Giáo viên
-student
-Học sinh, sinh viên
-university
-Đại học
-college
-Cao đẳng
-classroom
-Lớp học
-lesson
-Bài học
-lecture
-Bài giảng
-study
-Học
-subject
-Môn học
-mathematics
-Toán học
-science
-Khoa học
-biology
-Sinh học
-chemistry
-Hóa học
-physics
-Vật lý
-history
-Lịch sử
-geography
-Địa lý
-language
-Ngôn ngữ
-literature
-Văn học
-art
-Nghệ thuật
-music
-Âm nhạc
-sport
-Thể thao
-football
-Bóng đá
-basketball
-Bóng rổ
-tennis
-Quần vợt
-volleyball
-Bóng chuyền
-swimming
-Bơi lội
-running
-Chạy bộ
-exercise
-Tập thể dục
-healthy
-Khỏe mạnh
-fitness
-Sức khỏe
-nutrition
-Dinh dưỡng
-diet
-Chế độ ăn uống
-food
-Thức ăn
-breakfast
-Bữa sáng
-lunch
-Bữa trưa
-dinner
-Bữa tối
-snack
-Ăn vặt
-fruit
-Trái cây
-vegetable
-Rau củ
-meat
-Thịt
-chicken
-Gà
-beef
-Thịt bò
-pork
-Thịt lợn
-fish
-Cá
-seafood
-Hải sản
-rice
-Gạo
-noodle
-Mì
-bread
-Bánh mì
-cheese
-Phô mai
-milk
-Sữa
-yogurt
-Sữa chua
-coffee
-Cà phê
-tea
-Trà
-water
-Nước
-juice
-Nước trái cây
-soda
-Nước ngọt
-alcohol
-Rượu
-beer
-Bia
-wine
-Rượu vang
-whisky
-Rượu whisky
-vodka
-Rượu vodka
-rum
-Rượu rum
-gin
-Rượu gin
-cocktail
-Cocktail
-martini
-Rượu martini
-champagne
-Rượu sâm banh
-sparkling wine
-Rượu vang sủi
-bottle
-Chai
-glass
-Ly
-cup
-Cốc
-plate
-Đĩa
-bowl
-Tô
-fork
-Nĩa
-spoon
-Thìa
-knife
-Dao
-chopsticks
-Đũa
-napkin
-Khăn lụa
-tablecloth
-Khăn trải bàn
-apron
-Tạp dề
-oven
-Lò nướng
-stove
-Bếp lò
-microwave
-Lò vi sóng
-refrigerator
-Tủ lạnh
-freezer
-Tủ đông
-pan
-Chảo
-pot
-Nồi
-baking tray
-Khay nướng bánh
-grill
-Vỉ nướng
-blender
-Máy xay sinh tố
-mixer
-Máy trộn
-toaster
-Máy nướng bánh mì
-kettle
-Ấm đun nước
-teapot
-Ấm pha trà
-cutting board
-Đục thịt
-kitchen knife
-Dao bếp
-rolling pin
-Cái cán bột
-measuring cup
-Cốc đo
-recipe
-Công thức nấu ăn
-cooking
-Nấu ăn
-baking
-Nướng bánh
-grilling
-Nướng
-frying
-Chiên
-boiling
-Luộc
-steaming
-Hấp
-sautéing
-Xào
-roasting
-Nướng
-shopping
-Mua sắm
-store
-Cửa hàng
-mall
-Trung tâm mua sắm
-market
-Chợ
-shop
-Cửa hàng
-boutique
-Cửa hàng thời trang
-department store
-Siêu thị
-supermarket
-Siêu thị
-grocery store
-Cửa hàng tạp hóa
-pharmacy
-Nhà thuốc
-bookstore
-Hiệu sách
-stationery store
-Cửa hàng văn phòng phẩm
-clothing store
-Cửa hàng quần áo
-shoe store
-Cửa hàng giày
-jewelry store
-Cửa hàng trang sức
-electronics store
-Cửa hàng điện tử
-hardware store
-Cửa hàng dụng cụ cơ khí
-furniture store
-Cửa hàng đồ nội thất
-home appliance store
-Cửa hàng đồ gia dụng
-pet store
-Cửa hàng thú cưng
-toy store
-Cửa hàng đồ chơi
-sports store
-Cửa hàng thể thao
-music store
-Cửa hàng nhạc cụ
-stationery
-Văn phòng phẩm
-pen
-Bút
-pencil
-Bút chì
-notebook
-Sổ tay
-paper
-Giấy
-folder
-Hồ sơ
-stapler
-Bấm kim
-tape
-Băng dính
-scissors
-Kéo
-ruler
-Thước kẻ
-calculator
-Máy tính bỏ túi
-backpack
-Ba lô
-briefcase
-Cặp sách
-wallet
-Ví
-purse
-Túi xách
-handbag
-Túi xách
-credit card
-Thẻ tín dụng
-cash
-Tiền mặt
-coin
-Tiền xu
-receipt
-Biên lai
-price tag
-Nhãn giá
-sale
-Bán hàng
-discount
-Giảm giá
-offer
-Ưu đãi
-promotion
-Khuyến mãi
-shopping cart
-Xe đẩy mua sắm
-basket
-Giỏ hàng
-checkout
-Quầy thanh toán
-cashier
-Thu ngân
-queue
-Hàng đợi
-customer
-Khách hàng
-shopper
-Người mua sắm
-browse
-Xem hàng
-try on
-Thử đồ
-purchase
-Mua
-buy
-Mua
-sell
-Bán
-return
-Trả lại
-exchange
-Đổi hàng
-refund
-Hoàn tiền
-receipt
-Biên lai
-bag
-Túi
-gift
-Quà tặng
-voucher
-Phiếu quà tặng
-online shopping
-Mua sắm trực tuyến
-website
-Trang web
-online store
-Cửa hàng trực tuyến
-add to cart
-Thêm vào giỏ hàng
-checkout
-Thanh toán
-shipping
-Vận chuyển
-delivery
-Giao hàng
-billing address
-Địa chỉ thanh toán
-shipping address
-Địa chỉ nhận hàng
-wishlist
-Danh sách mong muốn
-baking powder
-Bột nở
-yeast
-Men nở
-flour
-Bột mì
-sugar
-Đường
-salt
-Muối
-pepper
-Tiêu
-oil
-Dầu
-butter
-Bơ
-cream
-Sữa kem
-margarine
-Bơ đậu phộng
-vinegar
-Giấm
-soy sauce
-Nước tương
-mustard
-Mù tạt
-ketchup
-Sốt cà chua
-mayonnaise
-Sốt mayonnaise
-honey
-Mật ong
-jam
-Mứt
-syrup
-Si-rô
-chocolate
-Socola
-vanilla
-Hoa vani
-cinnamon
-Bột quế
-ginger
-Gừng
-garlic
-Tỏi
-onion
-Hành tây
-bell pepper
-Ớt chuông
-chili pepper
-Ớt cay
-basil
-Húng quế
-cilantro
-Mùi
-parsley
-Rau mùi
-thyme
-Rau thơm
-rosemary
-Rau mùi hương
-oregano
-Rau húng quế
-mint
-Rau bạc hà
-lettuce
-Rau diếp
-spinach
-Rau cải
-kale
-Rau cải bắp
-cabbage
-Bắp cải
-broccoli
-Bông cải xanh
-cauliflower
-Bông cải
-carrot
-Cà rốt
-celery
-Cần tây
-cucumber
-Dưa leo
-tomato
-Cà chua
-potato
-Khoai tây
 sweet potato
 Khoai lang
-onion
-Hành tây
-garlic
-Tỏi
-leek
-Củ hành tây
-beetroot
-Củ dền
-radish
-Củ cải
-turnip
-Củ cải trắng
-parsnip
-Củ mần rợp
-zucchini
-Bí ngô
-pumpkin
-Bí ngô hạt lựu
-butternut squash
-Bí đỏ
-acorn squash
-Bí vàng
-cabbage
-Bắp cải
-broccoli
-Bông cải xanh
-cauliflower
-Bông cải
-artichoke
-Atiso
-asparagus
-Măng tây
-eggplant
-Cà tím
-green beans
-Đậu cô ve xanh
-snow peas
-Đậu Hà Lan
-snap peas
-Đậu Hà Lan bao
-bell pepper
-Ớt chuông
-chili pepper
-Ớt cay
-jalapeno
-Ớt jalapeno
-habanero
-Ớt habanero
-mushroom
-Nấm
-button mushroom
-Nấm bào ngư
-shiitake mushroom
-Nấm linh chi
-oyster mushroom
-Nấm hải sản
-portobello mushroom
-Nấm mỡ
-truffle
-Nấm truffle
-chive
-Rau hẹ
-green onion
-Hành lá
-coriander
-Ngò
-dill
-Rau thì là
-chive
-Rau hẹ
-rosemary
-Rau mùi hương
-thyme
-Rau thơm
-oregano
-Rau húng quế
-sage
-Rau mùi
-fennel
-Hành hương
-bay leaf
-Lá nguyệt quế
-clove
-Hoa hồi
-star anise
-Đại hồi
-saffron
-Nhụy hoa nghệ tây
-cardamom
-Bột thảo quả
-cumin
-Tiêu hạt
-coriander
-Hạt ngò
-turmeric
-Nghệ
-paprika
-Ớt bột
-cayenne pepper
-Ớt bột cayenne
-wasabi
-Wasabi
-horseradish
-Cải ngựa
-cayenne pepper
-Ớt bột cayenne
-jalapeno
-Ớt jalapeno
-chili powder
-Bột ớt
-soy milk
-Sữa đậu nành
-almond milk
-Sữa hạnh nhân
-coconut milk
-Sữa dừa
-rice milk
-Sữa gạo
-oat milk
-Sữa yến mạch
-cashew milk
-Sữa hạt điều
-flaxseed milk
-Sữa hạt lanh
-hemp milk
-Sữa hạt gai
-grain
-Ngũ cốc
-cereal
-Ngũ cốc sáng
-granola
-Granola
-porridge
-Bánh mì ngũ cốc
-rice
-Gạo
-brown rice
-Gạo lứt
-white rice
-Gạo trắng
-quinoa
-Hạt chia
-barley
-Lúa mạch
-oats
-Yến mạch
-pasta
-Mì ống
-spaghetti
-Mì spaghetti
-macaroni
-Mì ống nhỏ
-penne
-Mì ống lỡ
-fettuccine
-Mì ngắn
-lasagna
-Mì ống to
-noodles
-Mì sợi
-ramen
-Mì ramen
-soba
-Mì soba
-udon
-Mì udon
-vermicelli
-Bún
-rice noodles
-Bún gạo
-egg noodles
-Mì trứng
-pho
-Phở
-pizza
-Bánh pizza
+toy store
+Cửa hàng đồ chơi
+shoe store
+Cửa hàng giày
+sparkling wine
+Rượu vang sủi
+kangaroo
+Kangaroo
+chopsticks
+Đũa
+mussel
+Con trai
+bag
+Túi
+beef
+Thịt bò
 hamburger
 Bánh hamburger
-hot dog
-Xúc xích
-sandwich
-Bánh mì sandwich
-taco
-Taco
-burrito
-Burrito
-quesadilla
-Bánh quesadilla
-sushi
-Sushi
-sashimi
-Sashimi
-tempura
-Tempura
-ramen
-Mì ramen
-pho
-Phở
-spring roll
-Gỏi cuốn
-egg roll
-Chả giò trứng
-pancake
-Bánh bột lúa mạch
-waffle
-Bánh waffle
-crepe
-Bánh crepe
-french toast
-Bánh nướng
-muffin
-Bánh mì ngọt
-croissant
-Bánh croissant
-bagel
-Bánh mì quấn
-donut
-Bánh donut
-cake
-Bánh bông lan
-cupcake
-Bánh cupcake
-pie
-Bánh pie
-tart
-Bánh tart
-cookie
-Bánh quy
-brownie
-Bánh brownie
-biscuit
-Bánh quy
-scone
-Bánh ngọt Anh
-candy
-Kẹo
-chocolate
-Sô cô la
-lollipop
-Kẹo mút
-gum
-Kẹo cao su
-caramel
-Kẹo caramen
-toffee
-Kẹo đậu
-fudge
-Kẹo fudge
-marshmallow
-Kẹo dẻo
-hard candy
-Kẹo cứng
-soft candy
-Kẹo mềm
-jelly beans
-Kẹo dẻo
-gummy bears
-Gấu dẻo
-gummy worms
-Sâu dẻo
-licorice
-Kẹo cây cỏ
-peanut brittle
-Kẹo đậu phộng giòn
-cotton candy
-Kẹo bông gòn
-rock candy
-Kẹo đá
-butterscotch
-Kẹo sữa bơ
-tiramisu
-Bánh tiramisu
-cheesecake
-Bánh phô mai
-apple pie
-Bánh táo
-cherry pie
-Bánh anh đào
-blueberry pie
-Bánh việt quất
-key lime pie
-Bánh chanh
+kettle
+Ấm đun nước
+offer
+Ưu đãi
+tea
+Trà
+music
+Âm nhạc
+bat
+Dơi
+rabbit
+Thỏ
 lemon meringue pie
 Bánh chanh kem trứng
+beer
+Bia
+knowledge
+Kiến thức
+music store
+Cửa hàng nhạc cụ
+cotton candy
+Kẹo bông gòn
+rat
+Chuột
+shiitake mushroom
+Nấm linh chi
 banana bread
 Bánh mì chuối
-zucchini bread
-Bánh mì bí ngô
-carrot cake
-Bánh cà rốt
-red velvet cake
-Bánh red velvet
-pound cake
-Bánh quả nặng
-angel food cake
-Bánh thiên thần
-bundt cake
-Bánh gỗ
-coffee cake
-Bánh cà phê
-sponge cake
-Bánh sponge
-layer cake
-Bánh lớp
-ice cream cake
-Bánh kem
-wedding cake
-Bánh cưới
-birthday cake
-Bánh sinh nhật
-cupcake
-Bánh cupcake
-frosting
-Kem đánh bông
-icing
-Kem trang trí
-whipped cream
-Kem tươi
-chocolate sauce
-Sốt sô cô la
-caramel sauce
-Sốt caramen
-fruit sauce
-Sốt trái cây
-strawberry sauce
-Sốt dâu
-blueberry sauce
-Sốt việt quất
-raspberry sauce
-Sốt dâu tây
-cherry sauce
-Sốt anh đào
-apple sauce
-Sốt táo
-lemon curd
-Sốt chanh
-caramelized sugar
-Đường đun nâu
-vanilla extract
-Cây vani
-almond extract
-Cây hạnh nhân
-peppermint extract
-Cây bạc hà
-food coloring
-Màu thực phẩm
-sprinkles
-Hạt màu
-chocolate chips
-Thỏi sô cô la
+milk
+Sữa
+pancake
+Bánh bột lúa mạch
+brownie
+Bánh brownie
+lion
+Sư tử
+macaroni
+Mì ống nhỏ
+folder
+Hồ sơ
+boiling
+Luộc
+science
+Khoa học
+electronics store
+Cửa hàng điện tử
+asparagus
+Măng tây
+wine
+Rượu vang
+ketchup
+Sốt cà chua
+wasabi
+Wasabi
+button mushroom
+Nấm bào ngư
+spaghetti
+Mì spaghetti
+radish
+Củ cải
+bottle
+Chai
+tomato
+Cà chua
 cocoa powder
 Bột cacao
-coconut flakes
-Dừa sợi
-nuts
-Hạt hạnh nhân
-almonds
-Hạt hạnh nhân
+pork
+Thịt lợn
+swimming
+Bơi lội
+mint
+Rau bạc hà
+parsley
+Rau mùi
+stationery store
+Cửa hàng văn phòng phẩm
+dove
+Chim bồ câu
+grass
+Cỏ
+rolling pin
+Cái cán bột
+almond extract
+Cây hạnh nhân
+parsnip
+Củ mần rợp
+chemistry
+Hóa học
+seafood
+Hải sản
+website
+Trang web
+salt
+Muối
+almond milk
+Sữa hạnh nhân
+food
+Thức ăn
+brown rice
+Gạo lứt
+fly
+Ruồi
+handbag
+Túi xách
+sale
+Bán hàng
+police
+Cảnh sát
+pound cake
+Bánh quả nặng
+fennel
+Hành hương
+coconut milk
+Sữa dừa
+granola
+Granola
+river
+Sông
+bay leaf
+Lá nguyệt quế
+spider
+Nhện
+penguin
+Chim cánh cụt
+purse
+Túi xách
+kiwi
+Chim kiwi
+bee
+Ong
+voucher
+Phiếu quà tặng
+language
+Ngôn ngữ
+jelly beans
+Kẹo dẻo
+spring
+Mùa xuân
+baking
+Nướng bánh
+gummy bears
+Gấu dẻo
+shipping
+Vận chuyển
+waffle
+Bánh waffle
+scone
+Bánh ngọt Anh
+duck
+Vịt
+fitness
+Sức khỏe
+bird
+Chim
+shopping cart
+Xe đẩy mua sắm
+udon
+Mì udon
+fruit sauce
+Sốt trái cây
+pan
+Chảo
+chili pepper
+Ớt cay
+dolphin
+Cá heo
+baking powder
+Bột nở
+frosting
+Kem đánh bông
+knife
+Dao
+rosemary
+Rau mùi hương
+wedding cake
+Bánh cưới
+roasting
+Nướng
+jewelry store
+Cửa hàng trang sức
+freezer
+Tủ đông
+pharmacy
+Nhà thuốc
+exchange
+Đổi hàng
+sashimi
+Sashimi
+elephant
+Voi
+refrigerator
+Tủ lạnh
+deer
+Nai
+baking tray
+Khay nướng bánh
+add to cart
+Thêm vào giỏ hàng
+cinnamon
+Bột quế
+kitchen knife
+Dao bếp
+hard candy
+Kẹo cứng
+goose
+Ngỗng
+sports store
+Cửa hàng thể thao
+fudge
+Kẹo fudge
+measuring cup
+Cốc đo
+zucchini
+Bí ngô
+wisdom
+Trí tuệ
+steaming
+Hấp
+vanilla extract
+Cây vani
+apple pie
+Bánh táo
+lemon
+Quả chanh
+oyster mushroom
+Nấm hải sản
+pasta
+Mì ống
+croissant
+Bánh croissant
+lizard
+Thằn lằn
+magpie
+Quạ
+oven
+Lò nướng
+cockroach
+Gián
+syrup
+Si-rô
+dill
+Rau thì là
+football
+Bóng đá
+rice
+Gạo
+tarantula
+Nhện lông
+dinner
+Bữa tối
+scissors
+Kéo
+fork
+Nĩa
+beach
+Bãi biển
+coffee
+Cà phê
 cashews
 Hạt điều
-walnuts
-Hạt óc chó
-pecans
-Hạt hồ đào
-pistachios
-Hạt dừa
-macadamia nuts
-Hạt macca
-peanuts
-Hạt đậu phộng
-hazelnuts
-Hạt hạnh nhân
-chestnuts
-Hạt dẻ cười
-brazil nuts
-Hạt hồ đào Brazil
-seeds
-Hạt giống
+crab
+Cua
+promotion
+Khuyến mãi
+college
+Cao đẳng
+gift
+Quà tặng
+basket
+Giỏ hàng
+rock candy
+Kẹo đá
+lunch
+Bữa trưa
+education
+Giáo dục
+cilantro
+Mùi
+discount
+Giảm giá
+soy sauce
+Nước tương
+cumin
+Tiêu hạt
+ladybug
+Bọ rùa
+truffle
+Nấm truffle
+green onion
+Hành lá
+amphibian
+Động vật lưỡng cư
+butternut squash
+Bí đỏ
+tape
+Băng dính
+camel
+Lạc đà
+rhinoceros
+Tê giác
+flour
+Bột mì
+pen
+Bút
+sky
+Bầu trời
+python
+Rắn san hô
+cookie
+Bánh quy
+boutique
+Cửa hàng thời trang
+movie theater
+Rạp chiếu phim
+classroom
+Lớp học
+cream
+Sữa kem
+jalapeno
+Ớt jalapeno
+drink
+Đồ uống
+yeast
+Men nở
+leopard
+Báo
+giraffe
+Hươu cao cổ
+volleyball
+Bóng chuyền
+dog
+Chó
+bull
+Bò đực
+parrot
+Vẹt
+gum
+Kẹo cao su
+online shopping
+Mua sắm trực tuyến
+saffron
+Nhụy hoa nghệ tây
+ostrich
+Đà điểu
+albatross
+Chim albatross
+noodle
+Mì
+plate
+Đĩa
+gummy worms
+Sâu dẻo
+summer
+Mùa hè
+caterpillar
+Sâu bướm
+literature
+Văn học
+shopper
+Người mua sắm
+potato
+Khoai tây
+cherry pie
+Bánh anh đào
+nurse
+Y tá
+tart
+Bánh tart
+oat milk
+Sữa yến mạch
+shark
+Cá mập
+bread
+Bánh mì
+chocolate chips
+Thỏi sô cô la
+vinegar
+Giấm
+lemon curd
+Sốt chanh
+grasshopper
+Dế
+chickadee
+Chim mào đen
+hippopotamus
+Hà mã
+birthday cake
+Bánh sinh nhật
+pho
+Phở
+price tag
+Nhãn giá
+kale
+Rau cải bắp
+return
+Trả lại
+icing
+Kem trang trí
+white rice
+Gạo trắng
+spinach
+Rau cải
+whipped cream
+Kem tươi
+tablecloth
+Khăn trải bàn
+subject
+Môn học
+artichoke
+Atiso
+sponge cake
+Bánh sponge
+cow
+Bò
+egg roll
+Chả giò trứng
+pie
+Bánh pie
+pig
+Heo
+cardamom
+Bột thảo quả
 chia seeds
 Hạt chia
+coral
+San hô
+spoon
+Thìa
+champagne
+Rượu sâm banh
+stationery
+Văn phòng phẩm
+sushi
+Sushi
+grain
+Ngũ cốc
+pigeon
+Chim bồ câu
+turtle
+Rùa
+basil
+Húng quế
+noodles
+Mì sợi
+swan
+Thiên nga
+margarine
+Bơ đậu phộng
+coconut flakes
+Dừa sợi
+nightingale
+Chim đêm
+snow
+Tuyết
+ginger
+Gừng
+pistachios
+Hạt dừa
+chili powder
+Bột ớt
+credit card
+Thẻ tín dụng
+lake
+Hồ
+hawk
+Hắc
+chicken
+Gà
+student
+Học sinh, sinh viên
+candy
+Kẹo
+university
+Đại học
+fruit
+Trái cây
+seal
+Hải cẩu
+recipe
+Công thức nấu ăn
+killer whale
+Cá voi sát thủ
+green beans
+Đậu cô ve xanh
+running
+Chạy bộ
+beetle
+Bọ cánh cứng
+bell pepper
+Ớt chuông
+teacher
+Giáo viên
+vodka
+Rượu vodka
+napkin
+Khăn lụa
+oil
+Dầu
+hazelnuts
+Hạt hạnh nhân
+blueberry sauce
+Sốt việt quất
+starfish
+Sao biển
+microwave
+Lò vi sóng
+zebra
+Ngựa vằn
+pet store
+Cửa hàng thú cưng
+garlic
+Tỏi
+rooster
+Gà trống
+antelope
+Hươu sao
+ant
+Kiến
+oregano
+Rau húng quế
+buffalo
+Trâu
+portobello mushroom
+Nấm mỡ
+home appliance store
+Cửa hàng đồ gia dụng
+apple sauce
+Sốt táo
+barley
+Lúa mạch
+pencil
+Bút chì
+beetroot
+Củ dền
+orange
+Quả cam
+doctor
+Bác sĩ
+earth
+Trái đất
+hummingbird
+Chim ruồi
+backpack
+Ba lô
+biscuit
+Bánh quy
+sport
+Thể thao
+pumpkin
+Bí ngô hạt lựu
+layer cake
+Bánh lớp
+mayonnaise
+Sốt mayonnaise
+blueberry pie
+Bánh việt quất
+octopus
+Bạch tuộc
+food coloring
+Màu thực phẩm
+marshmallow
+Kẹo dẻo
+carrot cake
+Bánh cà rốt
+cheese
+Phô mai
+mountain
+Núi
+try on
+Thử đồ
+geography
+Địa lý
+cake
+Bánh bông lan
+jam
+Mứt
+fire
+Lửa
+mushroom
+Nấm
+shopping
+Mua sắm
+soft candy
+Kẹo mềm
+alcohol
+Rượu
+horseradish
+Cải ngựa
+mall
+Trung tâm mua sắm
+furniture store
+Cửa hàng đồ nội thất
+hardware store
+Cửa hàng dụng cụ cơ khí
+tiger
+Hổ
+cockatiel
+Vẹt sẻ
+rice milk
+Sữa gạo
+horse
+Ngựa
+raspberry sauce
+Sốt dâu tây
+caramelized sugar
+Đường đun nâu
+turkey
+Gà tây
+mixer
+Máy trộn
+autumn
+Mùa thu
+red velvet cake
+Bánh red velvet
+cup
+Cốc
+anaconda
+Anaconda
+butterscotch
+Kẹo sữa bơ
+woodpecker
+Chim gõ kiến
+sun
+Mặt trời
+thyme
+Rau thơm
+habanero
+Ớt habanero
+bookstore
+Hiệu sách
+celery
+Cần tây
+pot
+Nồi
+butterfly
+Bướm
+lecture
+Bài giảng
+watermelon
+Dưa hấu
+toaster
+Máy nướng bánh mì
+art
+Nghệ thuật
+hemp milk
+Sữa hạt gai
+wolf
+Sói
+toffee
+Kẹo đậu
+budgie
+Vẹt nhỏ
+coffee cake
+Bánh cà phê
+store
+Cửa hàng
+zucchini bread
+Bánh mì bí ngô
+angel food cake
+Bánh thiên thần
+clothing store
+Cửa hàng quần áo
+flower
+Hoa
+cashew milk
+Sữa hạt điều
+paprika
+Ớt bột
+calf
+Con bê
+fish
+Cá
+peacock
+Công
+cupcake
+Bánh cupcake
+buy
+Mua
+rum
+Rượu rum
+ruler
+Thước kẻ
+blender
+Máy xay sinh tố
+mouse
+Chuột
+whisky
+Rượu whisky
+brazil nuts
+Hạt hồ đào Brazil
+school
+Trường học
+donut
+Bánh donut
+chestnuts
+Hạt dẻ cười
+slug
+Sâu truồi
+sautéing
+Xào
+vanilla
+Hoa vani
+glass
+Ly
+chameleon
+Tắc kè hoa
+caramel
+Kẹo caramen
+seeds
+Hạt giống
+lobster
+Tôm hùm
+key lime pie
+Bánh chanh
+narwhal
+Sứa còn
+bluebird
+Chim xanh
+snap peas
+Đậu Hà Lan bao
+quinoa
+Hạt chia
+grocery store
+Cửa hàng tạp hóa
+ocean
+Đại dương
+nuts
+Hạt hạnh nhân
+parakeet
+Vẹt con
+crow
+Con quạ
+receipt
+Biên lai
+coin
+Tiền xu
+pepper
+Tiêu
+crocodile
+Cá sấu
+online store
+Cửa hàng trực tuyến
 flax seeds
 Hạt lanh
+shop
+Cửa hàng
+pecans
+Hạt hồ đào
+snack
+Ăn vặt
+donkey
+Lừa
+broccoli
+Bông cải xanh
+apron
+Tạp dề
+penne
+Mì ống lỡ
+learning
+Học tập
+salamander
+Salamander
+vegetable
+Rau củ
+shipping address
+Địa chỉ nhận hàng
+apple
+Quả táo
+pizza
+Bánh pizza
+cocktail
+Cocktail
+soy milk
+Sữa đậu nành
+honey
+Mật ong
+walnuts
+Hạt óc chó
+checkout
+Thanh toán
+quesadilla
+Bánh quesadilla
+delivery
+Giao hàng
+canary
+Chim yến
+department store
+Siêu thị
+purchase
+Mua
+stars
+Ngôi sao
+tiramisu
+Bánh tiramisu
+almonds
+Hạt hạnh nhân
+mosquito
+Muỗi
+blue whale
+Cá voi xanh
+seagull
+Chim hải âu
+acorn squash
+Bí vàng
+healthy
+Khỏe mạnh
+turmeric
+Nghệ
+turnip
+Củ cải trắng
+yogurt
+Sữa chua
+cabbage
+Bắp cải
+cherry sauce
+Sốt anh đào
+peanuts
+Hạt đậu phộng
+caramel sauce
+Sốt caramen
+hen
+Gà mái
+bundt cake
+Bánh gỗ
+frying
+Chiên
+dinosaur
+Khủng long
+cash
+Tiền mặt
+eggplant
+Cà tím
+star anise
+Đại hồi
+chocolate sauce
+Sốt sô cô la
+calculator
+Máy tính bỏ túi
+firefly
+Bọ rùa
+biology
+Sinh học
+stapler
+Bấm kim
+lesson
+Bài học
+whale shark
+Cá voi cá mập
+goat
+Dê
+lettuce
+Rau diếp
+muffin
+Bánh mì ngọt
+moon
+Mặt trăng
+ramen
+Mì ramen
+grilling
+Nướng
+viper
+Rắn độc
+breakfast
+Bữa sáng
+bagel
+Bánh mì quấn
+grill
+Vỉ nướng
+snow peas
+Đậu Hà Lan
+browse
+Xem hàng
+refund
+Hoàn tiền
+chocolate
+Sô cô la
+peppermint extract
+Cây bạc hà
+alligator
+Cá sấu Mississippi
+komodo dragon
+Varan Komodo
+study
+Học
+jellyfish
+Sứa
+martini
+Rượu martini
+falcon
+Sơn đầu
+exercise
+Tập thể dục
+lollipop
+Kẹo mút
+supermarket
+Siêu thị
+cheesecake
+Bánh phô mai
+coriander
+Hạt ngò
+physics
+Vật lý
+cooking
+Nấu ăn
+strawberry sauce
+Sốt dâu
+sprinkles
+Hạt màu
+wallet
+Ví
+sell
+Bán
+strawberry
+Dâu
+pelican
+Cá heo
+juice
+Nước trái cây
+tennis
+Quần vợt
+porridge
+Bánh mì ngũ cốc
+cayenne pepper
+Ớt bột cayenne
+queue
+Hàng đợi
+snail
+Ốc sên
+panda
+Gấu trúc
+cobra
+Rắn hổ mang
+monkey
+Khỉ
+owl
+Con cú
+wishlist
+Danh sách mong muốn
+onion
+Hành tây
+cucumber
+Dưa leo
+fettuccine
+Mì ngắn
+hot dog
+Xúc xích
+cloud
+Mây
+basketball
+Bóng rổ
+mustard
+Mù tạt
+whale
+Cá voi
+frog
+Ếch
+sage
+Rau mùi
+bear
+Gấu
+cutting board
+Đục thịt
+notebook
+Sổ tay
+billing address
+Địa chỉ thanh toán
+rain
+Mưa
+koala
+Gấu túi
+moth
+Bướm đêm
+briefcase
+Cặp sách
+tree
+Cây
+macadamia nuts
+Hạt macca
+rice noodles
+Bún gạo
+history
+Lịch sử
+licorice
+Kẹo cây cỏ
+water
+Nước
+soba
+Mì soba
+flamingo
+Hồng hạc
+taco
+Taco
+market
+Chợ
+nutrition
+Dinh dưỡng
+flaxseed milk
+Sữa hạt lanh
+cereal
+Ngũ cốc sáng
+burrito
+Burrito
+eagle
+Đại bàng
+squid
+Mực
+sugar
+Đường
+cauliflower
+Bông cải
+shrimp
+Tôm
+peanut brittle
+Kẹo đậu phộng giòn
+mathematics
+Toán học
+snake
+Rắn
+winter
+Mùa đông
+bowl
+Tô
+gin
+Rượu gin
+dragonfly
+Chuồn chuồn
+robin
+Chim sẻ
+tortoise
+Rùa đất
+paper
+Giấy
+cat
+Mèo
+stove
+Bếp lò
+cashier
+Thu ngân
+sparrow
+Chim sẻ
+diet
+Chế độ ăn uống
+hospital
+Bệnh viện
+sheep
+Cừu
+lasagna
+Mì ống to
+vermicelli
+Bún
+butter
+Bơ
+oats
+Yến mạch
+crepe
+Bánh crepe
+earthworm
+Sâu đất
+toad
+Ếch cóc
+macaw
+Vẹt mào cầm
+teapot
+Ấm pha trà
+sandwich
+Bánh mì sandwich
+spring roll
+Gỏi cuốn
+soda
+Nước ngọt
+leek
+Củ hành tây
+french toast
+Bánh nướng
+chive
+Rau hẹ
+clove
+Hoa hồi
+oyster
+Hàu
+tempura
+Tempura
+meat
+Thịt
+egg noodles
+Mì trứng
+customer
+Khách hàng
+carrot
+Cà rốt
+ice cream cake
+Bánh kem
