@@ -52,7 +52,7 @@ class DictionaryManagerBasic {
     }
 
     // Tra từ điển
-    public static void dictionaryLookup(Dictionary dictionary) throws IOException {
+    public static void dictionaryLookup(Dictionary dictionary) {
         Scanner scanner = new Scanner(System.in);
         System.out.println("Nhập từ cần tra nghĩa: ");
         String word_target = scanner.nextLine().toLowerCase(); // Chuyển từ cần tìm tiếng anh thành in thường

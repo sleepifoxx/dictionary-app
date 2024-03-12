@@ -1,8 +1,7 @@
-import java.io.IOException;
 import java.util.Scanner;
 
 public class DictionaryBasic {
-    public static void dictionaryMenu(Dictionary dictionary) throws IOException {
+    public static void dictionaryMenu(Dictionary dictionary) {
         Scanner scanner = new Scanner(System.in);
         System.out.println("--------------------------");
         System.out.println("Nhấn Enter để tiếp tục.");
@@ -62,7 +61,7 @@ public class DictionaryBasic {
         dictionaryMenu(dictionary);
     }
 
-    public static void main(String[] args) throws IOException {
+    public static void main(String[] args) {
         Dictionary dictionary = new Dictionary();
         DictionaryManagerBasic.insertFromFile(dictionary);
         dictionaryMenu(dictionary);
