@@ -14,7 +14,8 @@ public class DictionaryBasic {
         System.out.println("5. Xuất ra file: ");
         System.out.println("6. Tìm kiếm từ theo chữ cái: ");
         System.out.println("7. Hiển thị tất cả các từ: ");
-        System.out.println("8. Thoát");
+        System.out.println("8. Chơi trò chơi đoán từ: ");
+        System.out.println("9. Thoát");
         System.out.println("--------------------------");
         System.out.println("Lựa chọn: ");
         // Kiểm tra xem người dùng nhập vào có phải là số không
@@ -23,16 +24,16 @@ public class DictionaryBasic {
             scanner.next();
         }
         int choice = scanner.nextInt();
-        // Kiểm tra xem người dùng nhập vào có nằm trong khoảng từ 1-8 không
-        while (choice < 1 || choice > 8) {
-            System.out.println("Chú ý! Nhập số thuộc khoảng (1-8): ");
+        // Kiểm tra xem người dùng nhập vào có nằm trong khoảng từ 1-9 không
+        while (choice < 1 || choice > 9) {
+            System.out.println("Chú ý! Nhập số thuộc khoảng (1-9): ");
             while (!scanner.hasNextInt()) {
-                System.out.println("Chú ý! Nhập số thuộc khoảng (1-8): ");
+                System.out.println("Chú ý! Nhập số thuộc khoảng (1-9): ");
                 scanner.next();
             }
             choice = scanner.nextInt();
         }
-        scanner.nextLine();
+
         switch (choice) {
             case 1:
                 DictionaryManagerBasic.insertFromCommandline(dictionary);
@@ -56,6 +57,9 @@ public class DictionaryBasic {
                 DictionaryManagerBasic.showAllWords(dictionary);
                 break;
             case 8:
+                DictionaryManagerBasic.minigame(dictionary);
+                break;
+            case 9:
                 return;
         }
         dictionaryMenu(dictionary);
