@@ -1,26 +1,13 @@
 package com.example.enghouse;
 
 import javafx.fxml.FXML;
-import javafx.scene.control.Button;
-import javafx.scene.control.TextField;
-import javafx.scene.control.TextArea;
 import javafx.stage.Stage;
+import javafx.scene.control.Button;
 
-public class HomeController {
-    @FXML
-    private TextField home_search_bar;
+public class BookmarkController {
     @FXML
     private Button menu_edit_button, menu_home_button, menu_bookmark_button, menu_game_button,
             menu_google_translate_button, menu_about_button;
-    @FXML
-    private TextArea home_explain_area;
-
-    @FXML
-    public void search() {
-        String word_target = home_search_bar.getText();
-        String word_explain = Data.searchData(word_target);
-        home_explain_area.setText(word_explain);
-    }
 
     // Menu
     @FXML

@@ -10,7 +10,8 @@ public class EditController {
     private String word_target, word_explain;
 
     @FXML
-    private Button home_search_button, home_button, google_translate_button;
+    private Button menu_edit_button, menu_home_button, menu_bookmark_button, menu_game_button,
+            menu_google_translate_button, menu_about_button;
 
     @FXML
     private TextField edit_word_target;
@@ -35,19 +36,33 @@ public class EditController {
     }
 
     // Menu
-    // Menu
     @FXML
     public void handleHomeButton() {
-        App.changeScene("Home.fxml", (Stage) home_button.getScene().getWindow());
+        App.changeScene("Home.fxml", (Stage) menu_home_button.getScene().getWindow());
     }
 
     @FXML
     public void handleGoogleTranslateButton() {
-        App.changeScene("GoogleTranslate.fxml", (Stage) home_search_button.getScene().getWindow());
+        App.changeScene("GoogleTranslate.fxml", (Stage) menu_google_translate_button.getScene().getWindow());
     }
 
     @FXML
     public void handleEditButton() {
-        App.changeScene("Edit.fxml", (Stage) home_search_button.getScene().getWindow());
+        App.changeScene("Edit.fxml", (Stage) menu_edit_button.getScene().getWindow());
+    }
+
+    @FXML
+    public void handleBookmarkButton() {
+        App.changeScene("Bookmark.fxml", (Stage) menu_bookmark_button.getScene().getWindow());
+    }
+
+    @FXML
+    public void handleGameButton() {
+        App.changeScene("Game.fxml", (Stage) menu_game_button.getScene().getWindow());
+    }
+
+    @FXML
+    public void handleAboutButton() {
+        App.changeScene("About.fxml", (Stage) menu_about_button.getScene().getWindow());
     }
 }
