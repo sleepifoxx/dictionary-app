@@ -27,7 +27,13 @@ public class HomeController {
         App.changeScene("Home.fxml", (Stage) home_button.getScene().getWindow());
     }
 
+    @FXML
     public void handleGoogleTranslateButton() {
         App.changeScene("GoogleTranslate.fxml", (Stage) home_search_button.getScene().getWindow());
+    }
+
+    @FXML
+    public void handleEditButton() {
+        App.changeScene("Edit.fxml", (Stage) home_search_button.getScene().getWindow());
     }
 }

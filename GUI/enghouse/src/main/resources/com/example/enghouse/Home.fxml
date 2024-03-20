@@ -8,7 +8,6 @@
 <?import javafx.scene.image.ImageView?>
 <?import javafx.scene.layout.AnchorPane?>
 
-
 <AnchorPane maxHeight="640.0" maxWidth="960.0" minHeight="640.0" minWidth="960.0" prefHeight="640.0" prefWidth="960.0" xmlns="http://javafx.com/javafx/21" xmlns:fx="http://javafx.com/fxml/1" fx:controller="com.example.enghouse.HomeController">
    <children>
       <AnchorPane layoutX="103.0" layoutY="27.0" prefHeight="585.0" prefWidth="831.0">
@@ -39,7 +38,7 @@
                   </ImageView>
                </graphic>
             </Button>
-            <Button contentDisplay="GRAPHIC_ONLY" layoutX="25.0" layoutY="251.0" mnemonicParsing="false" text="Add">
+            <Button contentDisplay="GRAPHIC_ONLY" layoutX="25.0" layoutY="251.0" mnemonicParsing="false" onAction="#handleEditButton" text="Edit">
                <graphic>
                   <ImageView fitHeight="30.0" fitWidth="30.0" pickOnBounds="true" preserveRatio="true">
                      <image>

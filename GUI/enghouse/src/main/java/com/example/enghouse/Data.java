@@ -38,4 +38,12 @@ public class Data {
     public static String searchData(String word) {
         return data.get(word);
     }
+
+    public static boolean isWordExist(String word) {
+        return data.containsKey(word);
+    }
+
+    public static void addWord(Word word) {
+        data.put(word.getWord_target(), word.getWord_explain());
+    }
 }
