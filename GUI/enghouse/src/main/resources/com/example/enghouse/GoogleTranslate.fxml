@@ -6,8 +6,8 @@
 
 <AnchorPane prefHeight="640.0" prefWidth="960.0" xmlns="http://javafx.com/javafx/21" xmlns:fx="http://javafx.com/fxml/1" fx:controller="com.example.enghouse.GoogleTranslateController">
    <children>
-      <TextArea fx:id="Google_Translate_target" layoutX="70.0" layoutY="140.0" onInputMethodTextChanged="#dictionaryLookup" prefHeight="200.0" prefWidth="300.0" />
+      <TextArea fx:id="Google_Translate_target" layoutX="70.0" layoutY="140.0" prefHeight="200.0" prefWidth="300.0" />
       <TextArea fx:id="Google_Translate_explain" editable="false" layoutX="484.0" layoutY="140.0" prefHeight="200.0" prefWidth="300.0" />
-      <Button fx:id="translate_button" layoutX="381.0" layoutY="220.0" mnemonicParsing="false" onAction="#dictionaryLookup" prefHeight="39.0" prefWidth="92.0" text="Translate" />
+      <Button fx:id="translate_button" layoutX="381.0" layoutY="220.0" mnemonicParsing="false" onAction="#Google_Translate_Search" prefHeight="39.0" prefWidth="92.0" text="Translate" />
    </children>
 </AnchorPane>

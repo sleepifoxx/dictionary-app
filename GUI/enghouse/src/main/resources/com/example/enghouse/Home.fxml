@@ -8,34 +8,83 @@
 <?import javafx.scene.image.ImageView?>
 <?import javafx.scene.layout.AnchorPane?>
 
-<AnchorPane maxHeight="640.0" maxWidth="960.0" prefHeight="640.0" prefWidth="960.0" xmlns="http://javafx.com/javafx/21" xmlns:fx="http://javafx.com/fxml/1">
+
+<AnchorPane maxHeight="640.0" maxWidth="960.0" minHeight="640.0" minWidth="960.0" prefHeight="640.0" prefWidth="960.0" xmlns="http://javafx.com/javafx/21" xmlns:fx="http://javafx.com/fxml/1" fx:controller="com.example.enghouse.HomeController">
    <children>
-      <AnchorPane prefHeight="640.0" prefWidth="114.0">
+      <AnchorPane layoutX="103.0" layoutY="27.0" prefHeight="585.0" prefWidth="831.0">
          <children>
-         <Button layoutX="1.0" layoutY="158.0" mnemonicParsing="false" prefHeight="42.0" prefWidth="112.0" />
-            <Button layoutX="39.0" layoutY="250.0" mnemonicParsing="false" text="Edit" />
-            <Button layoutX="19.0" layoutY="307.0" mnemonicParsing="false" text="Bookmarks" />
-            <Button layoutX="32.0" layoutY="368.0" mnemonicParsing="false" text="Game" />
-            <Button layoutX="26.0" layoutY="453.0" mnemonicParsing="false" text="Settings" />
-            <Button layoutX="32.0" layoutY="589.0" mnemonicParsing="false" text="About" />
-            <ImageView fitHeight="30.0" fitWidth="30.0" layoutX="42.0" layoutY="164.0" pickOnBounds="true" preserveRatio="true">
-               <image>
-                  <Image url="@icons/home.png" />
-               </image>
-            </ImageView>
+            <TextField fx:id="home_search_bar" layoutX="140.0" layoutY="67.0" prefHeight="34.0" prefWidth="454.0" />
+            <TextArea fx:id="home_explain_area" editable="false" layoutX="289.0" layoutY="127.0" prefHeight="431.0" prefWidth="512.0" />
+            <ListView layoutX="51.0" layoutY="165.0" prefHeight="390.0" prefWidth="206.0" />
+            <Button layoutX="51.0" layoutY="122.0" mnemonicParsing="false" prefHeight="42.0" prefWidth="206.0" text="Lịch sử">
+               <graphic>
+                  <ImageView fitHeight="150.0" fitWidth="30.0" pickOnBounds="true" preserveRatio="true">
+                     <image>
+                        <Image url="@icons/counterclockwise.png" />
+                     </image>
+                  </ImageView>
+               </graphic>
+            </Button>
+            <Button fx:id="home_search_button" layoutX="619.0" layoutY="71.0" mnemonicParsing="false" onAction="#search" text="Search" />
          </children>
       </AnchorPane>
-      <TextField layoutX="283.0" layoutY="63.0" prefHeight="34.0" prefWidth="454.0" />
-      <TextArea editable="false" layoutX="385.0" layoutY="137.0" prefHeight="431.0" prefWidth="512.0" />
-      <ListView layoutX="163.0" layoutY="177.0" prefHeight="390.0" prefWidth="206.0" />
-      <Button layoutX="163.0" layoutY="134.0" mnemonicParsing="false" prefHeight="42.0" prefWidth="206.0" text="Lịch sử">
-         <graphic>
-            <ImageView fitHeight="150.0" fitWidth="30.0" pickOnBounds="true" preserveRatio="true">
-               <image>
-                  <Image url="@icons/counterclockwise.png" />
-               </image>
-            </ImageView>
-         </graphic></Button>
-      <Button fx:id="home_search_btn" layoutX="758.0" layoutY="67.0" mnemonicParsing="false" text="Search" />
+      <AnchorPane id="menu" layoutX="10.0" layoutY="10.0" prefHeight="640.0" prefWidth="90.0" styleClass="menu" stylesheets="@css/style.css">
+         <children>
+            <Button fx:id="home_button" contentDisplay="GRAPHIC_ONLY" layoutX="15.0" layoutY="159.0" mnemonicParsing="false" onAction="#handleHomeButton" prefHeight="42.0" prefWidth="49.0" text="Home">
+               <graphic>
+                  <ImageView fitHeight="50.0" fitWidth="50.0" pickOnBounds="true" preserveRatio="true">
+                     <image>
+                        <Image url="@icons/home.png" />
+                     </image>
+                  </ImageView>
+               </graphic>
+            </Button>
+            <Button contentDisplay="GRAPHIC_ONLY" layoutX="25.0" layoutY="251.0" mnemonicParsing="false" text="Add">
+               <graphic>
+                  <ImageView fitHeight="30.0" fitWidth="30.0" pickOnBounds="true" preserveRatio="true">
+                     <image>
+                        <Image url="@icons/plus.png" />
+                     </image>
+                  </ImageView>
+               </graphic>
+            </Button>
+            <Button layoutX="32.0" layoutY="309.0" mnemonicParsing="false">
+               <graphic>
+                  <ImageView fitHeight="30.0" fitWidth="30.0" pickOnBounds="true" preserveRatio="true">
+                     <image>
+                        <Image url="@icons/bookmark.png" />
+                     </image>
+                  </ImageView>
+               </graphic>
+            </Button>
+            <Button layoutX="32.0" layoutY="368.0" mnemonicParsing="false">
+               <graphic>
+                  <ImageView fitHeight="30.0" fitWidth="30.0" pickOnBounds="true" preserveRatio="true">
+                     <image>
+                        <Image url="@icons/game-controller.png" />
+                     </image>
+                  </ImageView>
+               </graphic>
+            </Button>
+            <Button fx:id="searchWordBtn" layoutX="31.0" layoutY="408.0" mnemonicParsing="false" onAction="#handleGoogleTranslateButton">
+               <graphic>
+                  <ImageView fitHeight="30.0" fitWidth="30.0" pickOnBounds="true" preserveRatio="true">
+                     <image>
+                        <Image url="@icons/translate.png" />
+                     </image>
+                  </ImageView>
+               </graphic>
+            </Button>
+            <Button layoutX="32.0" layoutY="589.0" mnemonicParsing="false">
+               <graphic>
+                  <ImageView fitHeight="15300.0" fitWidth="30.0" pickOnBounds="true" preserveRatio="true">
+                     <image>
+                        <Image url="@icons/chat.png" />
+                     </image>
+                  </ImageView>
+               </graphic>
+            </Button>
+         </children>
+      </AnchorPane>
    </children>
 </AnchorPane>
