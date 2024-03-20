@@ -14,13 +14,13 @@ public class DictionaryBasic {
         System.out.println("5. Xuất ra file: ");
         System.out.println("6. Tìm kiếm từ theo chữ cái: ");
         System.out.println("7. Hiển thị tất cả các từ: ");
-        System.out.println("8. Chơi trò chơi đoán từ: ");
+        System.out.println("8. Minigame: ");
         System.out.println("9. Thoát");
         System.out.println("--------------------------");
         System.out.println("Lựa chọn: ");
         // Kiểm tra xem người dùng nhập vào có phải là số không
         while (!scanner.hasNextInt()) {
-            System.out.println("Chú ý! Nhập số thuộc khoảng (1-8): ");
+            System.out.println("Chú ý! Nhập số thuộc khoảng (1-9): ");
             scanner.next();
         }
         int choice = scanner.nextInt();

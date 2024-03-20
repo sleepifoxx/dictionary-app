@@ -1,15 +1,11 @@
 import java.util.Scanner;
 import java.io.File;
 import java.io.FileNotFoundException;
-import java.io.IOException;
 import java.util.ArrayList;
 import java.util.List;
 import java.util.Map;
 import java.util.TreeMap;
 import java.util.Random;
-import java.text.Normalizer;
-import java.text.Normalizer.Form;
-import java.util.regex.Pattern;
 
 class DictionaryManagerBasic {
     // Thêm từ vào từ điển từ commandline
@@ -146,42 +142,30 @@ class DictionaryManagerBasic {
         System.out.println("Chào mừng bạn đến với trò chơi đoán từ!");
         System.out
                 .println("Bạn sẽ được cho một từ tiếng Việt và bạn cần phải đoán chính xác nghĩa tiếng Anh của từ đó.");
-        System.out.println("Nếu bạn đoán đúng, bạn sẽ được cộng 1 điểm.");
-        System.out.println("Nếu bạn đoán sai, bạn sẽ bị trừ 1 điểm.");
-        System.out.println("Để học tốt tiếng Anh, mỗi ngày bạn cần phải đạt ít nhất 10 điểm");
         System.out.println("Nếu bạn đã hiểu , hãy ấn 'Go' để bắt đầu!");
         System.out.println("Để thoát trò chơi, hãy nhập 'exit'.");
-        int score = 0;
         Scanner scanner = new Scanner(System.in);
         scanner.nextLine();
         Random rd = new Random();
         List<Map.Entry<String, String>> wordsList = new ArrayList<>(dictionary.words.entrySet());
         while (!wordsList.isEmpty()) {
-            Map.Entry<String, String> randomEntry = wordsList.remove(rd.nextInt(wordsList.size()));
-            String randomWord = randomEntry.getValue();
-            String wordExplain = randomEntry.getKey();
-            System.out.println("Từ tiếng Việt: " + randomWord);
-            System.out.println("Nghĩa tiếng Anh: ");
-            System.out.println(wordExplain);
-            String guess = scanner.nextLine();
-            if (guess.equals("exit")) {
-                break;
+            List<Map.Entry<String, String>> a = new ArrayList<>();
+            for (int i = 0; i < 4; i++) {
+                Map.Entry<String, String> randomEntry = wordsList.remove(rd.nextInt(wordsList.size()));
+                a.add(randomEntry);
             }
-            if ((guess.trim()).equalsIgnoreCase(wordExplain.trim())) {
-                System.out.println("Chính xác!");
-                score++;
-                System.out.println("Bạn đã đạt được" + score + "điểm.");
+            Map.Entry<String, String> questionEntry = a.get(rd.nextInt(a.size()));
+            System.out.println("Hãy đoán nghĩa tiếng Anh của từ tiếng Việt sau: " + questionEntry.getKey());
+            for (int i = 0; i < a.size(); i++) {
+                System.out.println((char) (i + 'A') + ". " + a.get(i).getValue());
+            }
+            char answer = scanner.next().charAt(0);
+            answer = Character.toUpperCase(answer);
+            int answerIndex = answer - 'A';
+            if (a.get(answerIndex).equals(questionEntry)) {
+                System.out.println("Chúc mừng, bạn đã trả lời đúng!");
             } else {
-                System.out.println("Sai rồi! Đáp án đúng là: " + wordExplain);
-                score--;
-                System.out.println("Không sao cả ,hãy cố gắng cho từ tiếp theo!");
-            }
-            if (score == 10) {
-                System.out.println("Bạn đã hoàn thành mục tiêu của ngày hôm nay!");
-                System.out.println("Nếu muốn tiếp tục hãy nhập 'Countinue'.");
-                if (guess.equals("Countinue")) {
-                    break;
-                }
+                System.out.println("Rất tiếc, bạn đã trả lời sai. Đáp án đúng là: " + questionEntry.getValue());
             }
         }
     }
