@@ -1,80 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
-<?import javafx.scene.control.Button?>
-<?import javafx.scene.image.Image?>
-<?import javafx.scene.image.ImageView?>
 <?import javafx.scene.layout.AnchorPane?>
 <?import javafx.scene.text.Text?>
 
-<AnchorPane maxHeight="640.0" maxWidth="960.0" minHeight="640.0" minWidth="960.0" prefHeight="640.0" prefWidth="960.0" styleClass="menu_background" stylesheets="@css/style.css" xmlns="http://javafx.com/javafx/21" xmlns:fx="http://javafx.com/fxml/1" fx:controller="com.example.enghouse.AboutController">
+
+<AnchorPane prefHeight="590.0" prefWidth="800.0" styleClass="main_panel" stylesheets="@css/style.css" xmlns="http://javafx.com/javafx/21" xmlns:fx="http://javafx.com/fxml/1" fx:controller="com.example.enghouse.AboutController">
    <children>
-      <AnchorPane layoutX="130.0" layoutY="25.0" prefHeight="590.0" prefWidth="800.0" styleClass="main_panel" stylesheets="@css/style.css">
-         <children>
-            <Text layoutX="211.0" layoutY="167.0" strokeType="OUTSIDE" strokeWidth="0.0" text="About" />
-         </children>
-      </AnchorPane>
-      <AnchorPane id="menu" prefHeight="640.0" prefWidth="120.0" styleClass="menu_background" stylesheets="@css/style.css">
-         <children>
-            <Button fx:id="menu_home_button" contentDisplay="GRAPHIC_ONLY" layoutX="30.0" layoutY="148.0" mnemonicParsing="false" onAction="#handleHomeButton" prefHeight="50.0" prefWidth="50.0" styleClass="menu_button" stylesheets="@css/style.css" text="Home">
-               <graphic>
-                  <ImageView fitHeight="50.0" fitWidth="50.0" pickOnBounds="true" preserveRatio="true">
-                     <image>
-                        <Image url="@icons/home.png" />
-                     </image>
-                  </ImageView>
-               </graphic>
-            </Button>
-            <Button fx:id="menu_edit_button" contentDisplay="GRAPHIC_ONLY" layoutX="30.0" layoutY="228.0" mnemonicParsing="false" onAction="#handleEditButton" prefHeight="40.0" prefWidth="40.0" styleClass="menu_button" stylesheets="@css/style.css" text="Edit">
-               <graphic>
-                  <ImageView fitHeight="50.0" fitWidth="50.0" pickOnBounds="true" preserveRatio="true">
-                     <image>
-                        <Image url="@icons/plus.png" />
-                     </image>
-                  </ImageView>
-               </graphic>
-            </Button>
-            <Button fx:id="menu_bookmark_button" contentDisplay="GRAPHIC_ONLY" layoutX="30.0" layoutY="308.0" mnemonicParsing="false" onAction="#handleBookmarkButton" prefHeight="50.0" prefWidth="50.0" styleClass="menu_button" stylesheets="@css/style.css" text="Bookmark">
-               <graphic>
-                  <ImageView fitHeight="50.0" fitWidth="50.0" pickOnBounds="true" preserveRatio="true">
-                     <image>
-                        <Image url="@icons/bookmark.png" />
-                     </image>
-                  </ImageView>
-               </graphic>
-            </Button>
-            <Button fx:id="menu_game_button" contentDisplay="GRAPHIC_ONLY" layoutX="30.0" layoutY="388.0" mnemonicParsing="false" onAction="#handleGameButton" prefHeight="50.0" prefWidth="50.0" styleClass="menu_button" stylesheets="@css/style.css" text="Game">
-               <graphic>
-                  <ImageView fitHeight="50.0" fitWidth="50.0" pickOnBounds="true" preserveRatio="true">
-                     <image>
-                        <Image url="@icons/game-controller.png" />
-                     </image>
-                  </ImageView>
-               </graphic>
-            </Button>
-            <Button fx:id="menu_google_translate_button" contentDisplay="GRAPHIC_ONLY" layoutX="30.0" layoutY="468.0" mnemonicParsing="false" onAction="#handleGoogleTranslateButton" prefHeight="50.0" prefWidth="50.0" styleClass="menu_button" stylesheets="@css/style.css" text="GoogleTranslate">
-               <graphic>
-                  <ImageView fitHeight="50.0" fitWidth="50.0" pickOnBounds="true" preserveRatio="true">
-                     <image>
-                        <Image url="@icons/translate.png" />
-                     </image>
-                  </ImageView>
-               </graphic>
-            </Button>
-            <Button fx:id="menu_about_button" layoutX="40.0" layoutY="577.0" mnemonicParsing="false" onAction="#handleAboutButton" styleClass="menu_button" stylesheets="@css/style.css">
-               <graphic>
-                  <ImageView fitHeight="15300.0" fitWidth="30.0" pickOnBounds="true" preserveRatio="true">
-                     <image>
-                        <Image url="@icons/chat.png" />
-                     </image>
-                  </ImageView>
-               </graphic>
-            </Button>
-            <ImageView fitHeight="100.0" fitWidth="100.0" layoutX="15.0" layoutY="30.0" pickOnBounds="true" preserveRatio="true">
-               <image>
-                  <Image url="@icons/dictionary.png" />
-               </image>
-            </ImageView>
-         </children>
-      </AnchorPane>
+      <Text layoutX="211.0" layoutY="167.0" strokeType="OUTSIDE" strokeWidth="0.0" text="About" />
    </children>
 </AnchorPane>
