@@ -6,7 +6,7 @@ import java.util.*;
 public class Data {
     private static Map<String, String> data = new HashMap<>();
 
-    public static void insertFromFile() {
+    public static void insertFromDictionaries() {
         try {
             FileReader fileReader = new FileReader("database/dictionaries.txt");
             BufferedReader bufferedReader = new BufferedReader(fileReader);
@@ -32,6 +32,16 @@ public class Data {
             System.out.println("An error occur with file: " + e);
         } catch (Exception e) {
             System.out.println("Something went wrong: " + e);
+        }
+    }
+
+    public static void clearFile(String path) {
+        try {
+            FileWriter fileWriter = new FileWriter(path);
+            fileWriter.write("");
+            fileWriter.close();
+        } catch (IOException e) {
+            System.out.println("An error occur with file: " + e);
         }
     }
 

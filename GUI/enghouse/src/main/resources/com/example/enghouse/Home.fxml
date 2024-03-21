@@ -8,13 +8,12 @@
 <?import javafx.scene.image.ImageView?>
 <?import javafx.scene.layout.AnchorPane?>
 
-
 <AnchorPane prefHeight="590.0" prefWidth="800.0" styleClass="main_panel" stylesheets="@css/style.css" xmlns="http://javafx.com/javafx/21" xmlns:fx="http://javafx.com/fxml/1" fx:controller="com.example.enghouse.HomeController">
    <children>
       <TextField fx:id="home_search_bar" layoutX="140.0" layoutY="67.0" prefHeight="34.0" prefWidth="454.0" />
       <TextArea fx:id="home_explain_area" editable="false" layoutX="289.0" layoutY="127.0" prefHeight="431.0" prefWidth="458.0" />
-      <ListView layoutX="51.0" layoutY="165.0" prefHeight="390.0" prefWidth="206.0" />
-      <Button layoutX="51.0" layoutY="122.0" mnemonicParsing="false" prefHeight="42.0" prefWidth="206.0" text="Lịch sử">
+      <ListView fx:id="home_recent_list" layoutX="51.0" layoutY="165.0" onMouseClicked="#handleRecentListSelection" prefHeight="390.0" prefWidth="206.0" />
+      <Button fx:id="home_reset_recent_button" layoutX="51.0" layoutY="122.0" mnemonicParsing="false" onAction="#handleResetRecentButton" prefHeight="42.0" prefWidth="206.0" text="Lịch sử">
          <graphic>
             <ImageView fitHeight="150.0" fitWidth="30.0" pickOnBounds="true" preserveRatio="true">
                <image>
@@ -23,6 +22,6 @@
             </ImageView>
          </graphic>
       </Button>
-      <Button fx:id="home_search_button" layoutX="619.0" layoutY="71.0" mnemonicParsing="false" onAction="#search" text="Search" />
+      <Button fx:id="home_search_button" layoutX="619.0" layoutY="71.0" mnemonicParsing="false" onAction="#handleSearchButton" text="Search" />
    </children>
 </AnchorPane>

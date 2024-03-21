@@ -18,7 +18,7 @@ public class App extends Application {
         stage.setScene(scene);
         stage.show();
 
-        Data.insertFromFile();
+        Data.insertFromDictionaries();
     }
 
     public static void main(String[] args) {
