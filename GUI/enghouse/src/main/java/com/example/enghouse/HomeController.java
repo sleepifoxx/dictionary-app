@@ -27,6 +27,7 @@ public class HomeController {
 
     @FXML
     private void initialize() {
+        home_recent_list.getItems().clear();
         insertfromRecent();
         home_reset_recent_button.setDisable(true);
 
@@ -81,7 +82,7 @@ public class HomeController {
     }
 
     // Read data from recent.txt
-    private void insertfromRecent() {
+    public static void insertfromRecent() {
         try {
             Scanner scanner = new Scanner(new File("database/recent.txt"));
             while (scanner.hasNextLine()) {
