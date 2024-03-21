@@ -19,6 +19,12 @@ public class App extends Application {
         stage.show();
 
         Data.insertFromDictionaries();
+
+        // When close the app, save all to file
+        stage.setOnCloseRequest(e -> {
+            Data.saveData();
+            HomeController.saveRecent();
+        });
     }
 
     public static void main(String[] args) {

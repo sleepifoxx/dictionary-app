@@ -16,7 +16,6 @@ import javafx.scene.control.TextArea;
 public class HomeController {
     private static List<String> recent = new ArrayList<>();
     private String selectedWord;
-    private File recentFile = new File("database/recent.txt");
     @FXML
     private TextField home_search_bar;
     @FXML
@@ -28,8 +27,9 @@ public class HomeController {
 
     @FXML
     private void initialize() {
-        home_reset_recent_button.setDisable(true);
         insertfromRecent();
+        home_reset_recent_button.setDisable(true);
+
         if (recent.size() > 0) {
             home_reset_recent_button.setDisable(false);
             for (String word : recent) {
@@ -56,23 +56,21 @@ public class HomeController {
             recent.add(word_target);
             home_recent_list.getItems().add(word_target);
             home_reset_recent_button.setDisable(false);
-            exporttoRecent();
         }
     }
 
     @FXML
     private void handleResetRecentButton() {
         home_reset_recent_button.setDisable(true);
-        Data.clearFile("database/recent.txt");
         recent.clear();
         home_recent_list.getItems().clear();
     }
 
     // File recent.txt Controller
     // Write data to recent.txt
-    private void exporttoRecent() {
+    public static void saveRecent() {
         try {
-            PrintWriter writer = new PrintWriter(recentFile);
+            PrintWriter writer = new PrintWriter(new File("database/recent.txt"));
             for (String word : recent) {
                 writer.println(word);
             }
@@ -85,7 +83,7 @@ public class HomeController {
     // Read data from recent.txt
     private void insertfromRecent() {
         try {
-            Scanner scanner = new Scanner(recentFile);
+            Scanner scanner = new Scanner(new File("database/recent.txt"));
             while (scanner.hasNextLine()) {
                 String word = scanner.nextLine();
                 recent.add(word);

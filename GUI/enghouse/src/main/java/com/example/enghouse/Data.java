@@ -35,10 +35,12 @@ public class Data {
         }
     }
 
-    public static void clearFile(String path) {
+    public static void saveData() {
         try {
-            FileWriter fileWriter = new FileWriter(path);
-            fileWriter.write("");
+            FileWriter fileWriter = new FileWriter("database/dictionaries.txt");
+            for (Map.Entry<String, String> entry : data.entrySet()) {
+                fileWriter.write("|" + entry.getKey() + "\n" + entry.getValue() + "\n");
+            }
             fileWriter.close();
         } catch (IOException e) {
             System.out.println("An error occur with file: " + e);
