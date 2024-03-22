@@ -80,12 +80,12 @@ public class MultipleChoiceController {
     @FXML
     private void handleNextButton() {
         Random rd = new Random();
-        ArrayList<Map.Entry<String, String>> a = new ArrayList<>();
+        a = new ArrayList<>();
         for (int i = 0; i < 4; ++i) {
-            Map.Entry<String, String> randomEntry = wordsList.remove(rd.nextInt(wordsList.size()));
+            randomEntry = wordsList.remove(rd.nextInt(wordsList.size()));
             a.add(randomEntry);
         }
-        Map.Entry<String, String> questionEntry = a.get(rd.nextInt(a.size()));
+        questionEntry = a.get(rd.nextInt(a.size()));
         Word.setText(questionEntry.getKey());
         text_choiceA.setText(a.get(0).getValue());
         text_choiceB.setText(a.get(1).getValue());

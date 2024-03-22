@@ -1,3 +1,6 @@
-zoo
+zoom lens
+zoom
+string
 apple
+zoo
 rich

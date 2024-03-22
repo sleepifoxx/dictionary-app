@@ -7,10 +7,11 @@
 <?import javafx.scene.image.Image?>
 <?import javafx.scene.image.ImageView?>
 <?import javafx.scene.layout.AnchorPane?>
+<?import javafx.scene.text.Text?>
 
-<AnchorPane prefHeight="590.0" prefWidth="800.0" styleClass="main_panel" stylesheets="@css/style.css" xmlns="http://javafx.com/javafx/21" xmlns:fx="http://javafx.com/fxml/1" fx:controller="com.example.enghouse.HomeController">
+<AnchorPane onMouseClicked="#suggestWordListExited" prefHeight="590.0" prefWidth="800.0" styleClass="main_panel" stylesheets="@css/style.css" xmlns="http://javafx.com/javafx/21" xmlns:fx="http://javafx.com/fxml/1" fx:controller="com.example.enghouse.HomeController">
    <children>
-      <TextField fx:id="home_search_bar" layoutX="140.0" layoutY="67.0" prefHeight="34.0" prefWidth="454.0" />
+      <TextField fx:id="home_search_bar" layoutX="140.0" layoutY="67.0" onKeyTyped="#handleSuggestWordList" onMouseClicked="#handleSuggestWordList" prefHeight="34.0" prefWidth="454.0" />
       <TextArea fx:id="home_explain_area" editable="false" layoutX="289.0" layoutY="127.0" prefHeight="431.0" prefWidth="458.0" />
       <ListView fx:id="home_recent_list" layoutX="51.0" layoutY="165.0" onMouseClicked="#handleRecentListSelection" prefHeight="390.0" prefWidth="206.0" />
       <Button fx:id="home_reset_recent_button" layoutX="51.0" layoutY="122.0" mnemonicParsing="false" onAction="#handleResetRecentButton" prefHeight="42.0" prefWidth="206.0" text="Lịch sử">
@@ -23,5 +24,10 @@
          </graphic>
       </Button>
       <Button fx:id="home_search_button" layoutX="619.0" layoutY="71.0" mnemonicParsing="false" onAction="#handleSearchButton" text="Search" />
+      <Text fx:id="home_alert" layoutX="377.0" layoutY="114.0" strokeType="OUTSIDE" strokeWidth="0.0" />
+      <ListView fx:id="home_suggestWord_list" layoutX="140.0" layoutY="109.0" onMouseClicked="#handleSuggestWordSelection" prefHeight="200.0" prefWidth="454.0" />
+      <Button fx:id="home_remove_button" layoutX="677.0" layoutY="143.0" mnemonicParsing="false" onAction="#handleRemoveButton" text="Remove" />
+      <Button fx:id="home_edit_button" layoutX="619.0" layoutY="143.0" mnemonicParsing="false" onAction="#handleEditButton" text="Edit" />
+      <Button fx:id="home_save_button" layoutX="681.0" layoutY="517.0" mnemonicParsing="false" onAction="#handleSaveButton" text="Save" />
    </children>
 </AnchorPane>
