@@ -3,31 +3,77 @@ package com.example.enghouse;
 import java.io.BufferedReader;
 import java.io.IOException;
 import java.io.InputStreamReader;
+import java.io.UnsupportedEncodingException;
 import java.net.HttpURLConnection;
 import java.net.URL;
 import java.net.URLEncoder;
+import java.nio.charset.StandardCharsets;
+import java.security.SecureRandom;
+import java.util.Base64;
 
 public class GoogleAPI {
-    public static String translate(String langFrom, String langTo, String text) {
-        try {
-            String urlStr = "https://script.google.com/macros/s/AKfycbyy9PjjDO1fKR2kV5wI0i8I-mZDLSK0zOHKPUQDwk0rk-g5QCHUueAgiNIm-fhIFJMa_A/exec"
-                    +
-                    "?q=" + URLEncoder.encode(text, "UTF-8") +
-                    "&target=" + langTo +
-                    "&source=" + langFrom;
-            URL url = new URL(urlStr);
-            StringBuilder response = new StringBuilder();
-            HttpURLConnection con = (HttpURLConnection) url.openConnection();
-            con.setRequestProperty("User-Agent", "Mozilla/5.0");
-            BufferedReader in = new BufferedReader(new InputStreamReader(con.getInputStream()));
-            String inputLine;
-            while ((inputLine = in.readLine()) != null) {
-                response.append(inputLine);
-            }
-            in.close();
-            return response.toString();
-        } catch (IOException e) {
-            return ("Vui lòng kiểm tra kết nối Internet!");
+    public static final String GOOGLE_TRANSLATE_URL = "http://translate.google.com/translate_a/t?";
+    private static final SecureRandom secureRandom = new SecureRandom(); // threadsafe
+    private static final Base64.Encoder base64Encoder = Base64.getUrlEncoder(); // threadsafe
+    private final static String userAgent = "Mozilla/5.0 (iPhone; U; CPU iPhone OS 3_0 like Mac OS X; en-us) AppleWebKit/528.18 (KHTML, like Gecko) Version/4.0 Mobile/7A341 Safari/528.16";
+
+    public static String translate(String query, LANGUAGE srcLang, LANGUAGE destLang) throws IOException {
+        // INSERT YOU URL HERE
+        String urlStr = generateTranslateURL(srcLang.toString(), destLang.toString(), query);
+        URL url = new URL(urlStr);
+        StringBuilder response = new StringBuilder();
+        HttpURLConnection con = (HttpURLConnection) url.openConnection();
+        con.setRequestMethod("GET");
+        con.setRequestProperty("User-Agent", userAgent);
+        BufferedReader in = new BufferedReader(new InputStreamReader(con.getInputStream()));
+        String inputLine;
+        while ((inputLine = in.readLine()) != null) {
+            response.append(inputLine);
+        }
+        in.close();
+        return response.toString().trim().replace("\"", "");
+    }
+
+    private static String generateTranslateURL(String sourceLanguage, String targetLanguage, String text)
+            throws UnsupportedEncodingException {
+        return GOOGLE_TRANSLATE_URL + "client=gtrans" +
+                "&sl=" + sourceLanguage +
+                "&tl=" + targetLanguage +
+                "&hl=" + targetLanguage + // The language of the UI
+                "&tk=" + generateNewToken() +
+                "&q=" + URLEncoder.encode(text, StandardCharsets.UTF_8);
+    }
+
+    private static String generateNewToken() {
+        byte[] randomBytes = new byte[24];
+        secureRandom.nextBytes(randomBytes);
+        return base64Encoder.encodeToString(randomBytes);
+    }
+
+    public enum LANGUAGE {
+        ENGLISH("en"),
+        VIETNAMESE("vi"),
+        AUTO("auto"),
+        JAPANESE("ja"),
+        CHINESE("zh"),
+        FRENCH("fr"),
+        SPANISH("es"),
+        GERMAN("de"),
+        RUSSIAN("ru"),
+        ARABIC("ar"),
+        KOREAN("ko"),
+        PORTUGUESE("pt");
+
+        private String lang = "";
+
+        LANGUAGE(String lang) {
+            this.lang = lang;
+        }
+
+        @Override
+        public String toString() {
+            return this.lang;
         }
     }
+
 }

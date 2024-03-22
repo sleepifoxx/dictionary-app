@@ -4,30 +4,31 @@
 <?import javafx.scene.layout.AnchorPane?>
 <?import javafx.scene.text.Text?>
 
-<AnchorPane maxHeight="-Infinity" maxWidth="-Infinity" minHeight="-Infinity" minWidth="-Infinity" prefHeight="590.0" prefWidth="800.0" xmlns="http://javafx.com/javafx/21" xmlns:fx="http://javafx.com/fxml/1" fx:controller="com.example.enghouse.MultipleChoiceController">
+<AnchorPane fx:id="contentAnchorPane" maxHeight="-Infinity" maxWidth="-Infinity" minHeight="-Infinity" minWidth="-Infinity" prefHeight="590.0" prefWidth="800.0" xmlns="http://javafx.com/javafx/21" xmlns:fx="http://javafx.com/fxml/1" fx:controller="com.example.enghouse.MultipleChoiceController">
    <children>
-      <Text fx:id="Word" layoutX="232.0" layoutY="99.0" strokeType="OUTSIDE" strokeWidth="0.0" />
-      <Button fx:id="ChoiceA" layoutX="115.0" layoutY="175.0" mnemonicParsing="false" onAction="#handleChoiceAButton" text="A">
+      <Text fx:id="Word" layoutX="181.0" layoutY="148.0" strokeType="OUTSIDE" strokeWidth="0.0" />
+      <Button fx:id="ChoiceA" layoutX="181.0" layoutY="223.0" mnemonicParsing="false" onAction="#handleChoiceAButton" text="A">
          <graphic>
             <Text fx:id="text_choiceA" strokeType="OUTSIDE" strokeWidth="0.0" />
          </graphic>
       </Button>
-      <Button fx:id="ChoiceB" layoutX="392.0" layoutY="294.0" mnemonicParsing="false" onAction="#handleChoiceBButton" text="B">
+      <Button fx:id="ChoiceB" layoutX="386.0" layoutY="223.0" mnemonicParsing="false" onAction="#handleChoiceBButton" text="B">
          <graphic>
             <Text fx:id="text_choiceB" strokeType="OUTSIDE" strokeWidth="0.0" />
          </graphic>
       </Button>
-      <Button fx:id="ChoiceC" layoutX="246.0" layoutY="269.0" mnemonicParsing="false" onAction="#handleChoiceCButton" text="C">
+      <Button fx:id="ChoiceC" layoutX="181.0" layoutY="333.0" mnemonicParsing="false" onAction="#handleChoiceCButton" text="C">
          <graphic>
             <Text fx:id="text_choiceC" strokeType="OUTSIDE" strokeWidth="0.0" />
          </graphic>
       </Button>
-      <Button fx:id="ChoiceD" layoutX="129.0" layoutY="333.0" mnemonicParsing="false" onAction="#handleChoiceDButton" text="D">
+      <Button fx:id="ChoiceD" layoutX="385.0" layoutY="333.0" mnemonicParsing="false" onAction="#handleChoiceDButton" text="D">
          <graphic>
             <Text fx:id="text_choiceD" strokeType="OUTSIDE" strokeWidth="0.0" />
          </graphic>
       </Button>
-      <Text fx:id="alert" layoutX="332.0" layoutY="192.0" strokeType="OUTSIDE" strokeWidth="0.0" />
-      <Button fx:id="NextButton" layoutX="468.0" layoutY="383.0" mnemonicParsing="false" onAction="#handleNextButton" text="next " />
+      <Text fx:id="alert" layoutX="450.0" layoutY="100.0" strokeType="OUTSIDE" strokeWidth="0.0" />
+      <Button fx:id="NextButton" layoutX="599.0" layoutY="282.0" mnemonicParsing="false" onAction="#handleNextButton" text="Next question" />
+      <Button fx:id="BackButton" layoutX="68.0" layoutY="50.0" mnemonicParsing="false" onAction="#handleBackButton" text="Back to Game" />
    </children>
 </AnchorPane>
