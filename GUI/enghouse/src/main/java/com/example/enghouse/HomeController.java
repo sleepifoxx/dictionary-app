@@ -13,9 +13,6 @@ import javafx.scene.control.Button;
 import javafx.scene.control.ListView;
 import javafx.scene.control.TextArea;
 import javafx.scene.text.Text;
-import javafx.animation.KeyFrame;
-import javafx.animation.Timeline;
-import javafx.util.Duration;
 
 public class HomeController {
     private static List<String> recent = new ArrayList<>();
@@ -25,15 +22,18 @@ public class HomeController {
     @FXML
     private TextArea home_explain_area;
     @FXML
-    private Button home_search_button, home_reset_recent_button, home_remove_button, home_edit_button, home_save_button;
+    private Button home_search_button, home_reset_recent_button, home_remove_button, home_edit_button, home_save_button,
+            home_alert;
     @FXML
     private ListView<String> home_recent_list, home_suggestWord_list;
     @FXML
-    private Text home_alert;
+    private Text home_word_target;
 
     @FXML
     private void initialize() {
+        saveRecent();
         home_recent_list.getItems().clear();
+        home_word_target.setVisible(false);
         recent.clear();
         insertfromRecent();
         home_reset_recent_button.setDisable(true);
@@ -41,6 +41,7 @@ public class HomeController {
         home_save_button.setVisible(false);
         home_edit_button.setVisible(false);
         home_remove_button.setVisible(false);
+        home_alert.setVisible(false);
         suggestWordListExited();
         if (recent.size() > 0) {
             home_reset_recent_button.setDisable(false);
@@ -69,20 +70,23 @@ public class HomeController {
         suggestWordListExited();
         home_edit_button.setVisible(true);
         home_remove_button.setVisible(true);
+        home_word_target.setVisible(true);
+        home_word_target.setText(selectedWord);
     }
 
     @FXML
     private void handleRemoveButton() {
         String word_target = home_search_bar.getText();
         if (Data.isWordExist(word_target) == false) {
-            Alert(word_target + " not found!");
+            App.Alert(home_alert, "Không tìm thấy từ: " + word_target + "!", 2);
         } else {
             Data.removeWord(word_target);
-            Alert("Word removed successfully!");
+            App.Alert(home_alert, "Xoá từ thành công!", 2);
             home_search_bar.setText("");
             home_explain_area.setText("");
             home_edit_button.setVisible(false);
             home_remove_button.setVisible(false);
+            home_word_target.setVisible(false);
             recent.remove(word_target);
             home_recent_list.getItems().clear();
             for (String word : recent) {
@@ -95,7 +99,7 @@ public class HomeController {
     private void handleEditButton() {
         String word_target = home_search_bar.getText();
         if (Data.isWordExist(word_target) == false) {
-            Alert(word_target + " not found!");
+            App.Alert(home_alert, "Không tìm thấy từ: " + word_target + "!", 2);
         } else {
             home_explain_area.setEditable(true);
             home_save_button.setVisible(true);
@@ -107,23 +111,14 @@ public class HomeController {
         String word_target = home_search_bar.getText();
         String word_explain = home_explain_area.getText();
         if (Data.isWordExist(word_target) == false) {
-            Alert(word_target + " not found!");
+            App.Alert(home_alert, "Không tìm thấy từ: " + word_target + "!", 2);
         } else {
             Word word = new Word(word_target, word_explain);
             Data.addWord(word);
-            Alert("Word edited successfully!");
+            App.Alert(home_alert, "Lưu từ thành công!", 2);
             home_explain_area.setEditable(false);
             home_save_button.setVisible(false);
         }
-    }
-
-    @FXML
-    private void Alert(String massage) {
-        home_alert.setText(massage);
-        Timeline timeline = new Timeline(new KeyFrame(Duration.seconds(2), event -> {
-            home_alert.setText("");
-        }));
-        timeline.play();
     }
 
     @FXML
@@ -141,6 +136,8 @@ public class HomeController {
         home_edit_button.setVisible(true);
         home_remove_button.setVisible(true);
         home_suggestWord_list.setVisible(false);
+        home_word_target.setVisible(true);
+        home_word_target.setText(selectedWord);
     }
 
     @FXML
@@ -148,8 +145,9 @@ public class HomeController {
         String word_target = home_search_bar.getText();
         suggestWordListExited();
         if (Data.isWordExist(word_target) == false) {
-            home_alert.setText(word_target + " not found!");
+            App.Alert(home_alert, "Không tìm thấy từ: " + word_target + "!", 2);
             home_explain_area.setText("");
+            home_edit_button.setVisible(false);
         } else {
             home_alert.setText("");
             String word_explain = Data.searchData(word_target);
@@ -162,6 +160,8 @@ public class HomeController {
             }
             home_edit_button.setVisible(true);
             home_remove_button.setVisible(true);
+            home_word_target.setVisible(true);
+            home_word_target.setText(word_target);
         }
     }
 
