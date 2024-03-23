@@ -61,8 +61,16 @@ public class MergeWordController {
     }
 
     @FXML
-    public void AnswerExactly() {
+    private void AnswerExactly() {
         Answer_Exactly.setText("Đáp án chính xác là: " + word_target);
+    }
+
+    @FXML
+    private void handleNextButton() {
+        initialize();
+        alert.setText("");
+        Answer_Exactly.setText("");
+        inputWord.setText("");
     }
 
     public void insertFromFile() {
