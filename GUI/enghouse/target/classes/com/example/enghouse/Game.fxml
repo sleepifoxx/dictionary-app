@@ -6,5 +6,6 @@
 <AnchorPane fx:id="contentAnchorPane" prefHeight="590.0" prefWidth="800.0" styleClass="main_panel" stylesheets="@css/style.css" xmlns="http://javafx.com/javafx/21" xmlns:fx="http://javafx.com/fxml/1" fx:controller="com.example.enghouse.GameController">
    <children>
       <Button fx:id="game_multiplechoice_button" layoutX="324.0" layoutY="171.0" mnemonicParsing="false" onAction="#handleMultipleChoiceButton" text="Game2" />
+      <Button fx:id="game_mergeword_button" layoutX="298.0" layoutY="256.0" mnemonicParsing="false" onAction="#handleMergeWordButton" text="game1" />
    </children>
 </AnchorPane>

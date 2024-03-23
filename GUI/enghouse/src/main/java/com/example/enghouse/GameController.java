@@ -15,6 +15,9 @@ public class GameController {
     @FXML
     private AnchorPane contentAnchorPane;
 
+    @FXML
+    private Button game_mergeword_button;
+
     public GameController() {
     }
 
@@ -24,13 +27,17 @@ public class GameController {
     }
 
     @FXML
+    private void handleMergeWordButton() {
+        loadFXML("MergeWord.fxml");
+    }
+
+    @FXML
     private void loadFXML(String fxmlFileName) {
         try {
-            AnchorPane pane = (AnchorPane) FXMLLoader.load(this.getClass().getResource(fxmlFileName));
-            contentAnchorPane.getChildren().setAll(new Node[] { pane });
-        } catch (IOException var3) {
-            var3.printStackTrace();
+            AnchorPane pane = FXMLLoader.load(getClass().getResource(fxmlFileName));
+            contentAnchorPane.getChildren().setAll(pane);
+        } catch (IOException e) {
+            e.printStackTrace();
         }
-
     }
 }
