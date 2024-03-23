@@ -42,7 +42,7 @@ public class MergeWordController {
             word_target_array[i] = word_target_array[j];
             word_target_array[j] = temp;
         }
-        String s = "";
+        String s = "/ ";
         for (int i = 0; i < word_target_array.length; i++) {
             s += word_target_array[i];
             s += " / ";

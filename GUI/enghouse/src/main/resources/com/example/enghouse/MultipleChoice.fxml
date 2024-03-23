@@ -6,28 +6,29 @@
 
 <AnchorPane maxHeight="-Infinity" maxWidth="-Infinity" minHeight="-Infinity" minWidth="-Infinity" prefHeight="590.0" prefWidth="800.0" xmlns="http://javafx.com/javafx/21" xmlns:fx="http://javafx.com/fxml/1" fx:controller="com.example.enghouse.MultipleChoiceController">
    <children>
-      <Text fx:id="Word" layoutX="232.0" layoutY="99.0" strokeType="OUTSIDE" strokeWidth="0.0" />
-      <Button fx:id="ChoiceA" layoutX="115.0" layoutY="175.0" mnemonicParsing="false" onAction="#handleChoiceAButton" text="A">
+      <Text fx:id="Word" layoutX="251.0" layoutY="131.0" strokeType="OUTSIDE" strokeWidth="0.0" wrappingWidth="323.33332316080737" />
+      <Button fx:id="ChoiceA" layoutX="88.0" layoutY="239.0" mnemonicParsing="false" onAction="#handleChoiceAButton" text="A">
          <graphic>
             <Text fx:id="text_choiceA" strokeType="OUTSIDE" strokeWidth="0.0" />
          </graphic>
       </Button>
-      <Button fx:id="ChoiceB" layoutX="392.0" layoutY="294.0" mnemonicParsing="false" onAction="#handleChoiceBButton" text="B">
+      <Button fx:id="ChoiceB" layoutX="429.0" layoutY="237.0" mnemonicParsing="false" onAction="#handleChoiceBButton" text="B">
          <graphic>
             <Text fx:id="text_choiceB" strokeType="OUTSIDE" strokeWidth="0.0" />
          </graphic>
       </Button>
-      <Button fx:id="ChoiceC" layoutX="246.0" layoutY="269.0" mnemonicParsing="false" onAction="#handleChoiceCButton" text="C">
+      <Button fx:id="ChoiceC" layoutX="88.0" layoutY="342.0" mnemonicParsing="false" onAction="#handleChoiceCButton" text="C">
          <graphic>
             <Text fx:id="text_choiceC" strokeType="OUTSIDE" strokeWidth="0.0" />
          </graphic>
       </Button>
-      <Button fx:id="ChoiceD" layoutX="129.0" layoutY="333.0" mnemonicParsing="false" onAction="#handleChoiceDButton" text="D">
+      <Button fx:id="ChoiceD" layoutX="427.0" layoutY="327.0" mnemonicParsing="false" onAction="#handleChoiceDButton" text="D">
          <graphic>
             <Text fx:id="text_choiceD" strokeType="OUTSIDE" strokeWidth="0.0" />
          </graphic>
       </Button>
-      <Text fx:id="alert" layoutX="332.0" layoutY="192.0" strokeType="OUTSIDE" strokeWidth="0.0" />
-      <Button fx:id="NextButton" layoutX="468.0" layoutY="383.0" mnemonicParsing="false" onAction="#handleNextButton" text="next " />
+      <Text fx:id="alert" layoutX="283.0" layoutY="404.0" strokeType="OUTSIDE" strokeWidth="0.0" wrappingWidth="281.0" />
+      <Button fx:id="NextButton" layoutX="567.0" layoutY="442.0" mnemonicParsing="false" onAction="#handleNextButton" text="next " />
+      <Text layoutX="287.0" layoutY="65.0" strokeType="OUTSIDE" strokeWidth="0.0" text="Hãy chọn nghĩa chính xác cho từ dưới đây!" />
    </children>
 </AnchorPane>
