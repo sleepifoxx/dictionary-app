@@ -23,7 +23,7 @@ public class HomeController {
     private TextArea home_explain_area;
     @FXML
     private Button home_search_button, home_reset_recent_button, home_remove_button, home_edit_button, home_save_button,
-            home_alert;
+            home_alert, home_sound_button;
     @FXML
     private ListView<String> home_recent_list, home_suggestWord_list;
     @FXML
@@ -41,6 +41,7 @@ public class HomeController {
         home_save_button.setVisible(false);
         home_edit_button.setVisible(false);
         home_remove_button.setVisible(false);
+        home_sound_button.setVisible(false);
         home_alert.setVisible(false);
         suggestWordListExited();
         if (recent.size() > 0) {
@@ -70,6 +71,7 @@ public class HomeController {
         suggestWordListExited();
         home_edit_button.setVisible(true);
         home_remove_button.setVisible(true);
+        home_sound_button.setVisible(true);
         home_word_target.setVisible(true);
         home_word_target.setText(selectedWord);
     }
@@ -86,6 +88,7 @@ public class HomeController {
             home_explain_area.setText("");
             home_edit_button.setVisible(false);
             home_remove_button.setVisible(false);
+            home_sound_button.setVisible(false);
             home_word_target.setVisible(false);
             recent.remove(word_target);
             home_recent_list.getItems().clear();
@@ -104,6 +107,12 @@ public class HomeController {
             home_explain_area.setEditable(true);
             home_save_button.setVisible(true);
         }
+    }
+
+    @FXML
+    private void handleSoundButton() {
+        String word_target = home_search_bar.getText();
+        AudioAPI.AudioPlay(word_target, "en-US");
     }
 
     @FXML
@@ -135,6 +144,7 @@ public class HomeController {
         home_explain_area.setText(word_explain);
         home_edit_button.setVisible(true);
         home_remove_button.setVisible(true);
+        home_sound_button.setVisible(true);
         home_suggestWord_list.setVisible(false);
         home_word_target.setVisible(true);
         home_word_target.setText(selectedWord);
@@ -160,6 +170,7 @@ public class HomeController {
             }
             home_edit_button.setVisible(true);
             home_remove_button.setVisible(true);
+            home_sound_button.setVisible(true);
             home_word_target.setVisible(true);
             home_word_target.setText(word_target);
         }

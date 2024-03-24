@@ -1,2 +1,2 @@
-xmas
-word
+get about
+string
