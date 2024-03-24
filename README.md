@@ -16,8 +16,6 @@
   </p>
 </p>
 
-![Contributors](https://img.shields.io/github/contributors/sleepifoxx/dictionary-app?color=dark-green) 
-
 ## Table Of Contents
 
 * [About the Project](#about-the-project)
