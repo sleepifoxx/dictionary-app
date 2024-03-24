@@ -75,7 +75,7 @@ git clone https://github.com/sleepifoxx/dictionary-app.git
 
 3. Go to App.java
 
-```JS
+```sh
 Run this file.
 ```
 
