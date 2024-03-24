@@ -16,6 +16,7 @@ import javafx.scene.text.Text;
 
 public class HomeController {
     private static List<String> recent = new ArrayList<>();
+    private static List<String> bookmark = new ArrayList<>();
     private String selectedWord;
     @FXML
     private TextField home_search_bar;
@@ -23,7 +24,7 @@ public class HomeController {
     private TextArea home_explain_area;
     @FXML
     private Button home_search_button, home_reset_recent_button, home_remove_button, home_edit_button, home_save_button,
-            home_alert, home_sound_button;
+            home_alert, home_sound_button, home_bookmark_button;
     @FXML
     private ListView<String> home_recent_list, home_suggestWord_list;
     @FXML
@@ -31,15 +32,25 @@ public class HomeController {
 
     @FXML
     private void initialize() {
-        saveRecent();
+        if (recent.size() != 0) {
+            saveRecent();
+        }
         home_recent_list.getItems().clear();
-        home_word_target.setVisible(false);
         recent.clear();
         insertfromRecent();
+
+        if (bookmark.size() != 0) {
+            saveBookmark();
+        }
+        bookmark.clear();
+        insertfromBookmark();
+
+        home_word_target.setVisible(false);
         home_reset_recent_button.setDisable(true);
         home_explain_area.setEditable(false);
         home_save_button.setVisible(false);
         home_edit_button.setVisible(false);
+        home_bookmark_button.setVisible(false);
         home_remove_button.setVisible(false);
         home_sound_button.setVisible(false);
         home_alert.setVisible(false);
@@ -69,32 +80,22 @@ public class HomeController {
         home_search_bar.setText(selectedWord);
         handleSearchButton();
         suggestWordListExited();
-        home_edit_button.setVisible(true);
-        home_remove_button.setVisible(true);
-        home_sound_button.setVisible(true);
-        home_word_target.setVisible(true);
         home_word_target.setText(selectedWord);
+        VisibleTrue();
     }
 
     @FXML
     private void handleRemoveButton() {
         String word_target = home_search_bar.getText();
-        if (Data.isWordExist(word_target) == false) {
-            App.Alert(home_alert, "Không tìm thấy từ: " + word_target + "!", 2);
-        } else {
-            Data.removeWord(word_target);
-            App.Alert(home_alert, "Xoá từ thành công!", 2);
-            home_search_bar.setText("");
-            home_explain_area.setText("");
-            home_edit_button.setVisible(false);
-            home_remove_button.setVisible(false);
-            home_sound_button.setVisible(false);
-            home_word_target.setVisible(false);
-            recent.remove(word_target);
-            home_recent_list.getItems().clear();
-            for (String word : recent) {
-                home_recent_list.getItems().add(word);
-            }
+        Data.removeWord(word_target);
+        App.Alert(home_alert, "Xoá từ thành công!", 2);
+        home_search_bar.setText("");
+        home_explain_area.setText("");
+        VisibleFalse();
+        recent.remove(word_target);
+        home_recent_list.getItems().clear();
+        for (String word : recent) {
+            home_recent_list.getItems().add(word);
         }
     }
 
@@ -119,15 +120,19 @@ public class HomeController {
     private void handleSaveButton() {
         String word_target = home_search_bar.getText();
         String word_explain = home_explain_area.getText();
-        if (Data.isWordExist(word_target) == false) {
-            App.Alert(home_alert, "Không tìm thấy từ: " + word_target + "!", 2);
-        } else {
-            Word word = new Word(word_target, word_explain);
-            Data.addWord(word);
-            App.Alert(home_alert, "Lưu từ thành công!", 2);
-            home_explain_area.setEditable(false);
-            home_save_button.setVisible(false);
-        }
+        Word word = new Word(word_target, word_explain);
+        Data.addWord(word);
+        App.Alert(home_alert, "Lưu từ thành công!", 2);
+        home_explain_area.setEditable(false);
+        home_save_button.setVisible(false);
+    }
+
+    @FXML
+    private void handleBookmarkButton() {
+        String word_target = home_search_bar.getText();
+        bookmark.add(word_target);
+        App.Alert(home_alert, "Thêm từ vào Bookmark thành công!", 2);
+        home_bookmark_button.setVisible(false);
     }
 
     @FXML
@@ -138,16 +143,15 @@ public class HomeController {
     @FXML
     private void handleRecentListSelection() {
         selectedWord = home_recent_list.getSelectionModel().getSelectedItem();
-        reloadRecentList(selectedWord);
-        home_search_bar.setText(selectedWord);
-        String word_explain = Data.searchData(selectedWord);
-        home_explain_area.setText(word_explain);
-        home_edit_button.setVisible(true);
-        home_remove_button.setVisible(true);
-        home_sound_button.setVisible(true);
-        home_suggestWord_list.setVisible(false);
-        home_word_target.setVisible(true);
-        home_word_target.setText(selectedWord);
+        if (selectedWord != null) {
+            reloadRecentList(selectedWord);
+            home_search_bar.setText(selectedWord);
+            String word_explain = Data.searchData(selectedWord);
+            home_explain_area.setText(word_explain);
+            home_suggestWord_list.setVisible(false);
+            home_word_target.setText(selectedWord);
+            VisibleTrue();
+        }
     }
 
     @FXML
@@ -157,7 +161,7 @@ public class HomeController {
         if (Data.isWordExist(word_target) == false) {
             App.Alert(home_alert, "Không tìm thấy từ: " + word_target + "!", 2);
             home_explain_area.setText("");
-            home_edit_button.setVisible(false);
+            VisibleFalse();
         } else {
             home_alert.setText("");
             String word_explain = Data.searchData(word_target);
@@ -168,11 +172,8 @@ public class HomeController {
             } else {
                 reloadRecentList(word_target);
             }
-            home_edit_button.setVisible(true);
-            home_remove_button.setVisible(true);
-            home_sound_button.setVisible(true);
-            home_word_target.setVisible(true);
             home_word_target.setText(word_target);
+            VisibleTrue();
         }
     }
 
@@ -193,6 +194,28 @@ public class HomeController {
         home_reset_recent_button.setDisable(true);
         recent.clear();
         home_recent_list.getItems().clear();
+    }
+
+    @FXML
+    private void VisibleFalse() {
+        home_bookmark_button.setVisible(false);
+        home_edit_button.setVisible(false);
+        home_remove_button.setVisible(false);
+        home_sound_button.setVisible(false);
+        home_word_target.setVisible(false);
+    }
+
+    @FXML
+    private void VisibleTrue() {
+        if (bookmark.contains(selectedWord)) {
+            home_bookmark_button.setVisible(false);
+        } else {
+            home_bookmark_button.setVisible(true);
+        }
+        home_edit_button.setVisible(true);
+        home_remove_button.setVisible(true);
+        home_sound_button.setVisible(true);
+        home_word_target.setVisible(true);
     }
 
     // File recent.txt Controller
@@ -223,4 +246,28 @@ public class HomeController {
         }
     }
 
+    public static void saveBookmark() {
+        try {
+            PrintWriter writer = new PrintWriter(new File("database/bookmark.txt"));
+            for (String word : bookmark) {
+                writer.println(word);
+            }
+            writer.close();
+        } catch (IOException e) {
+            System.out.println("An error occur with file: " + e);
+        }
+    }
+
+    public static void insertfromBookmark() {
+        try {
+            Scanner scanner = new Scanner(new File("database/bookmark.txt"));
+            while (scanner.hasNextLine()) {
+                String word = scanner.nextLine();
+                bookmark.add(word);
+            }
+            scanner.close();
+        } catch (IOException e) {
+            System.out.println("An error occur with file: " + e);
+        }
+    }
 }

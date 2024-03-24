@@ -87,6 +87,15 @@
                   </ImageView>
                </graphic>
             </Button>
+            <Button fx:id="home_bookmark_button" contentDisplay="GRAPHIC_ONLY" layoutX="332.0" mnemonicParsing="false" onAction="#handleBookmarkButton" styleClass="home_control_button" stylesheets="@css/Home.css" text="Bookmark">
+               <graphic>
+                  <ImageView fitHeight="30.0" fitWidth="30.0" pickOnBounds="true" preserveRatio="true">
+                     <image>
+                        <Image url="@icons/bookmark.png" />
+                     </image>
+                  </ImageView>
+               </graphic>
+            </Button>
          </children>
       </AnchorPane>
       <Button fx:id="home_save_button" contentDisplay="GRAPHIC_ONLY" layoutX="707.0" layoutY="510.0" mnemonicParsing="false" onAction="#handleSaveButton" styleClass="home_save_button" stylesheets="@css/Home.css" text="Save">
@@ -98,6 +107,6 @@
             </ImageView>
          </graphic>
       </Button>
-      <ListView fx:id="home_suggestWord_list" layoutX="94.0" layoutY="81.0" onMouseClicked="#handleSuggestWordSelection" prefHeight="183.0" prefWidth="500.0" />
+      <ListView fx:id="home_suggestWord_list" layoutX="94.0" layoutY="80.0" onMouseClicked="#handleSuggestWordSelection" prefHeight="181.0" prefWidth="500.0" />
    </children>
 </AnchorPane>
