@@ -37,6 +37,7 @@ public class Data {
     }
 
     public static void returnSuggestWord(String word) {
+        word = word.toLowerCase();
         suggestWordList.clear();
         for (Map.Entry<String, String> entry : data.entrySet()) {
             if (entry.getKey().startsWith(word)) {

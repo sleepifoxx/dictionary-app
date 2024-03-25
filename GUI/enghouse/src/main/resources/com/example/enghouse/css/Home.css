@@ -1,5 +1,6 @@
 .home_search_button {
     -fx-background-color: #363737;
+    -fx-background-radius: 15;
 }
 
 .home_search_button:hover {
@@ -20,6 +21,9 @@
 .home_control_area {
     -fx-background-color: #363737;
     -fx-background-radius: 3;
+    -fx-border-color: #363737;
+    -fx-border-width: 1;
+    -fx-border-radius: 3;
 }
 
 .home_save_button {
@@ -44,4 +48,18 @@
     -fx-background-color: #C23B22;
     -fx-background-radius: 15;
     -fx-text-fill: #ffffff;
+}
+
+.home_search_bar {
+    -fx-background-radius: 15;
+    -fx-border-color: #363737;
+    -fx-border-width: 1;
+    -fx-border-radius: 15;
+}
+
+.home_text_area {
+    -fx-background-radius: 3;
+    -fx-border-color: #363737;
+    -fx-border-width: 2;
+    -fx-border-radius: 3;
 }

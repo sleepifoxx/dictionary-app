@@ -86,7 +86,7 @@ public class HomeController {
 
     @FXML
     private void handleRemoveButton() {
-        String word_target = home_search_bar.getText();
+        String word_target = home_search_bar.getText().toLowerCase();
         Data.removeWord(word_target);
         App.Alert(home_alert, "Xoá từ thành công!", 2);
         home_search_bar.setText("");
@@ -101,7 +101,7 @@ public class HomeController {
 
     @FXML
     private void handleEditButton() {
-        String word_target = home_search_bar.getText();
+        String word_target = home_search_bar.getText().toLowerCase();
         if (Data.isWordExist(word_target) == false) {
             App.Alert(home_alert, "Không tìm thấy từ: " + word_target + "!", 2);
         } else {
@@ -112,13 +112,13 @@ public class HomeController {
 
     @FXML
     private void handleSoundButton() {
-        String word_target = home_search_bar.getText();
+        String word_target = home_search_bar.getText().toLowerCase();
         AudioAPI.AudioPlay(word_target, "en-US");
     }
 
     @FXML
     private void handleSaveButton() {
-        String word_target = home_search_bar.getText();
+        String word_target = home_search_bar.getText().toLowerCase();
         String word_explain = home_explain_area.getText();
         Word word = new Word(word_target, word_explain);
         Data.addWord(word);
@@ -129,7 +129,7 @@ public class HomeController {
 
     @FXML
     private void handleBookmarkButton() {
-        String word_target = home_search_bar.getText();
+        String word_target = home_search_bar.getText().toLowerCase();
         bookmark.add(word_target);
         App.Alert(home_alert, "Thêm từ vào Bookmark thành công!", 2);
         home_bookmark_button.setVisible(false);
@@ -156,7 +156,7 @@ public class HomeController {
 
     @FXML
     private void handleSearchButton() {
-        String word_target = home_search_bar.getText();
+        String word_target = home_search_bar.getText().toLowerCase();
         suggestWordListExited();
         if (Data.isWordExist(word_target) == false) {
             App.Alert(home_alert, "Không tìm thấy từ: " + word_target + "!", 2);
@@ -194,6 +194,7 @@ public class HomeController {
         home_reset_recent_button.setDisable(true);
         recent.clear();
         home_recent_list.getItems().clear();
+        saveRecent();
     }
 
     @FXML
