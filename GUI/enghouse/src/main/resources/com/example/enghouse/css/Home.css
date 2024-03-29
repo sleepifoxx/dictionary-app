@@ -53,7 +53,7 @@
 .home_search_bar {
     -fx-background-radius: 15;
     -fx-border-color: #363737;
-    -fx-border-width: 1;
+    -fx-border-width: 2;
     -fx-border-radius: 15;
 }
 

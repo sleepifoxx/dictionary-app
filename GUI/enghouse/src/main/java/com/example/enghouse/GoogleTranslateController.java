@@ -1,10 +1,13 @@
 package com.example.enghouse;
 
 import javafx.fxml.FXML;
+import javafx.scene.control.Button;
 import javafx.scene.control.TextArea;
 import java.io.IOException;
+import javafx.scene.text.Text;
 
 public class GoogleTranslateController {
+    private String language_target, language_explain;
 
     @FXML
     private TextArea Google_Translate_explain;
@@ -13,10 +16,39 @@ public class GoogleTranslateController {
     private TextArea Google_Translate_target;
 
     @FXML
-    public void Google_Translate_Search() throws IOException {
+    private Button swap;
+
+    @FXML
+    private Text text_target, text_explain;
+
+    @FXML
+    private void initialize() {
+        language_target = "en";
+        language_explain = "vi";
+        text_target.setText("English");
+        text_explain.setText("Tiếng Việt");
+    }
+
+    @FXML
+    private void handleSearchButton() throws IOException {
         String word_target = Google_Translate_target.getText().toLowerCase();
-        String word_explain = GoogleAPI.translate(word_target, GoogleAPI.LANGUAGE.ENGLISH,
-                GoogleAPI.LANGUAGE.VIETNAMESE);
+        String word_explain = GoogleAPI.translate(word_target, language_target,
+                language_explain);
         Google_Translate_explain.setText(word_explain.substring(1, word_explain.length() - 1));
+    }
+
+    @FXML
+    private void handleSwapButton() {
+        if (language_target == "en") {
+            language_target = "vi";
+            language_explain = "en";
+            text_target.setText("Tiếng Việt");
+            text_explain.setText("English");
+        } else {
+            language_target = "en";
+            language_explain = "vi";
+            text_target.setText("English");
+            text_explain.setText("Tiếng Việt");
+        }
     }
 }

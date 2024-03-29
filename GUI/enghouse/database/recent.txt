@@ -1,4 +1,2 @@
-'cellist
-world
 hello
-apple
+world

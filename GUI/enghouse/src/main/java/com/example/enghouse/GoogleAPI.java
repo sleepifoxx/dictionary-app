@@ -17,9 +17,9 @@ public class GoogleAPI {
     private static final Base64.Encoder base64Encoder = Base64.getUrlEncoder(); // threadsafe
     private final static String userAgent = "Mozilla/5.0 (iPhone; U; CPU iPhone OS 3_0 like Mac OS X; en-us) AppleWebKit/528.18 (KHTML, like Gecko) Version/4.0 Mobile/7A341 Safari/528.16";
 
-    public static String translate(String query, LANGUAGE srcLang, LANGUAGE destLang) throws IOException {
+    public static String translate(String query, String srcLang, String destLang) throws IOException {
         // INSERT YOU URL HERE
-        String urlStr = generateTranslateURL(srcLang.toString(), destLang.toString(), query);
+        String urlStr = generateTranslateURL(srcLang, destLang, query);
         URL url = new URL(urlStr);
         StringBuilder response = new StringBuilder();
         HttpURLConnection con = (HttpURLConnection) url.openConnection();
@@ -50,30 +50,10 @@ public class GoogleAPI {
         return base64Encoder.encodeToString(randomBytes);
     }
 
-    public enum LANGUAGE {
-        ENGLISH("en"),
-        VIETNAMESE("vi"),
-        AUTO("auto"),
-        JAPANESE("ja"),
-        CHINESE("zh"),
-        FRENCH("fr"),
-        SPANISH("es"),
-        GERMAN("de"),
-        RUSSIAN("ru"),
-        ARABIC("ar"),
-        KOREAN("ko"),
-        PORTUGUESE("pt");
-
-        private String lang = "";
-
-        LANGUAGE(String lang) {
-            this.lang = lang;
-        }
-
-        @Override
-        public String toString() {
-            return this.lang;
-        }
-    }
-
+    // ENGLISH("en"),
+    // VIETNAMESE("vi"),
+    // AUTO("auto"),
+    // JAPANESE("ja"),
+    // CHINESE("zh"),
+    // RUSSIAN("ru");
 }
