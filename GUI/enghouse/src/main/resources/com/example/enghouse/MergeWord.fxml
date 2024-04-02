@@ -2,19 +2,70 @@
 
 <?import javafx.scene.control.Button?>
 <?import javafx.scene.control.TextField?>
+<?import javafx.scene.image.Image?>
+<?import javafx.scene.image.ImageView?>
 <?import javafx.scene.layout.AnchorPane?>
+<?import javafx.scene.text.Font?>
 <?import javafx.scene.text.Text?>
 
-<AnchorPane maxHeight="-Infinity" maxWidth="-Infinity" minHeight="-Infinity" minWidth="-Infinity" prefHeight="590.0" prefWidth="800.0" xmlns="http://javafx.com/javafx/21" xmlns:fx="http://javafx.com/fxml/1" fx:controller="com.example.enghouse.MergeWordController">
+<AnchorPane fx:id="contentAnchorPane" maxHeight="-Infinity" maxWidth="-Infinity" minHeight="-Infinity" minWidth="-Infinity" prefHeight="590.0" prefWidth="800.0" xmlns="http://javafx.com/javafx/21" xmlns:fx="http://javafx.com/fxml/1" fx:controller="com.example.enghouse.MergeWordController">
    <children>
-      <Text fx:id="printWord" layoutX="198.0" layoutY="96.0" strokeType="OUTSIDE" strokeWidth="0.0" text="Text" wrappingWidth="432.8033447265625" />
-      <Button fx:id="NextButton" layoutX="588.0" layoutY="194.0" mnemonicParsing="false" onAction="#handleNextButton" text="Next" />
-      <Text fx:id="alert" layoutX="231.0" layoutY="284.0" strokeType="OUTSIDE" strokeWidth="0.0" text="Text" wrappingWidth="220.8034210205078" />
-      <Button fx:id="Enter" layoutX="488.0" layoutY="197.0" mnemonicParsing="false" onAction="#checkText" text="Kiểm tra" />
-      <Button fx:id="CheckAnswer" layoutX="52.0" layoutY="346.0" mnemonicParsing="false" onAction="#AnswerExactly" text="Đáp án chính xác" />
-      <Text fx:id="Answer_Exactly" layoutX="57.0" layoutY="415.0" strokeType="OUTSIDE" strokeWidth="0.0" text="Text" />
-      <TextField fx:id="inputWord" layoutX="328.0" layoutY="123.0" prefHeight="25.0" prefWidth="369.0" />
-      <Text layoutX="245.0" layoutY="49.0" strokeType="OUTSIDE" strokeWidth="0.0" text="Hãy ghép các chữ cái dưới đây thành từ có nghĩa!" wrappingWidth="360.13673400878906" />
-      <Text layoutX="202.0" layoutY="143.0" strokeType="OUTSIDE" strokeWidth="0.0" text="Nhập câu trả lời : " />
+      <Text fx:id="printWord" layoutX="219.0" layoutY="94.0" strokeType="OUTSIDE" strokeWidth="0.0" wrappingWidth="514.5082702636719">
+         <font>
+            <Font name="System Bold Italic" size="20.0" />
+         </font></Text>
+      <Button fx:id="NextButton" layoutX="658.0" layoutY="194.0" mnemonicParsing="false" onAction="#handleNextButton" styleClass="mergegamebutton" stylesheets="@css/game.css" text="Next" />
+      <Text fx:id="alert" layoutX="231.0" layoutY="284.0" strokeType="OUTSIDE" strokeWidth="0.0" wrappingWidth="220.8034210205078" />
+      <Button fx:id="Enter" layoutX="459.0" layoutY="192.0" mnemonicParsing="false" onAction="#checkText" styleClass="mergegamebutton" stylesheets="@css/game.css" text="Kiểm tra" />
+      <Button fx:id="CheckAnswer" layoutX="52.0" layoutY="346.0" mnemonicParsing="false" onAction="#AnswerExactly" styleClass="mergegamebutton" stylesheets="@css/game.css" text="Đáp án chính xác" />
+      <Text fx:id="Answer_Exactly" layoutX="61.0" layoutY="440.0" strokeType="OUTSIDE" strokeWidth="0.0" wrappingWidth="280.295467376709">
+         <font>
+            <Font name="System Bold Italic" size="25.0" />
+         </font></Text>
+      <TextField fx:id="inputWord" layoutX="328.0" layoutY="123.0" prefHeight="25.0" prefWidth="400.0" styleClass="input" stylesheets="@css/game.css">
+         <font>
+            <Font name="System Bold" size="16.0" />
+         </font></TextField>
+      <Text layoutX="219.0" layoutY="62.0" strokeType="OUTSIDE" strokeWidth="0.0" text="Hãy ghép các chữ cái dưới đây thành từ có nghĩa!" wrappingWidth="462.80335998535156">
+         <font>
+            <Font name="System Bold" size="18.0" />
+         </font></Text>
+      <Text layoutX="165.0" layoutY="158.0" strokeType="OUTSIDE" strokeWidth="0.0" text="Nhập câu trả lời : ">
+         <font>
+            <Font name="System Bold Italic" size="18.0" />
+         </font></Text>
+      <Button fx:id="Backbutton" layoutX="14.0" layoutY="14.0" mnemonicParsing="false" onAction="#handleBackButton" styleClass="backbutton" stylesheets="@css/game.css">
+         <graphic>
+            <ImageView fitHeight="40.0" fitWidth="40.0" pickOnBounds="true" preserveRatio="true">
+               <image>
+                  <Image url="@icons/left.png" />
+               </image>
+            </ImageView>
+         </graphic>
+      </Button>
+      <Button fx:id="true_button" layoutX="239.0" layoutY="273.0" mnemonicParsing="false" styleClass="alert_true" stylesheets="@css/game.css" text="Button">
+         <graphic>
+            <ImageView fitHeight="30.0" fitWidth="30.0" pickOnBounds="true" preserveRatio="true">
+               <image>
+                  <Image url="@icons/checked.png" />
+               </image>
+            </ImageView>
+         </graphic>
+         <font>
+            <Font size="18.0" />
+         </font>
+      </Button>
+      <Button fx:id="false_button" layoutX="239.0" layoutY="273.0" mnemonicParsing="false" styleClass="alert_false" stylesheets="@css/game.css" text="Button">
+         <graphic>
+            <ImageView fitHeight="30.0" fitWidth="30.0" pickOnBounds="true" preserveRatio="true">
+               <image>
+                  <Image url="@icons/x-mark.png" />
+               </image>
+            </ImageView>
+         </graphic>
+         <font>
+            <Font size="18.0" />
+         </font>
+      </Button>
    </children>
 </AnchorPane>

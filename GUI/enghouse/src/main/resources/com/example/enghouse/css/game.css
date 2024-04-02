@@ -61,3 +61,30 @@
     -fx-background-radius: 20;
     -fx-text-fill: #ffffff;
 }
+
+.mergegamebutton {
+    -fx-background-color: #7fc0e8;
+    -fx-text-fill: #000000c9;
+    -fx-font-size: 2.0em;
+    -fx-font-weight: bold;
+    -fx-background-radius: 20;
+    -fx-border-color: #000000c9;
+    -fx-border-radius: 20;
+    -fx-border-width: 2;
+}
+
+.mergegamebutton:hover {
+    -fx-background-color: #000000c9;
+    -fx-text-fill: #7fc0e8;
+}
+
+.input {
+    -fx-background-color: #000000c9;
+    -fx-text-fill: #4dd716;
+    -fx-font-size: 2.0em;
+    -fx-font-weight: bold;
+    -fx-background-radius: 20;
+    -fx-border-color: #000000c9;
+    -fx-border-radius: 20;
+    -fx-border-width: 2;
+}
