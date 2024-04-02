@@ -3,20 +3,14 @@ package com.example.enghouse;
 import java.io.IOException;
 import javafx.fxml.FXML;
 import javafx.fxml.FXMLLoader;
-import javafx.scene.Node;
 import javafx.scene.control.Button;
 import javafx.scene.layout.AnchorPane;
 
 public class GameController {
     @FXML
-    private Button game_multiplechoice_button;
+    private Button game_multiplechoice_button, game_mergeword_button;
     @FXML
-    private AnchorPane mainPane;
-    @FXML
-    private AnchorPane contentAnchorPane;
-
-    @FXML
-    private Button game_mergeword_button;
+    private AnchorPane mainPane, contentAnchorPane;
 
     public GameController() {
     }

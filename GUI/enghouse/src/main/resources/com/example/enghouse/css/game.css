@@ -1,0 +1,63 @@
+.game1button {
+    -fx-background-color: #7fc0e8;
+    -fx-text-fill: #000000c9;
+    -fx-font-size: 2.0em;
+    -fx-font-weight: bold;
+    -fx-background-radius: 20;
+    -fx-border-color: #000000c9;
+    -fx-border-radius: 20;
+    -fx-border-width: 2;
+}
+
+.game1button:hover {
+    -fx-background-color: #000000c9;
+    -fx-text-fill: #7fc0e8
+}
+
+.game2button {
+    -fx-background-color: #7fc0e8;
+    -fx-text-fill: #000000c9;
+    -fx-font-size: 2.0em;
+    -fx-font-weight: bold;
+    -fx-background-radius: 20;
+    -fx-border-color: #000000c9;
+    -fx-border-radius: 20;
+    -fx-border-width: 2;
+}
+
+.game2button:hover {
+    -fx-background-color: #000000c9;
+    -fx-text-fill: #7fc0e8;
+}
+
+.backbutton {
+    -fx-background-color: #363737;
+}
+
+.multipleChoiceGame {
+    -fx-background-color: #7fc0e8;
+    -fx-text-fill: #000000c9;
+    -fx-font-size: 2.0em;
+    -fx-font-weight: bold;
+    -fx-background-radius: 20;
+    -fx-border-color: #000000c9;
+    -fx-border-radius: 20;
+    -fx-border-width: 2;
+}
+
+.multipleChoiceGame:hover {
+    -fx-background-color: #5e2fcbc9;
+    -fx-text-fill: #7fc0e8;
+}
+
+.alert_false {
+    -fx-background-color: #C23B22;
+    -fx-background-radius: 20;
+    -fx-text-fill: #ffffff;
+}
+
+.alert_true {
+    -fx-background-color: #3CB371;
+    -fx-background-radius: 20;
+    -fx-text-fill: #ffffff;
+}

@@ -1,10 +1,14 @@
 package com.example.enghouse;
 
+import javafx.animation.KeyFrame;
+import javafx.animation.Timeline;
 import javafx.application.Application;
 import javafx.fxml.FXMLLoader;
 import javafx.scene.Scene;
 import javafx.stage.Stage;
+import javafx.util.Duration;
 import javafx.scene.image.Image;
+import javafx.scene.control.Button;
 
 import java.io.IOException;
 
@@ -24,7 +28,18 @@ public class App extends Application {
         stage.setOnCloseRequest(e -> {
             // Data.saveData();
             HomeController.saveRecent();
+            HomeController.saveBookmark();
         });
+    }
+
+    public static void Alert(Button alert_location, String massage, int seconds) {
+        alert_location.setVisible(true);
+        alert_location.setText(massage);
+        Timeline timeline = new Timeline(new KeyFrame(Duration.seconds(seconds), event -> {
+            alert_location.setText("");
+            alert_location.setVisible(false);
+        }));
+        timeline.play();
     }
 
     public static void main(String[] args) {

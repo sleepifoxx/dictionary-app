@@ -5,6 +5,7 @@ import java.util.*;
 
 public class Data {
     private static Map<String, String> data = new HashMap<>();
+    public static List<String> suggestWordList = new ArrayList<>();
 
     public static void insertFromDictionaries() {
         try {
@@ -35,6 +36,17 @@ public class Data {
         }
     }
 
+    public static void returnSuggestWord(String word) {
+        word = word.toLowerCase();
+        suggestWordList.clear();
+        for (Map.Entry<String, String> entry : data.entrySet()) {
+            if (entry.getKey().startsWith(word)) {
+                suggestWordList.add(entry.getKey());
+            }
+        }
+        suggestWordList.sort(String::compareTo);
+    }
+
     public static void saveData() {
         try {
             FileWriter fileWriter = new FileWriter("database/dictionaries.txt");
@@ -57,5 +69,9 @@ public class Data {
 
     public static void addWord(Word word) {
         data.put(word.getWord_target(), word.getWord_explain());
+    }
+
+    public static void removeWord(String word) {
+        data.remove(word);
     }
 }
