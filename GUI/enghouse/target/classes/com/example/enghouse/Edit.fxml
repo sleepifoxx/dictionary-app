@@ -10,7 +10,7 @@
 
 <AnchorPane prefHeight="590.0" prefWidth="800.0" styleClass="main_panel" stylesheets="@css/style.css" xmlns="http://javafx.com/javafx/21" xmlns:fx="http://javafx.com/fxml/1" fx:controller="com.example.enghouse.EditController">
    <children>
-      <Button graphicTextGap="10.0" layoutX="181.0" layoutY="507.0" mnemonicParsing="false" onAction="#handleSaveButton" prefHeight="42.0" prefWidth="113.0" styleClass="edit_button" stylesheets="@css/Edit.css" text="Save">
+      <Button fx:id="edit_save_button" graphicTextGap="10.0" layoutX="181.0" layoutY="507.0" mnemonicParsing="false" onAction="#handleSaveButton" prefHeight="42.0" prefWidth="113.0" styleClass="edit_button" stylesheets="@css/Edit.css" text="Save">
          <graphic>
             <ImageView fitHeight="30.0" fitWidth="30.0" pickOnBounds="true" preserveRatio="true">
                <image>
@@ -21,7 +21,7 @@
          <font>
             <Font size="16.0" />
          </font></Button>
-      <Button contentDisplay="RIGHT" layoutX="376.0" layoutY="45.0" mnemonicParsing="false" onAction="#handleCheckButton" prefHeight="30.0" prefWidth="82.0" styleClass="edit_button" stylesheets="@css/Edit.css" text="Check">
+      <Button fx:id="edit_check_button" contentDisplay="RIGHT" layoutX="376.0" layoutY="45.0" mnemonicParsing="false" onAction="#handleCheckButton" prefHeight="30.0" prefWidth="82.0" styleClass="edit_button" stylesheets="@css/Edit.css" text="Check">
          <graphic>
             <ImageView fitHeight="20.0" fitWidth="20.0" pickOnBounds="true" preserveRatio="true">
                <image>

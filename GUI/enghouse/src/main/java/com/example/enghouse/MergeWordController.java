@@ -87,12 +87,13 @@ public class MergeWordController {
 
     @FXML
     private void AnswerExactly() {
-        Answer_Exactly.setText(word_target);
+        Answer_Exactly.setText(word_target + ": " + questionEntry.getValue());
     }
 
     @FXML
     private void handleNextButton() {
         initialize();
+        Answer_Exactly.setText("");
         inputWord.setText("");
         true_button.setText("");
         false_button.setText("");
