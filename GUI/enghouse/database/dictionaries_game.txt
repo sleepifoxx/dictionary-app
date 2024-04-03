@@ -2783,7 +2783,7 @@ Tốc độ
 spend
 Dành (thời gian)
 spending
-Sự dành (thời gian
+Sự dành (thời gian)
 spin
 Quay
 spirit
@@ -2920,10 +2920,8 @@ tell
 Kể
 ten
 Mười
-tend
+trend
 Có xu hướng
-term
-K
 test
 Kiểm tra
 than
