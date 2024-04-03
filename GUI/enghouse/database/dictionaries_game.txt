@@ -1,1112 +1,4801 @@
-sweet potato
-Khoai lang
-toy store
-Cửa hàng đồ chơi
-shoe store
-Cửa hàng giày
-sparkling wine
-Rượu vang sủi
-kangaroo
-Kangaroo
-chopsticks
-Đũa
-mussel
-Con trai
-bag
-Túi
-beef
-Thịt bò
-hamburger
-Bánh hamburger
-kettle
-Ấm đun nước
-offer
-Ưu đãi
-tea
-Trà
-music
-Âm nhạc
-bat
-Dơi
-rabbit
-Thỏ
-lemon meringue pie
-Bánh chanh kem trứng
-beer
-Bia
-knowledge
-Kiến thức
-music store
-Cửa hàng nhạc cụ
-cotton candy
-Kẹo bông gòn
-rat
-Chuột
-shiitake mushroom
-Nấm linh chi
-banana bread
-Bánh mì chuối
-milk
-Sữa
-pancake
-Bánh bột lúa mạch
-brownie
-Bánh brownie
-lion
-Sư tử
-macaroni
-Mì ống nhỏ
-folder
-Hồ sơ
-boiling
-Luộc
-science
-Khoa học
-electronics store
-Cửa hàng điện tử
-asparagus
-Măng tây
-wine
-Rượu vang
-ketchup
-Sốt cà chua
-wasabi
-Wasabi
-button mushroom
-Nấm bào ngư
-spaghetti
-Mì spaghetti
-radish
-Củ cải
-bottle
-Chai
-tomato
-Cà chua
-cocoa powder
-Bột cacao
-pork
-Thịt lợn
-swimming
-Bơi lội
-mint
-Rau bạc hà
-parsley
-Rau mùi
-stationery store
-Cửa hàng văn phòng phẩm
-dove
-Chim bồ câu
-grass
-Cỏ
-rolling pin
-Cái cán bột
-almond extract
-Cây hạnh nhân
-parsnip
-Củ mần rợp
-chemistry
-Hóa học
-seafood
-Hải sản
-website
-Trang web
-salt
-Muối
-almond milk
-Sữa hạnh nhân
-food
-Thức ăn
-brown rice
-Gạo lứt
-fly
-Ruồi
-handbag
-Túi xách
-sale
-Bán hàng
-police
-Cảnh sát
-pound cake
-Bánh quả nặng
-fennel
-Hành hương
-coconut milk
-Sữa dừa
-granola
-Granola
-river
-Sông
-bay leaf
-Lá nguyệt quế
-spider
-Nhện
-penguin
-Chim cánh cụt
-purse
-Túi xách
-kiwi
-Chim kiwi
-bee
-Ong
-voucher
-Phiếu quà tặng
-language
-Ngôn ngữ
-jelly beans
-Kẹo dẻo
-spring
-Mùa xuân
-baking
-Nướng bánh
-gummy bears
-Gấu dẻo
-shipping
-Vận chuyển
-waffle
-Bánh waffle
-scone
-Bánh ngọt Anh
-duck
-Vịt
-fitness
-Sức khỏe
-bird
-Chim
-shopping cart
-Xe đẩy mua sắm
-udon
-Mì udon
-fruit sauce
-Sốt trái cây
-pan
-Chảo
-chili pepper
-Ớt cay
-dolphin
-Cá heo
-baking powder
-Bột nở
-frosting
-Kem đánh bông
-knife
-Dao
-rosemary
-Rau mùi hương
-wedding cake
-Bánh cưới
-roasting
-Nướng
-jewelry store
-Cửa hàng trang sức
-freezer
-Tủ đông
-pharmacy
-Nhà thuốc
-exchange
-Đổi hàng
-sashimi
-Sashimi
-elephant
-Voi
-refrigerator
-Tủ lạnh
-deer
-Nai
-baking tray
-Khay nướng bánh
-add to cart
-Thêm vào giỏ hàng
-cinnamon
-Bột quế
-kitchen knife
-Dao bếp
-hard candy
-Kẹo cứng
-goose
-Ngỗng
-sports store
-Cửa hàng thể thao
-fudge
-Kẹo fudge
-measuring cup
-Cốc đo
-zucchini
-Bí ngô
-wisdom
-Trí tuệ
-steaming
-Hấp
-vanilla extract
-Cây vani
-apple pie
-Bánh táo
-lemon
-Quả chanh
-oyster mushroom
-Nấm hải sản
-pasta
-Mì ống
-croissant
-Bánh croissant
-lizard
-Thằn lằn
-magpie
-Quạ
-oven
-Lò nướng
-cockroach
-Gián
-syrup
-Si-rô
-dill
-Rau thì là
-football
-Bóng đá
-rice
-Gạo
-tarantula
-Nhện lông
-dinner
-Bữa tối
-scissors
-Kéo
-fork
-Nĩa
-beach
-Bãi biển
-coffee
-Cà phê
-cashews
-Hạt điều
-crab
-Cua
-promotion
-Khuyến mãi
-college
-Cao đẳng
-gift
-Quà tặng
-basket
-Giỏ hàng
-rock candy
-Kẹo đá
-lunch
-Bữa trưa
-education
-Giáo dục
-cilantro
-Mùi
-discount
-Giảm giá
-soy sauce
-Nước tương
-cumin
-Tiêu hạt
-ladybug
-Bọ rùa
-truffle
-Nấm truffle
-green onion
-Hành lá
-amphibian
-Động vật lưỡng cư
-butternut squash
-Bí đỏ
-tape
-Băng dính
-camel
-Lạc đà
-rhinoceros
-Tê giác
-flour
-Bột mì
-pen
-Bút
-sky
-Bầu trời
-python
-Rắn san hô
-cookie
-Bánh quy
-boutique
-Cửa hàng thời trang
-movie theater
-Rạp chiếu phim
-classroom
-Lớp học
-cream
-Sữa kem
-jalapeno
-Ớt jalapeno
-drink
-Đồ uống
-yeast
-Men nở
-leopard
-Báo
-giraffe
-Hươu cao cổ
-volleyball
-Bóng chuyền
-dog
-Chó
-bull
-Bò đực
-parrot
-Vẹt
-gum
-Kẹo cao su
-online shopping
-Mua sắm trực tuyến
-saffron
-Nhụy hoa nghệ tây
-ostrich
-Đà điểu
-albatross
-Chim albatross
-noodle
-Mì
-plate
-Đĩa
-gummy worms
-Sâu dẻo
-summer
-Mùa hè
-caterpillar
-Sâu bướm
-literature
-Văn học
-shopper
-Người mua sắm
-potato
-Khoai tây
-cherry pie
-Bánh anh đào
-nurse
-Y tá
-tart
-Bánh tart
-oat milk
-Sữa yến mạch
-shark
-Cá mập
-bread
-Bánh mì
-chocolate chips
-Thỏi sô cô la
-vinegar
-Giấm
-lemon curd
-Sốt chanh
-grasshopper
-Dế
-chickadee
-Chim mào đen
-hippopotamus
-Hà mã
-birthday cake
-Bánh sinh nhật
-pho
-Phở
-price tag
-Nhãn giá
-kale
-Rau cải bắp
-return
-Trả lại
-icing
-Kem trang trí
-white rice
-Gạo trắng
-spinach
-Rau cải
-whipped cream
-Kem tươi
-tablecloth
-Khăn trải bàn
-subject
-Môn học
-artichoke
-Atiso
-sponge cake
-Bánh sponge
-cow
-Bò
-egg roll
-Chả giò trứng
-pie
-Bánh pie
-pig
-Heo
-cardamom
-Bột thảo quả
-chia seeds
-Hạt chia
-coral
-San hô
-spoon
-Thìa
-champagne
-Rượu sâm banh
-stationery
-Văn phòng phẩm
-sushi
-Sushi
-grain
-Ngũ cốc
-pigeon
-Chim bồ câu
-turtle
-Rùa
-basil
-Húng quế
-noodles
-Mì sợi
-swan
-Thiên nga
-margarine
-Bơ đậu phộng
-coconut flakes
-Dừa sợi
-nightingale
-Chim đêm
-snow
-Tuyết
-ginger
-Gừng
-pistachios
-Hạt dừa
-chili powder
-Bột ớt
-credit card
-Thẻ tín dụng
-lake
-Hồ
-hawk
-Hắc
-chicken
-Gà
-student
-Học sinh, sinh viên
-candy
-Kẹo
-university
-Đại học
-fruit
-Trái cây
-seal
-Hải cẩu
-recipe
-Công thức nấu ăn
-killer whale
-Cá voi sát thủ
-green beans
-Đậu cô ve xanh
-running
-Chạy bộ
-beetle
-Bọ cánh cứng
-bell pepper
-Ớt chuông
-teacher
-Giáo viên
-vodka
-Rượu vodka
-napkin
-Khăn lụa
-oil
-Dầu
-hazelnuts
-Hạt hạnh nhân
-blueberry sauce
-Sốt việt quất
-starfish
-Sao biển
-microwave
-Lò vi sóng
-zebra
-Ngựa vằn
-pet store
-Cửa hàng thú cưng
-garlic
-Tỏi
-rooster
-Gà trống
-antelope
-Hươu sao
-ant
-Kiến
-oregano
-Rau húng quế
-buffalo
-Trâu
-portobello mushroom
-Nấm mỡ
-home appliance store
-Cửa hàng đồ gia dụng
-apple sauce
-Sốt táo
-barley
-Lúa mạch
-pencil
-Bút chì
-beetroot
-Củ dền
-orange
-Quả cam
-doctor
-Bác sĩ
-earth
-Trái đất
-hummingbird
-Chim ruồi
-backpack
-Ba lô
-biscuit
-Bánh quy
-sport
-Thể thao
-pumpkin
-Bí ngô hạt lựu
-layer cake
-Bánh lớp
-mayonnaise
-Sốt mayonnaise
-blueberry pie
-Bánh việt quất
-octopus
-Bạch tuộc
-food coloring
-Màu thực phẩm
-marshmallow
-Kẹo dẻo
-carrot cake
-Bánh cà rốt
-cheese
-Phô mai
-mountain
-Núi
-try on
-Thử đồ
-geography
-Địa lý
-cake
-Bánh bông lan
-jam
-Mứt
-fire
-Lửa
-mushroom
-Nấm
-shopping
-Mua sắm
-soft candy
-Kẹo mềm
-alcohol
-Rượu
-horseradish
-Cải ngựa
-mall
-Trung tâm mua sắm
-furniture store
-Cửa hàng đồ nội thất
-hardware store
-Cửa hàng dụng cụ cơ khí
-tiger
-Hổ
-cockatiel
-Vẹt sẻ
-rice milk
-Sữa gạo
-horse
-Ngựa
-raspberry sauce
-Sốt dâu tây
-caramelized sugar
-Đường đun nâu
-turkey
-Gà tây
-mixer
-Máy trộn
-autumn
-Mùa thu
-red velvet cake
-Bánh red velvet
-cup
-Cốc
-anaconda
-Anaconda
-butterscotch
-Kẹo sữa bơ
-woodpecker
-Chim gõ kiến
-sun
-Mặt trời
-thyme
-Rau thơm
-habanero
-Ớt habanero
-bookstore
-Hiệu sách
-celery
-Cần tây
-pot
-Nồi
-butterfly
-Bướm
-lecture
-Bài giảng
-watermelon
-Dưa hấu
-toaster
-Máy nướng bánh mì
-art
-Nghệ thuật
-hemp milk
-Sữa hạt gai
-wolf
-Sói
-toffee
-Kẹo đậu
-budgie
-Vẹt nhỏ
-coffee cake
-Bánh cà phê
-store
-Cửa hàng
-zucchini bread
-Bánh mì bí ngô
-angel food cake
-Bánh thiên thần
-clothing store
-Cửa hàng quần áo
-flower
-Hoa
-cashew milk
-Sữa hạt điều
-paprika
-Ớt bột
-calf
-Con bê
-fish
-Cá
-peacock
-Công
-cupcake
-Bánh cupcake
-buy
-Mua
-rum
-Rượu rum
-ruler
-Thước kẻ
-blender
-Máy xay sinh tố
-mouse
-Chuột
-whisky
-Rượu whisky
-brazil nuts
-Hạt hồ đào Brazil
-school
-Trường học
-donut
-Bánh donut
-chestnuts
-Hạt dẻ cười
-slug
-Sâu truồi
-sautéing
-Xào
-vanilla
-Hoa vani
-glass
-Ly
-chameleon
-Tắc kè hoa
-caramel
-Kẹo caramen
-seeds
-Hạt giống
-lobster
-Tôm hùm
-key lime pie
-Bánh chanh
-narwhal
-Sứa còn
-bluebird
-Chim xanh
-snap peas
-Đậu Hà Lan bao
-quinoa
-Hạt chia
-grocery store
-Cửa hàng tạp hóa
-ocean
-Đại dương
-nuts
-Hạt hạnh nhân
-parakeet
-Vẹt con
-crow
-Con quạ
-receipt
-Biên lai
-coin
-Tiền xu
-pepper
-Tiêu
-crocodile
-Cá sấu
-online store
-Cửa hàng trực tuyến
-flax seeds
-Hạt lanh
-shop
-Cửa hàng
-pecans
-Hạt hồ đào
-snack
-Ăn vặt
-donkey
-Lừa
-broccoli
-Bông cải xanh
-apron
-Tạp dề
-penne
-Mì ống lỡ
-learning
-Học tập
-salamander
-Salamander
-vegetable
-Rau củ
-shipping address
-Địa chỉ nhận hàng
+ability
+Khả năng
+
+absent
+Vắng mặt
+
+access
+Truy cập
+
+accommodation
+Chỗ ở
+
+achieve
+Đạt được
+
+act
+Hành động
+
+action
+Hành động
+
+active
+Hoạt động
+
+activity
+Hoạt động
+
+add
+Thêm vào
+
+address
+Địa chỉ
+
+adult
+Người trưởng thành
+
+advantage
+Ưu điểm
+
+advertise
+Quảng cáo
+
+advice
+Lời khuyên
+
+afford
+Có khả năng chi trả
+
+afraid
+Sợ
+
+after
+Sau
+
+against
+Phản đối
+
+age
+Tuổi
+
+agree
+Đồng ý
+
+agreement
+Thỏa thuận
+
+ahead
+Phía trước
+
+aim
+Mục tiêu
+
+air
+Không khí
+
+alive
+Sống
+
+all
+Tất cả
+
+allow
+Cho phép
+
+allowance
+Tiền trợ cấp
+
+almost
+Gần như
+
+alone
+Một mình
+
+along
+Dọc theo
+
+already
+Đã
+
+also
+Cũng
+
+although
+Mặc dù
+
+always
+Luôn luôn
+
+among
+Trong số
+
+amount
+Số lượng
+
+and
+Và
+
+angry
+Tức giận
+
+animal
+Động vật
+
+announce
+Thông báo
+
+another
+Một cái khác
+
+answer
+Trả lời
+
+any
+Bất kỳ
+
+anyone
+Bất kỳ ai
+
+anything
+Bất kỳ thứ gì
+
+anyway
+Dù sao
+
+appear
+Xuất hiện
+
 apple
 Quả táo
-pizza
-Bánh pizza
-cocktail
-Cocktail
-soy milk
-Sữa đậu nành
-honey
-Mật ong
-walnuts
-Hạt óc chó
-checkout
-Thanh toán
-quesadilla
-Bánh quesadilla
-delivery
-Giao hàng
-canary
-Chim yến
-department store
-Siêu thị
-purchase
-Mua
-stars
-Ngôi sao
-tiramisu
-Bánh tiramisu
-almonds
-Hạt hạnh nhân
-mosquito
-Muỗi
-blue whale
-Cá voi xanh
-seagull
-Chim hải âu
-acorn squash
-Bí vàng
-healthy
-Khỏe mạnh
-turmeric
-Nghệ
-turnip
-Củ cải trắng
-yogurt
-Sữa chua
-cabbage
-Bắp cải
-cherry sauce
-Sốt anh đào
-peanuts
-Hạt đậu phộng
-caramel sauce
-Sốt caramen
-hen
-Gà mái
-bundt cake
-Bánh gỗ
-frying
-Chiên
-dinosaur
-Khủng long
-cash
-Tiền mặt
-eggplant
-Cà tím
-star anise
-Đại hồi
-chocolate sauce
-Sốt sô cô la
-calculator
-Máy tính bỏ túi
-firefly
-Bọ rùa
-biology
-Sinh học
-stapler
-Bấm kim
-lesson
-Bài học
-whale shark
-Cá voi cá mập
-goat
-Dê
-lettuce
-Rau diếp
-muffin
-Bánh mì ngọt
-moon
-Mặt trăng
-ramen
-Mì ramen
-grilling
-Nướng
-viper
-Rắn độc
-breakfast
-Bữa sáng
-bagel
-Bánh mì quấn
-grill
-Vỉ nướng
-snow peas
-Đậu Hà Lan
-browse
-Xem hàng
-refund
-Hoàn tiền
-chocolate
-Sô cô la
-peppermint extract
-Cây bạc hà
-alligator
-Cá sấu Mississippi
-komodo dragon
-Varan Komodo
-study
-Học
-jellyfish
-Sứa
-martini
-Rượu martini
-falcon
-Sơn đầu
-exercise
-Tập thể dục
-lollipop
-Kẹo mút
-supermarket
-Siêu thị
-cheesecake
-Bánh phô mai
-coriander
-Hạt ngò
-physics
-Vật lý
-cooking
-Nấu ăn
-strawberry sauce
-Sốt dâu
-sprinkles
-Hạt màu
-wallet
-Ví
-sell
-Bán
-strawberry
-Dâu
-pelican
-Cá heo
-juice
-Nước trái cây
-tennis
-Quần vợt
-porridge
-Bánh mì ngũ cốc
-cayenne pepper
-Ớt bột cayenne
-queue
-Hàng đợi
-snail
-Ốc sên
-panda
-Gấu trúc
-cobra
-Rắn hổ mang
-monkey
-Khỉ
-owl
-Con cú
-wishlist
-Danh sách mong muốn
-onion
-Hành tây
-cucumber
-Dưa leo
-fettuccine
-Mì ngắn
-hot dog
-Xúc xích
-cloud
-Mây
-basketball
-Bóng rổ
-mustard
-Mù tạt
-whale
-Cá voi
-frog
-Ếch
-sage
-Rau mùi
+
+apply
+Áp dụng
+
+appoint
+Bổ nhiệm
+
+appointment
+Cuộc hẹn
+
+area
+Khu vực
+
+argue
+Tranh luận
+
+argument
+Cuộc tranh luận
+
+arm
+Cánh tay
+
+around
+Xung quanh
+
+arrange
+Sắp xếp
+
+arrangement
+Sắp xếp
+
+arrive
+Đến
+
+art
+Nghệ thuật
+
+article
+Bài báo
+
+artist
+Nghệ sĩ
+
+as
+Như là
+
+ask
+Hỏi
+
+asleep
+Đang ngủ
+
+at
+Ở
+
+attack
+Tấn công
+
+attempt
+Cố gắng
+
+attention
+Sự chú ý
+
+attitude
+Thái độ
+
+attract
+Thu hút
+
+attraction
+Điểm thu hút
+
+audience
+Khán giả
+
+author
+Tác giả
+
+authority
+Quyền lực
+
+available
+Có sẵn
+
+average
+Trung bình
+
+avoid
+Tránh
+
+award
+Giải thưởng
+
+aware
+Nhận thức
+
+
+away
+Xa
+
+baby
+Em bé
+
+back
+Lưng
+
+bad
+Xấu
+
+bag
+Túi
+
+balance
+Cân bằng
+
+ball
+Quả bóng
+
+bank
+Ngân hàng
+
+bar
+Thanh
+
+base
+Cơ sở
+
+basic
+Cơ bản
+
+basis
+Cơ sở
+
+be
+Là
+
 bear
 Gấu
-cutting board
-Đục thịt
-notebook
-Sổ tay
-billing address
-Địa chỉ thanh toán
-rain
-Mưa
-koala
-Gấu túi
-moth
-Bướm đêm
-briefcase
-Cặp sách
-tree
-Cây
-macadamia nuts
-Hạt macca
-rice noodles
-Bún gạo
-history
-Lịch sử
-licorice
-Kẹo cây cỏ
-water
-Nước
-soba
-Mì soba
-flamingo
-Hồng hạc
-taco
-Taco
-market
-Chợ
-nutrition
-Dinh dưỡng
-flaxseed milk
-Sữa hạt lanh
-cereal
-Ngũ cốc sáng
-burrito
-Burrito
-eagle
-Đại bàng
-squid
-Mực
-sugar
-Đường
-cauliflower
-Bông cải
-shrimp
-Tôm
-peanut brittle
-Kẹo đậu phộng giòn
-mathematics
-Toán học
-snake
-Rắn
-winter
-Mùa đông
-bowl
-Tô
-gin
-Rượu gin
-dragonfly
-Chuồn chuồn
-robin
-Chim sẻ
-tortoise
-Rùa đất
-paper
-Giấy
-cat
-Mèo
-stove
-Bếp lò
-cashier
-Thu ngân
-sparrow
-Chim sẻ
+
+beat
+Đánh
+
+beauty
+Vẻ đẹp
+
+because
+Bởi vì
+
+become
+Trở thành
+
+bed
+Giường
+
+before
+Trước
+
+begin
+Bắt đầu
+
+beginning
+Bắt đầu
+
+behaviour
+Hành vi
+
+behind
+Đằng sau
+
+believe
+Tin
+
+below
+Dưới
+
+best
+Tốt nhất
+
+better
+Tốt hơn
+
+between
+Giữa
+
+big
+Lớn
+
+bill
+Hóa đơn
+
+biology
+Sinh học
+
+bird
+Chim
+
+bit
+Một ít
+
+black
+Đen
+
+block
+Khối
+
+blood
+Máu
+
+blow
+Thổi
+
+blue
+Xanh da trời
+
+board
+Bảng
+
+boat
+Thuyền
+
+body
+Cơ thể
+
+book
+Sách
+
+both
+Cả hai
+
+box
+Hộp
+
+boy
+Cậu bé
+
+brain
+Bộ não
+
+branch
+Nhánh
+
+break
+Sự phá vỡ
+
+breath
+Hơi thở
+
+bridge
+Cây cầu
+
+brief
+Tóm tắt
+
+bright
+Sáng
+
+bring
+Mang lại
+
+broad
+Rộng
+
+brother
+Anh em
+
+brown
+Nâu
+
+build
+Xây dựng
+
+building
+Toà nhà
+
+burn
+Đốt
+
+business
+Kinh doanh
+
+but
+Nhưng
+
+buy
+Mua
+
+by
+Bằng
+
+call
+Gọi
+
+camera
+Máy ảnh
+
+camp
+Trại
+
+campaign
+Chiến dịch
+
+can
+Có thể
+
+cancer
+Ung thư
+
+candidate
+Ứng cử viên
+
+capital
+Thủ đô
+
+car
+Xe hơi
+
+card
+Thẻ
+
+care
+Chăm sóc
+
+career
+Sự nghiệp
+
+carry
+Mang
+
+case
+Trường hợp
+
+catch
+Bắt
+
+cause
+Nguyên nhân
+
+cell
+Tế bào
+
+century
+Thế kỷ
+
+certain
+Chắc chắn
+
+certainly
+Chắc chắn
+
+chain
+Chuỗi
+
+chair
+Ghế
+
+challenge
+Thách thức
+
+chance
+Cơ hội
+
+change
+Thay đổi
+
+channel
+Kênh
+
+chapter
+Chương
+
+character
+Nhân vật
+
+charge
+Phí
+
+cheap
+Rẻ
+
+check
+Kiểm tra
+
+child
+Đứa trẻ
+
+choice
+Sự lựa chọn
+
+choose
+Chọn
+
+church
+Nhà thờ
+
+citizen
+Công dân
+
+city
+Thành phố
+
+civil
+Dân sự
+
+claim
+Yêu cầu
+
+class
+Lớp
+
+clean
+Sạch sẽ
+
+clear
+Rõ ràng
+
+clearly
+Rõ ràng
+
+client
+Khách hàng
+
+climate
+Khí hậu
+
+climb
+Leo
+
+close
+Đóng
+
+closely
+Cẩn thận
+
+closer
+Gần hơn
+
+club
+Câu lạc bộ
+
+coach
+Huấn luyện viên
+
+coal
+Than
+
+coast
+Bờ biển
+
+coat
+Áo choàng
+
+code
+Mã
+
+coffee
+Cà phê
+
+cold
+Lạnh
+
+collection
+Bộ sưu tập
+
+college
+Trường cao đẳng
+
+colour
+Màu sắc
+
+combine
+Kết hợp
+
+come
+Đến
+
+comfortable
+Thoải mái
+
+command
+Lệnh
+
+commercial
+Thương mại
+
+commission
+Ủy ban
+
+commit
+Cam kết
+
+committee
+Ủy ban
+
+common
+Phổ biến
+
+communication
+Giao tiếp
+
+community
+Cộng đồng
+
+company
+Công ty
+
+compare
+So sánh
+
+computer
+Máy tính
+
+concern
+Liên quan
+
+condition
+Điều kiện
+
+conference
+Hội nghị
+
+confidence
+Tin tưởng
+
+conflict
+Xung đột
+
+confuse
+Gây nhầm lẫn
+
+congress
+Quốc hội
+
+connect
+Kết nối
+
+connection
+Kết nối
+
+consciousness
+Tâm trí
+
+consider
+Xem xét
+
+considerable
+Đáng kể
+
+consideration
+Sự cân nhắc
+
+consist
+Gồm có
+
+constant
+Liên tục
+
+constitutional
+Hiến pháp
+
+construct
+Xây dựng
+
+construction
+Xây dựng
+
+consumer
+Người tiêu dùng
+
+contact
+Liên hệ
+
+contain
+Chứa
+
+content
+Nội dung
+
+context
+Bối cảnh
+
+continue
+Tiếp tục
+
+contract
+Hợp đồng
+
+contrast
+Sự tương phản
+
+contribute
+Đóng góp
+
+contribution
+Đóng góp
+
+control
+Kiểm soát
+
+conversation
+Cuộc trò chuyện
+
+cook
+Đầu bếp
+
+cool
+Mát
+
+cooperation
+Sự hợp tác
+
+cop
+Cảnh sát
+
+copy
+Bản sao
+
+core
+Lõi
+
+corner
+Góc
+
+corporate
+Công ty
+
+correct
+Đúng
+
+cost
+Chi phí
+
+could
+Có thể
+
+council
+Hội đồng
+
+count
+Đếm
+
+country
+Quốc gia
+
+county
+Quận
+
+couple
+Cặp
+
+course
+Khóa học
+
+court
+Tòa án
+
+cover
+Bìa
+
+create
+Tạo ra
+
+creation
+Sự tạo ra
+
+credit
+Tín dụng
+
+crime
+Tội ác
+
+criminal
+Tội phạm
+
+crisis
+Khủng hoảng
+
+criterion
+Tiêu chí
+
+critical
+Quan trọng
+
+criticism
+Sự phê bình
+
+cross
+Băng qua
+
+crowd
+Đám đông
+
+cry
+Kêu lên
+
+cultural
+Văn hóa
+
+culture
+Văn hóa
+
+cup
+Cốc
+
+current
+Hiện tại
+
+currently
+Hiện tại
+
+customer
+Khách
+
+cut
+Cắt
+
+dark
+Tối
+
+data
+Dữ liệu
+
+daughter
+Con gái
+
+day
+Ngày
+
+dead
+Chết
+
+deal
+Giao dịch
+
+death
+Sự chết
+
+debate
+Tranh luận
+
+decade
+Thập kỷ
+
+decide
+Quyết định
+
+decision
+Quyết định
+
+deep
+Sâu
+
+defence
+Phòng thủ
+
+defend
+Bảo vệ
+
+degree
+Bằng cấp
+
+democracy
+Dân chủ
+
+democratic
+Dân chủ
+
+demonstrate
+Chứng minh
+
+demonstration
+Cuộc biểu tình
+
+deny
+Từ chối
+
+department
+Bộ phận
+
+depend
+Phụ thuộc
+
+dependent
+Phụ thuộc
+
+depth
+Sâu
+
+describe
+Mô tả
+
+description
+Sự mô tả
+
+design
+Thiết kế
+
+desire
+Khao khát
+
+desk
+Bàn
+
+destroy
+Phá hủy
+
+destruction
+Sự phá hủy
+
+detail
+Chi tiết
+
+detailed
+Chi tiết
+
+determine
+Xác định
+
+develop
+Phát triển
+
+development
+Sự phát triển
+
+device
+Thiết bị
+
+die
+Chết
+
 diet
 Chế độ ăn uống
+
+difference
+Sự khác biệt
+
+different
+Khác nhau
+
+difficult
+Khó khăn
+
+difficulty
+Sự khó khăn
+
+dinner
+Bữa tối
+
+direct
+Trực tiếp
+
+direction
+Hướng
+
+directly
+Trực tiếp
+
+director
+Giám đốc
+
+discover
+Khám phá
+
+discovery
+Khám phá
+
+discuss
+Thảo luận
+
+discussion
+Cuộc thảo luận
+
+disease
+Bệnh
+
+dish
+Món
+
+distance
+Khoảng cách
+
+distant
+Xa
+
+distinguish
+Phân biệt
+
+distribute
+Phân phối
+
+distribution
+Sự phân phối
+
+district
+Quận
+
+divide
+Chia
+
+division
+Sự chia
+
+do
+Làm
+
+doctor
+Bác sĩ
+
+document
+Tài liệu
+
+dog
+Con chó
+
+domestic
+Trong nước
+
+door
+Cửa
+
+double
+Gấp đôi
+
+doubt
+Nghi ngờ
+
+down
+Xuống
+
+draw
+Vẽ
+
+drawing
+Bức vẽ
+
+dream
+Giấc mơ
+
+dress
+Điều
+
+drink
+Uống
+
+drive
+Lái xe
+
+driver
+Tài xế
+
+drop
+Nhỏ giọt
+
+drug
+Thuốc
+
+dry
+Khô
+
+due
+Do
+
+during
+Trong
+
+duty
+Nhiệm vụ
+
+each
+Mỗi
+
+ear
+Tai
+
+early
+Sớm
+
+earn
+Kiếm
+
+earth
+Trái đất
+
+easily
+Dễ dàng
+
+east
+Phía đông
+
+easy
+Dễ dàng
+
+eat
+Ăn
+
+economic
+Kinh tế
+
+economy
+Nền kinh tế
+
+edge
+Cạnh
+
+education
+Giáo dục
+
+effect
+Tác động
+
+effective
+Hiệu quả
+
+effectively
+Một cách hiệu quả
+
+effort
+Nỗ lực
+
+eight
+Tám
+
+either
+Hoặc là
+
+election
+Cuộc bầu cử
+
+else
+Khác
+
+elsewhere
+Ở nơi khác
+
+empire
+Đế quốc
+
+employ
+Tuyển dụng
+
+employee
+Nhân viên
+
+employer
+Nhà tuyển dụng
+
+employment
+Việc làm
+
+empty
+Trống
+
+end
+Kết thúc
+
+enemy
+Kẻ thù
+
+energy
+Năng lượng
+
+engage
+Tham gia
+
+engine
+Động cơ
+
+engineer
+Kỹ sư
+
+engineering
+Kỹ thuật
+
+enjoy
+Thưởng thức
+
+enough
+Đủ
+
+enter
+Nhập
+
+enterprise
+Doanh nghiệp
+
+entertainment
+Giải trí
+
+entire
+Toàn bộ
+
+entirely
+Hoàn toàn
+
+entirely
+Toàn bộ
+
+entirely
+Hoàn toàn
+
+entrance
+Lối vào
+
+entry
+Mục nhập
+
+environment
+Môi trường
+
+environmental
+Môi trường
+
+equal
+Bằng nhau
+
+equally
+Bằng nhau
+
+equipment
+Thiết bị
+
+escape
+Trốn thoát
+
+especially
+Đặc biệt
+
+essential
+Cần thiết
+
+essentially
+Về cơ bản
+
+establish
+Thành lập
+
+estate
+Tài sản
+
+estimate
+Ước lượng
+
+even
+Thậm chí
+
+evening
+Buổi tối
+
+event
+Sự kiện
+
+eventually
+Cuối cùng
+
+ever
+Từng
+
+every
+Mỗi
+
+everybody
+Mọi người
+
+everyone
+Mọi người
+
+everything
+Mọi thứ
+
+everywhere
+Mọi nơi
+
+evidence
+Bằng chứng
+
+exactly
+Chính xác
+
+examination
+Sự kiểm tra
+
+examine
+Kiểm tra
+
+example
+Ví dụ
+
+excellent
+Xuất sắc
+
+except
+Ngoại trừ
+
+exchange
+Trao đổi
+
+exciting
+Thú vị
+
+executive
+Thực thi
+
+exercise
+Bài tập
+
+exist
+Tồn tại
+
+existence
+Sự tồn tại
+
+existing
+Hiện hành
+
+expect
+Mong đợi
+
+expectation
+Sự mong đợi
+
+expenditure
+Chi tiêu
+
+expense
+Chi phí
+
+expensive
+Đắt
+
+experience
+Kinh nghiệm
+
+experienced
+Có kinh nghiệm
+
+experiment
+Thí nghiệm
+
+expert
+Chuyên gia
+
+explain
+Giải thích
+
+explanation
+Sự giải thích
+
+explore
+Khám phá
+
+explosion
+Vụ nổ
+
+expose
+Phơi bày
+
+express
+Diễn đạt
+
+expression
+Biểu hiện
+
+extend
+Mở rộng
+
+extension
+Sự mở rộng
+
+extensive
+Mở rộng
+
+extent
+Phạm vi
+
+extra
+Phụ
+
+extraordinary
+Phi thường
+
+extreme
+Cực đoan
+
+extremely
+Cực kỳ
+
+eye
+Mắt
+
+face
+Gương mặt
+
+facility
+Cơ sở vật chất
+
+fact
+Sự thực
+
+factor
+Yếu tố
+
+factory
+Nhà máy
+
+fail
+Thất bại
+
+failure
+Thất bại
+
+fair
+Hợp lý
+
+fairly
+Khá
+
+faith
+Niềm tin
+
+fall
+Rơi
+
+familiar
+Quen
+
+family
+Gia đình
+
+famous
+Nổi tiếng
+
+far
+Xa
+
+farm
+Nông trại
+
+farmer
+Nông dân
+
+fashion
+Thời trang
+
+fast
+Nhanh
+
+fat
+Mỡ
+
+father
+Cha
+
+fault
+Lỗi
+
+fear
+Sợ hãi
+
+federal
+Liên bang
+
+feed
+Cho ăn
+
+feel
+Cảm thấy
+
+feeling
+Cảm giác
+
+female
+Nữ
+
+few
+Ít
+
+field
+Lĩnh vực
+
+fight
+Trận đấu
+
+figure
+Con số
+
+fill
+Lấp đầy
+
+film
+Phim
+
+final
+Cuối cùng
+
+finally
+Cuối cùng
+
+finance
+Tài chính
+
+financial
+Tài chính
+
+find
+Tìm
+
+finding
+Tìm
+
+fine
+Tốt
+
+finger
+Ngón tay
+
+finish
+Kết thúc
+
+fire
+Lửa
+
+firm
+Cứng
+
+first
+Đầu tiên
+
+fish
+Cá
+
+fit
+Phù hợp
+
+fitness
+Sức khỏe
+
+five
+Năm
+
+fix
+Sửa
+
+flat
+Phẳng
+
+flight
+Chuyến bay
+
+floor
+Sàn
+
+flow
+Luồng
+
+flower
+Hoa
+
+fly
+Bay
+
+focus
+Tập trung
+
+follow
+Theo
+
+food
+Thức ăn
+
+foot
+Chân
+
+football
+Bóng đá
+
+for
+Để
+
+force
+Lực
+
+foreign
+Nước ngoài
+
+forest
+Rừng
+
+forget
+Quên
+
+form
+Hình thức
+
+formal
+Chính thức
+
+formerly
+Trước đây
+
+formula
+Công thức
+
+forth
+Về phía trước
+
+fortunate
+May mắn
+
+fortune
+Vận may
+
+forward
+Tiến lên
+
+foundation
+Nền
+
+four
+Bốn
+
+frame
+Khung
+
+free
+Miễn phí
+
+freedom
+Tự do
+
+freeze
+Đóng băng
+
+frequent
+Thường xuyên
+
+frequently
+Thường xuyên
+
+fresh
+Tươi
+
+friend
+Bạn bè
+
+friendly
+Thân thiện
+
+from
+Từ
+
+front
+Phía trước
+
+fruit
+Trái cây
+
+fuel
+Nhiên liệu
+
+full
+Đầy đủ
+
+fully
+Hoàn toàn
+
+fun
+Vui
+
+function
+Chức năng
+
+fund
+Quỹ
+
+fundamental
+Cơ bản
+
+funding
+Ngân sách
+
+funeral
+Đám tang
+
+funny
+Buồn cười
+
+furniture
+Đồ nội thất
+
+further
+Hơn nữa
+
+future
+Tương lai
+
+gain
+Thu được
+
+game
+Trò chơi
+
+garden
+Vườn
+
+gas
+Khí
+
+gate
+Cổng
+
+gather
+Thu thập
+
+gay
+Đồng tính
+
+gene
+Gen
+
+general
+Chung
+
+generally
+Nói chung
+
+generate
+Tạo ra
+
+generation
+Thế hệ
+
+genetic
+Di truyền
+
+gentleman
+Anh
+
+get
+Nhận
+
+girl
+Cô gái
+
+give
+Cho
+
+glass
+Cốc
+
+go
+Đi
+
+goal
+Mục tiêu
+
+god
+Thần
+
+gold
+Vàng
+
+good
+Tốt
+
+government
+Chính phủ
+
+governor
+Thống đốc
+
+grab
+Nắm lấy
+
+grade
+Lớp
+
+gradually
+Dần dần
+
+grain
+Hạt
+
+grand
+Lớn
+
+grandfather
+Ông
+
+grandmother
+Bà
+
+grant
+Khoản hỗ trợ
+
+grass
+Cỏ
+
+grateful
+Biết ơn
+
+grave
+Nghĩa trang
+
+great
+Tuyệt vời
+
+green
+Xanh
+
+grey
+Xám
+
+grocery
+Cửa hàng tạp hóa
+
+ground
+Mặt đất
+
+group
+Nhóm
+
+grow
+Mọc
+
+growth
+Sự phát triển
+
+guarantee
+Đảm bảo
+
+guard
+Bảo vệ
+
+guess
+Đoán
+
+guest
+Khách
+
+guide
+Hướng dẫn
+
+guilty
+Tội
+
+gun
+Súng
+
+guy
+Người đàn ông
+
+habit
+Thói quen
+
+hair
+Tóc
+
+half
+Một nửa
+
+hall
+Hội trường
+
+hand
+Bàn tay
+
+handle
+Xử lý
+
+hang
+Treo
+
+happen
+Xảy ra
+
+happy
+Hạnh phúc
+
+hard
+Khó khăn
+
+hardly
+Gần như không
+
+hat
+Mũ
+
+hate
+Ghét
+
+have
+Có
+
+he
+Anh ấy
+
+head
+Đầu
+
+health
+Sức khỏe
+
+hear
+Nghe
+
+hearing
+Nghe
+
+heart
+Trái tim
+
+heat
+Nhiệt
+
+heavy
+Nặng
+
+help
+Giúp đỡ
+
+hence
+Do đó
+
+her
+Cô ấy
+
+here
+Ở đây
+
+herself
+Chính mình
+
+hide
+Ẩn
+
+high
+Cao
+
+highlight
+Nổi bật
+
+highly
+Rất
+
+highway
+Đường cao tốc
+
+hill
+Đồi
+
+him
+Anh ấy
+
+himself
+Anh ấy
+
+his
+Của anh ấy
+
+historical
+Lịch sử
+
+history
+Lịch sử
+
+hit
+Đánh
+
+hold
+Nắm giữ
+
+hole
+Lỗ
+
+holiday
+Kỳ nghỉ
+
+holy
+Thánh
+
+home
+Nhà
+
+honest
+Trung thực
+
+honestly
+Trung thực
+
+honour
+Vinhdanh
+
+hope
+Hi vọng
+
+hopefully
+Hi vọng
+
+horse
+Ngựa
+
 hospital
 Bệnh viện
-sheep
-Cừu
-lasagna
-Mì ống to
-vermicelli
-Bún
-butter
-Bơ
-oats
-Yến mạch
-crepe
-Bánh crepe
-earthworm
-Sâu đất
-toad
-Ếch cóc
-macaw
-Vẹt mào cầm
-teapot
-Ấm pha trà
-sandwich
-Bánh mì sandwich
-spring roll
-Gỏi cuốn
-soda
-Nước ngọt
-leek
-Củ hành tây
-french toast
-Bánh nướng
-chive
-Rau hẹ
-clove
-Hoa hồi
-oyster
-Hàu
-tempura
-Tempura
+
+host
+Chủ nhà
+
+hot
+Nóng
+
+hotel
+Khách sạn
+
+hour
+Giờ
+
+house
+Nhà
+
+household
+Hộ gia đình
+
+housing
+Nhà ở
+
+how
+Như thế nào
+
+however
+Tuy nhiên
+
+huge
+To lớn
+
+human
+Con người
+
+humor
+Sự hài hước
+
+hundred
+Trăm
+
+hungry
+Đói
+
+hunt
+Săn
+
+hurry
+Nhanh chóng
+
+hurt
+Đau
+
+husband
+Chồng
+
+I
+Tôi
+
+ice
+Đá
+
+idea
+Ý tưởng
+
+identify
+Xác định
+
+if
+Nếu
+
+ignore
+Bỏ qua
+
+ill
+Ốm
+
+illegal
+Bất hợp pháp
+
+illness
+Bệnh
+
+illustrate
+Minh họa
+
+image
+Hình ảnh
+
+imagine
+Tưởng tượng
+
+immediate
+Ngay lập tức
+
+immediately
+Ngay lập tức
+
+impact
+Tác động
+
+implement
+Thực hiện
+
+implication
+Hậu quả
+
+imply
+Gợi ý
+
+importance
+Tầm quan trọng
+
+important
+Quan trọng
+
+impose
+Áp đặt
+
+impossible
+Không thể
+
+impression
+Ấn tượng
+
+improve
+Cải thiện
+
+improvement
+Cải thiện
+
+in
+Trong
+
+incentive
+Động cơ
+
+incident
+Sự việc
+
+include
+Bao gồm
+
+including
+Bao gồm
+
+income
+Thu nhập
+
+incorporate
+Kết hợp
+
+increase
+Tăng
+
+increasingly
+Ngày càng
+
+indeed
+Thực sự
+
+independence
+Độc lập
+
+independent
+Độc lập
+
+index
+Chỉ số
+
+indicate
+Chỉ ra
+
+individual
+Cá nhân
+
+industrial
+Công nghiệp
+
+industry
+Ngành
+
+infection
+Nhiễm trùng
+
+inflation
+Lạm phát
+
+influence
+Ảnh hưởng
+
+inform
+Thông báo
+
+information
+Thông tin
+
+ingredient
+Nguyên liệu
+
+initial
+Ban đầu
+
+initially
+Ban đầu
+
+initiative
+Sáng kiến
+
+injure
+Làm tổn thương
+
+injury
+Vết thương
+
+inner
+Bên trong
+
+innocent
+Vô tội
+
+inquiry
+Cuộc điều tra
+
+inside
+Bên trong
+
+insist
+Khăng khăng
+
+inspect
+Kiểm tra
+
+inspection
+Kiểm tra
+
+install
+Cài đặt
+
+instance
+Ví dụ
+
+instead
+Thay vào đó
+
+institution
+Cơ sở
+
+institutional
+Thuộc về cơ sở
+
+instruction
+Hướng dẫn
+
+instructor
+Giảng viên
+
+instrument
+Dụng cụ
+
+insurance
+Bảo hiểm
+
+intellectual
+Trí tuệ
+
+intelligence
+Thông minh
+
+intelligent
+Thông minh
+
+intend
+Dự định
+
+intense
+Mạnh mẽ
+
+intensity
+Mức độ
+
+intention
+Ý định
+
+interaction
+Tương tác
+
+interest
+Sự quan tâm
+
+interested
+Quan tâm
+
+interesting
+Thú vị
+
+internal
+Nội bộ
+
+international
+Quốc tế
+
+Internet
+Internet
+
+interpret
+Dịch
+
+interpretation
+Sự giải thích
+
+intervention
+Can thiệp
+
+interview
+Phỏng vấn
+
+into
+Vào
+
+introduce
+Giới thiệu
+
+introduction
+Sự giới thiệu
+
+invest
+Đầu tư
+
+investigate
+Điều tra
+
+investigation
+Cuộc điều tra
+
+investment
+Sự đầu tư
+
+investor
+Nhà đầu tư
+
+invite
+Mời
+
+involve
+Liên quan
+
+involved
+Liên quan
+
+involvement
+Sự liên quan
+
+iron
+Sắt
+
+island
+Hòn đảo
+
+issue
+Vấn đề
+
+it
+Nó
+
+item
+Mục
+
+its
+Của nó
+
+itself
+Nó
+
+jail
+Nhà tù
+
+job
+Công việc
+
+join
+Tham gia
+
+joint
+Chung
+
+joke
+Trò đùa
+
+judge
+Thẩm phán
+
+judgment
+Sự phán xét
+
+juice
+Nước trái cây
+
+jump
+Nhảy
+
+junior
+Thấp hơn
+
+jury
+Ban giám khảo
+
+just
+Chỉ
+
+justice
+Công lý
+
+justify
+Xác minh
+
+keep
+Giữ
+
+key
+Chìa khóa
+
+kick
+Đá
+
+kid
+Đứa trẻ
+
+kill
+Giết
+
+killer
+Kẻ giết người
+
+killing
+Sự giết người
+
+kind
+Loại
+
+king
+Vua
+
+kiss
+Hôn
+
+kitchen
+Nhà bếp
+
+knee
+Đầu gối
+
+knife
+Con dao
+
+knock
+Gõ
+
+know
+Biết
+
+knowledge
+Kiến thức
+
+lab
+Phòng thí nghiệm
+
+label
+Nhãn
+
+labor
+Lao động
+
+laboratory
+Phòng thí nghiệm
+
+lack
+Thiếu hụt
+
+lady
+Quý cô
+
+lake
+Hồ
+
+land
+Đất đai
+
+landscape
+Phong cảnh
+
+language
+Ngôn ngữ
+
+large
+Lớn
+
+largely
+Chủ yếu
+
+last
+Cuối cùng
+
+late
+Muộn
+
+later
+Sau
+
+latest
+Mới nhất
+
+latter
+Thứ hai
+
+laugh
+Cười
+
+launch
+Phóng
+
+law
+Luật
+
+lawyer
+Luật sư
+
+lay
+Đặt
+
+layer
+Lớp
+
+lead
+Dẫn dắt
+
+leader
+Lãnh đạo
+
+leadership
+Lãnh đạo
+
+leading
+Dẫn đầu
+
+leaf
+Lá
+
+league
+Liên minh
+
+lean
+Dựa
+
+learn
+Học
+
+learning
+Học
+
+least
+Ít nhất
+
+leather
+Da
+
+leave
+Rời khỏi
+
+left
+Bên trái
+
+leg
+Chân
+
+legacy
+Di sản
+
+legal
+Hợp pháp
+
+legislation
+Pháp luật
+
+legitimate
+Hợp pháp
+
+lemon
+Quả chanh
+
+length
+Chiều dài
+
+less
+Ít hơn
+
+lesson
+Bài học
+
+let
+Cho phép
+
+letter
+Thư
+
+level
+Mức độ
+
+liberal
+Tự do
+
+library
+Thư viện
+
+lie
+Nói dối
+
+life
+Cuộc sống
+
+lift
+Nâng
+
+light
+Ánh sáng
+
+like
+Như
+
+likely
+Có khả năng
+
+limit
+Giới hạn
+
+limited
+Hạn chế
+
+line
+Dòng
+
+link
+Liên kết
+
+lip
+Môi
+
+list
+Danh sách
+
+listen
+Nghe
+
+literally
+Thực sự
+
+literary
+Văn học
+
+literature
+Văn học
+
+little
+Nhỏ
+
+live
+Sống
+
+living
+Sống
+
+load
+Tải
+
+loan
+Cho vay
+
+local
+Địa phương
+
+location
+Vị trí
+
+lock
+Khóa
+
+long
+Dài
+
+look
+Nhìn
+
+loose
+Lỏng
+
+lose
+Mất
+
+loss
+Mất
+
+lot
+Nhiều
+
+lots
+Nhiều
+
+loud
+To
+
+love
+Yêu
+
+lovely
+Dễ thương
+
+lover
+Tình nhân
+
+low
+Thấp
+
+luck
+Sự may mắn
+
+lucky
+May mắn
+
+lunch
+Bữa trưa
+
+machine
+Máy móc
+
+magazine
+Tạp chí
+
+main
+Chính
+
+mainly
+Chủ yếu
+
+maintain
+Bảo quản
+
+maintenance
+Bảo trì
+
+major
+Chính
+
+majority
+Đa số
+
+make
+Tạo
+
+male
+Nam
+
+mall
+Trung tâm mua sắm
+
+man
+Người đàn ông
+
+manage
+Quản lý
+
+management
+Quản lý
+
+manager
+Quản lý
+
+manner
+Cách thức
+
+manufacturer
+Nhà sản xuất
+
+manufacturing
+Sản xuất
+
+many
+Nhiều
+
+map
+Bản đồ
+
+margin
+Biên
+
+mark
+Đánh dấu
+
+market
+Thị trường
+
+marketing
+Tiếp thị
+
+marriage
+Hôn nhân
+
+married
+Kết hôn
+
+marry
+Kết hôn
+
+mass
+Khối lượng
+
+massive
+To lớn
+
+master
+Chủ nhân
+
+match
+Trận đấu
+
+material
+Chất liệu
+
+mathematics
+Toán học
+
+matter
+Vấn đề
+
+may
+Có thể
+
+maybe
+Có thể
+
+me
+Tôi
+
+meal
+Bữa ăn
+
+mean
+Có nghĩa là
+
+meaning
+Ý nghĩa
+
+meanwhile
+Trong khi đó
+
+measure
+Đo lường
+
+measurement
+Đo lường
+
 meat
 Thịt
-egg noodles
-Mì trứng
-customer
-Khách hàng
-carrot
-Cà rốt
-ice cream cake
-Bánh kem
+
+media
+Truyền thông
+
+medical
+Y tế
+
+medicine
+Thuốc
+
+medium
+Trung bình
+
+meet
+Gặp gỡ
+
+meeting
+Cuộc họp
+
+member
+Thành viên
+
+membership
+Hội viên
+
+memory
+Kí ức
+
+mental
+Tinh thần
+
+mention
+Đề cập
+
+menu
+Thực đơn
+
+mere
+Chỉ là
+
+merely
+Chỉ
+
+mess
+Tình trạng hỗn độn
+
+message
+Tin nhắn
+
+metal
+Kim loại
+
+meter
+Thước đo
+
+method
+Phương pháp
+
+middle
+Giữa
+
+might
+Có thể
+
+military
+Quân sự
+
+milk
+Sữa
+
+million
+Triệu
+
+mind
+Tâm trí
+
+mine
+Mỏ
+
+minister
+Bộ trưởng
+
+ministry
+Bộ
+
+minor
+Nhỏ hơn
+
+minority
+Thiểu số
+
+minute
+Phút
+
+mirror
+Gương
+
+miss
+Nhớ
+
+missile
+Tên lửa
+
+mission
+Nhiệm vụ
+
+mistake
+Sai lầm
+
+mix
+Kết hợp
+
+mixture
+Hỗn hợp
+
+model
+Mô hình
+
+modern
+Hiện đại
+
+mom
+Mẹ
+
+moment
+Phút
+
+money
+Tiền
+
+monitor
+Màn hình
+
+month
+Tháng
+
+mood
+Tâm trạng
+
+moon
+Mặt trăng
+
+moral
+Đạo đức
+
+more
+Nhiều hơn
+
+moreover
+Hơn nữa
+
+morning
+Buổi sáng
+
+mortgage
+Thế chấp
+
+most
+Hầu hết
+
+mostly
+Hầu hết
+
+mother
+Mẹ
+
+motion
+Chuyển động
+
+motivation
+Dong lực
+
+motor
+Động cơ
+
+mountain
+Núi
+
+mouse
+Chuột
+
+mouth
+Miệng
+
+move
+Di chuyển
+
+movement
+Sự di chuyển
+
+movie
+Phim
+
+much
+Nhiều
+
+multiple
+Nhiều
+
+murder
+Giết
+
+muscle
+Cơ
+
+museum
+Bảo tàng
+
+music
+Âm nhạc
+
+musical
+Âm nhạc
+
+must
+Phải
+
+my
+Của tôi
+
+myself
+Bản thân tôi
+
+mystery
+Bí mật
+
+myth
+Chuyện hoang đường
+
+name
+Tên
+
+narrow
+Hẹp
+
+nation
+Quốc gia
+
+national
+Quốc gia
+
+native
+Bản xứ
+
+natural
+Tự nhiên
+
+naturally
+Tự nhiên
+
+nature
+Tự nhiên
+
+near
+Gần
+
+nearby
+Gần
+
+nearly
+Gần
+
+necessarily
+Cần thiết
+
+necessary
+Cần thiết
+
+neck
+Cổ
+
+need
+Cần
+
+negative
+Tiêu cực
+
+negotiate
+Đàm phán
+
+negotiation
+Sự đàm phán
+
+neighbor
+Hàng xóm
+
+neither
+Không
+
+nerve
+Dây thần kinh
+
+nervous
+Lo lắng
+
+net
+Mạng
+
+network
+Mạng lưới
+
+never
+Không bao giờ
+
+nevertheless
+Tuy nhiên
+
+new
+Mới
+
+newly
+Mới
+
+news
+Tin tức
+
+newspaper
+Báo
+
+next
+Tiếp theo
+
+nice
+Dễ thương
+
+night
+Đêm
+
+nine
+Chín
+
+no
+Không
+
+nobody
+Không ai
+
+nod
+Gật đầu
+
+noise
+Tiếng ồn
+
+nomination
+Sự đề cử
+
+none
+Không ai
+
+nonetheless
+Tuy nhiên
+
+nor
+Không
+
+normal
+Bình thường
+
+normally
+Thường
+
+north
+Phía bắc
+
+northern
+Bắc
+
+nose
+Mũi
+
+not
+Không
+
+note
+Ghi chú
+
+nothing
+Không gì
+
+notice
+Chú ý
+
+notion
+Quan niệm
+
+novel
+Tiểu thuyết
+
+now
+Bây giờ
+
+nowhere
+Không đâu
+
+nuclear
+Hạt nhân
+
+number
+Số
+
+numerous
+Nhiều
+
+nurse
+Y tá
+
+object
+Đối tượng
+
+objective
+Mục tiêu
+
+obligation
+Nghĩa vụ
+
+observation
+Quan sát
+
+observe
+Quan sát
+
+observer
+Người quan sát
+
+obtain
+Đạt được
+
+obvious
+Rõ ràng
+
+obviously
+Rõ ràng
+
+of
+Của
+
+off
+Tắt
+
+offer
+Đề xuất
+
+office
+Văn phòng
+
+officer
+Sĩ quan
+
+official
+Chính thức
+
+often
+Thường xuyên
+
+oh
+Ồ
+
+oil
+Dầu
+
+ok
+Được
+
+old
+Cũ
+
+on
+Trên
+
+once
+Một lần
+
+one
+Một
+
+only
+Chỉ
+
+onto
+Vào
+
+open
+Mở
+
+operation
+Hoạt động
+
+opportunity
+Cơ hội
+
+oppose
+Phản đối
+
+opposite
+Ngược lại
+
+opposition
+Sự phản đối
+
+option
+Lựa chọn
+
+or
+Hoặc
+
+order
+Thứ tự
+
+ordinary
+Bình thường
+
+organization
+Tổ chức
+
+organize
+Tổ chức
+
+other
+Khác
+
+others
+Những người khác
+
+our
+Của chúng ta
+
+out
+Ra
+
+outside
+Bên ngoài
+
+over
+Hơn
+
+own
+Sở hữu
+
+owner
+Chủ sở hữu
+
+page
+Trang
+
+pain
+Đau
+
+paint
+Sơn
+
+painting
+Bức tranh
+
+paper
+Giấy
+
+parent
+Phụ huynh
+
+part
+Phần
+
+particular
+Cụ thể
+
+particularly
+Đặc biệt
+
+partly
+Một phần
+
+partner
+Đối tác
+
+party
+Bên
+
+pass
+Vượt qua
+
+past
+Quá khứ
+
+path
+Con đường
+
+patient
+Bệnh nhân
+
+pattern
+Mẫu
+
+pay
+Trả
+
+peace
+Hòa bình
+
+people
+Mọi người
+
+per
+Mỗi
+
+perform
+Biểu diễn
+
+performance
+Hiệu suất
+
+perhaps
+Có lẽ
+
+period
+Giai đoạn
+
+permanent
+Vĩnh viễn
+
+person
+Người
+
+personal
+Cá nhân
+
+phone
+Điện thoại
+
+physical
+Vật lý
+
+pick
+Chọn
+
+picture
+Hình
+
+piece
+Mảnh
+
+place
+Nơi
+
+plan
+Kế hoạch
+
+plant
+Cây cối
+
+play
+Chơi
+
+player
+Người chơi
+
+PM
+Buổi chiều
+
+point
+Điểm
+
+police
+Cảnh sát
+
+policy
+Chính sách
+
+political
+Chính trị
+
+politics
+Chính trị
+
+poor
+Nghèo
+
+popular
+Phổ biến
+
+population
+Dân số
+
+position
+Vị trí
+
+positive
+Tích cực
+
+possibility
+Khả năng
+
+possible
+Có thể
+
+possibly
+Có thể
+
+post
+Bài đăng
+
+power
+Sức mạnh
+
+powerful
+Mạnh mẽ
+
+practical
+Thực tế
+
+practice
+Thực hành
+
+prepare
+Chuẩn bị
+
+present
+Hiện tại
+
+president
+Tổng thống
+
+press
+Nhấn
+
+pressure
+Áp lực
+
+pretty
+Xinh xắn
+
+prevent
+Ngăn chặn
+
+previous
+Trước đó
+
+price
+Giá
+
+primary
+Chính
+
+prime
+Chính
+
+principle
+Nguyên tắc
+
+print
+In
+
+prior
+Trước
+
+private
+Tư
+
+probably
+Có lẽ
+
+problem
+Vấn đề
+
+process
+Quy trình
+
+produce
+Sản xuất
+
+product
+Sản phẩm
+
+production
+Sản xuất
+
+professional
+Chuyên nghiệp
+
+professional
+Chuyên nghiệp
+
+professor
+Giáo sư
+
+program
+Chương trình
+
+project
+Dự án
+
+property
+Tài sản
+
+protect
+Bảo vệ
+
+prove
+Chứng minh
+
+provide
+Cung cấp
+
+public
+Công cộng
+
+pull
+Kéo
+
+purpose
+Mục đích
+
+push
+Đẩy
+
+put
+Đặt
+
+quality
+Chất lượng
+
+question
+Câu hỏi
+
+quick
+Nhanh
+
+quickly
+Nhanh chóng
+
+quiet
+Yên tĩnh
+
+quite
+Hoàn toàn
+
+race
+Cuộc đua
+
+radio
+Đài phát thanh
+
+rain
+Mưa
+
+raise
+Nâng lên
+
+range
+Phạm vi
+
+rate
+Tỷ lệ
+
+rather
+Thà
+
+reach
+Đạt được
+
+read
+Đọc
+
+ready
+Sẵn sàng
+
+real
+Thực
+
+reality
+Hiện thực
+
+realize
+Nhận ra
+
+really
+Thực sự
+
+reason
+Lý do
+
+receive
+Nhận
+
+recent
+Gần đây
+
+recently
+Gần đây
+
+recognize
+Nhận ra
+
+record
+Ghi
+
+red
+Đỏ
+
+reduce
+Giảm
+
+reflect
+Phản chiếu
+
+region
+Khu vực
+
+relate
+Liên quan
+
+relationship
+Mối quan hệ
+
+religious
+Tôn giáo
+
+remain
+Còn lại
+
+remember
+Nhớ
+
+remove
+Loại bỏ
+
+report
+Báo cáo
+
+represent
+Đại diện
+
+Republican
+Đảng cộng hòa
+
+require
+Yêu cầu
+
+research
+Nghiên cứu
+
+resource
+Nguồn lực
+
+respond
+Phản ứng
+
+response
+Phản hồi
+
+responsibility
+Trách nhiệm
+
+rest
+Nghỉ
+
+result
+Kết quả
+
+return
+Trở lại
+
+reveal
+Tiết lộ
+
+rich
+Giàu có
+
+right
+Đúng
+
+rise
+Tăng lên
+
+risk
+Rủi ro
+
+road
+Con đường
+
+rock
+Đá
+
+role
+Vai trò
+
+room
+Phòng
+
+rule
+Quy tắc
+
+run
+Chạy
+
+safe
+An toàn
+
+same
+Giống như
+
+same
+Giống như
+
+save
+Tiết kiệm
+
+say
+Nói
+
+scene
+Cảnh
+
+school
+Trường học
+
+science
+Khoa học
+
+scientist
+Nhà khoa học
+
+score
+Điểm
+
+sea
+Biển
+
+season
+Mùa
+
+seat
+Chỗ ngồi
+
+second
+Thứ hai
+
+section
+Phần
+
+security
+Bảo mật
+
+see
+Nhìn
+
+seek
+Tìm kiếm
+
+seem
+Dường như
+
+sell
+Bán
+
+send
+Gửi
+
+senior
+Cao cấp
+
+sense
+Giác quan
+
+series
+Loạt
+
+serious
+Nghiêm trọng
+
+serve
+Phục vụ
+
+service
+Dịch vụ
+
+set
+Cài đặt
+
+seven
+Bảy
+
+several
+Nhiều
+
+sex
+Giới tính
+
+sexual
+Tình dục
+
+shake
+Rung
+
+share
+Chia sẻ
+
+she
+Cô ấy
+
+shoot
+Bắn
+
+short
+Ngắn
+
+shot
+Ảnh
+
+should
+Nên
+
+shoulder
+Vai
+
+show
+Chỉ
+
+side
+Bên
+
+sign
+Dấu hiệu
+
+significant
+Quan trọng
+
+similar
+Tương tự
+
+simple
+Đơn giản
+
+simply
+Đơn giản
+
+since
+Kể từ
+
+sing
+Hát
+
+single
+Đơn
+
+sister
+Chị em
+
+sit
+Ngồi
+
+site
+Trang web
+
+situation
+Tình huống
+
+six
+Sáu
+
+size
+Kích thước
+
+skill
+Kỹ năng
+
+skin
+Da
+
+small
+Nhỏ
+
+smile
+Nụ cười
+
+so
+Vì vậy
+
+social
+Xã hội
+
+society
+Xã hội
+
+soldier
+Quân nhân
+
+some
+Một số
+
+somebody
+Ai đó
+
+someone
+Một ai đó
+
+something
+Một cái gì đó
+
+sometimes
+Đôi khi
+
+son
+Con trai
+
+song
+Bài hát
+
+soon
+Sớm
+
+sort
+Loại
+
+sound
+Âm thanh
+
+source
+Nguồn
+
+south
+Phía Nam
+
+southern
+Phía Nam
+
+space
+Không gian
+
+speak
+Nói
+
+special
+Đặc biệt
+
+specific
+Cụ thể
+
+speech
+Bài phát biểu
+
+spend
+Chi tiêu
+
+spend
+Tiêu (tiền)
+
+spending
+Sự tiêu (tiền)
+
+special
+Đặc biệt
+
+specific
+Cụ thể
+
+speech
+Bài phát biểu
+
+speed
+Tốc độ
+
+spend
+Dành (thời gian)
+
+spending
+Sự dành (thời gian)
+
+spin
+Quay
+
+spirit
+Tinh thần
+
+split
+Chia
+
+spokesperson
+Người phát ngôn
+
+sport
+Thể thao
+
+spot
+Điểm
+
+spread
+Phổ biến
+
+spring
+Mùa xuân
+
+staff
+Nhân viên
+
+stage
+Giai đoạn
+
+stand
+Đứng
+
+standard
+Tiêu chuẩn
+
+star
+Ngôi sao
+
+start
+Bắt đầu
+
+state
+Trạng thái
+
+statement
+Tuyên bố
+
+station
+Trạm
+
+stay
+Ở lại
+
+steal
+Ăn cắp
+
+step
+Bước
+
+still
+Vẫn
+
+stock
+Hàng tồn kho
+
+stop
+Dừng lại
+
+store
+Cửa hàng
+
+story
+Câu chuyện
+
+strategy
+Chiến lược
+
+street
+Đường phố
+
+strength
+Sức mạnh
+
+strong
+Mạnh mẽ
+
+structure
+Cấu trúc
+
+student
+Học sinh, sinh viên
+
+studio
+Studio
+
+study
+Nghiên cứu
+
+stuff
+Đồ đạc
+
+style
+Phong cách
+
+subject
+Chủ đề
+
+success
+Thành công
+
+successful
+Thành công
+
+such
+Như vậy
+
+suddenly
+Đột ngột
+
+suffer
+Chịu
+
+suggest
+Đề xuất
+
+suggestion
+Đề xuất
+
+suitable
+Phù hợp
+
+sum
+Tổng
+
+summer
+Mùa hè
+
+sun
+Mặt trời
+
+supper
+Bữa tối
+
+support
+Hỗ trợ
+
+sure
+Chắc chắn
+
+surface
+Bề mặt
+
+system
+Hệ thống
+
+support
+Hỗ trợ
+
+sure
+Chắc chắn
+
+surface
+Bề mặt
+
+system
+Hệ thống
+
+table
+Bàn
+
+take
+Lấy
+
+talk
+Nói chuyện
+
+task
+Nhiệm vụ
+
+tax
+Thuế
+
+teach
+Dạy
+
+teacher
+Giáo viên
+
+team
+Đội
+
+technology
+Công nghệ
+
+television
+Truyền hình
+
+tell
+Kể
+
+ten
+Mười
+
+tend
+Có xu hướng
+
+term
+Kỳ
+
+test
+Kiểm tra
+
+than
+Hơn
+
+thank
+Cảm ơn
+
+that
+Đó
+
+the
+Các
+
+their
+Của họ
+
+them
+Họ
+
+themselves
+Chính họ
+
+then
+Sau đó
+
+theory
+Lý thuyết
+
+there
+Ở đó
+
+these
+Những
+
+they
+Họ
+
+thick
+Dày
+
+thin
+Mỏng
+
+thing
+Điều
+
+think
+Nghĩ
+
+third
+Thứ ba
+
+this
+Này
+
+those
+Những
+
+though
+Tuy
+
+thought
+Suy nghĩ
+
+thousand
+Nghìn
+
+threat
+Mối đe dọa
+
+three
+Ba
+
+through
+Qua
+
+throughout
+Trong suốt
+
+throw
+Ném
+
+thus
+Do đó
+
+time
+Thời gian
+
+to
+Đến
+
+today
+Hôm nay
+
+together
+Cùng
+
+tonight
+Tối nay
+
+too
+Quá
+
+top
+Đỉnh
+
+total
+Tổng cộng
+
+tough
+Khó khăn
+
+toward
+Hướng
+
+town
+Thị trấn
+
+trade
+Thương mại
+
+traditional
+Truyền thống
+
+training
+Đào tạo
+
+travel
+Du lịch
+
+treat
+Đối xử
+
+treatment
+Điều trị
+
+tree
+Cây
+
+trial
+Thử nghiệm
+
+trip
+Chuyến đi
+
+trouble
+Rắc rối
+
+true
+Đúng
+
+truth
+Sự thật
+
+try
+Thử
+
+turn
+Lượt
+
+TV
+TV
+
+two
+Hai
+
+type
+Loại
+
+under
+Dưới
+
+understand
+Hiểu
+
+unit
+Đơn vị
+
+until
+Cho đến khi
+
+up
+Lên
+
+upon
+Trên
+
+us
+Chúng ta
+
+use
+Sử dụng
+
+usually
+Thường
+
+value
+Giá trị
+
+various
+Đa dạng
+
+very
+Rất
+
+victim
+Nạn nhân
+
+view
+Quan điểm
+
+visit
+Thăm
+
+voice
+Tiếng nói
+
+vote
+Bỏ phiếu
+
+wait
+Chờ
+
+walk
+Đi bộ
+
+wall
+Tường
+
+want
+Muốn
+
+war
+Chiến tranh
+
+watch
+Xem
+
+water
+Nước
+
+way
+Cách
+
+we
+Chúng ta
+
+weapon
+Vũ khí
+
+wear
+Mặc
+
+week
+Tuần
+
+weight
+Trọng lượng
+
+well
+Tốt
+
+west
+Phía Tây
+
+western
+Phương Tây
+
+what
+Cái gì
+
+whatever
+Bất kỳ cái gì
+
+when
+Khi nào
+
+where
+Ở đâu
+
+whether
+Liệu
+
+which
+Cái nào
+
+while
+Trong khi
+
+white
+Trắng
+
+who
+Ai
+
+whole
+Toàn bộ
+
+whom
+Ai
+
+whose
+Của ai
+
+why
+Tại sao
+
+wide
+Rộng
+
+wife
+Vợ
+
+will
+Sẽ
+
+win
+Thắng
+
+wind
+Gió
+
+window
+Cửa sổ
+
+wish
+Ước
+
+with
+Với
+
+within
+Trong
+
+without
+Không
+
+woman
+Phụ nữ
+
+wonder
+Tự hỏi
+
+word
+Từ
+
+work
+Công việc
+
+worker
+Người lao động
+
+world
+Thế giới
+
+worry
+Lo lắng
+
+would
+Sẽ
+
+write
+Viết
+
+writer
+Nhà văn
+
+wrong
+Sai
+
+yard
+Sân
+
+yeah
+Dạ vâng
+
+year
+Năm
+
+yes
+Vâng
+
+yet
+Vẫn
+
+you
+Bạn
+
+young
+Trẻ
+
+your
+Của bạn
+
+yourself
+Chính bạn
+
+youth
+Tuổi trẻ
+
+zone
+Khu vực
+
+zero
+Không
+
+zoo
+Vườn bách thú
+
