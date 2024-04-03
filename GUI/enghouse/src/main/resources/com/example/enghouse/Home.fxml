@@ -10,7 +10,7 @@
 <?import javafx.scene.text.Font?>
 <?import javafx.scene.text.Text?>
 
-<AnchorPane onMouseClicked="#suggestWordListExited" prefHeight="590.0" prefWidth="800.0" styleClass="main_panel" stylesheets="@css/style.css" xmlns="http://javafx.com/javafx/21" xmlns:fx="http://javafx.com/fxml/1" fx:controller="com.example.enghouse.HomeController">
+<AnchorPane onMouseClicked="#suggestWordListExited" prefHeight="590.0" prefWidth="800.0" styleClass="gamebackground" stylesheets="@css/style.css" xmlns="http://javafx.com/javafx/21" xmlns:fx="http://javafx.com/fxml/1" fx:controller="com.example.enghouse.HomeController">
    <children>
       <TextField fx:id="home_search_bar" layoutX="87.0" layoutY="38.0" onKeyTyped="#handleSuggestWordList" onMouseClicked="#handleSuggestWordList" prefHeight="40.0" prefWidth="513.0" promptText="Nhập từ cần tra nghĩa..." styleClass="home_search_bar" stylesheets="@css/Home.css">
          <font>

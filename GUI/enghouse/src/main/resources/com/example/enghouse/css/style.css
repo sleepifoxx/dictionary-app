@@ -16,3 +16,7 @@
     -fx-background-color: #ffffff;
     -fx-background-radius: 15;
 }
+
+.gamebackground {
+    -fx-background-color: #88d2b7c9;
+}

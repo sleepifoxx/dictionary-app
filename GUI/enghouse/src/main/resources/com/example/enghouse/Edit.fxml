@@ -8,7 +8,7 @@
 <?import javafx.scene.layout.AnchorPane?>
 <?import javafx.scene.text.Font?>
 
-<AnchorPane prefHeight="590.0" prefWidth="800.0" styleClass="main_panel" stylesheets="@css/style.css" xmlns="http://javafx.com/javafx/21" xmlns:fx="http://javafx.com/fxml/1" fx:controller="com.example.enghouse.EditController">
+<AnchorPane prefHeight="590.0" prefWidth="800.0" styleClass="gamebackground" stylesheets="@css/style.css" xmlns="http://javafx.com/javafx/21" xmlns:fx="http://javafx.com/fxml/1" fx:controller="com.example.enghouse.EditController">
    <children>
       <Button fx:id="edit_save_button" graphicTextGap="10.0" layoutX="181.0" layoutY="507.0" mnemonicParsing="false" onAction="#handleSaveButton" prefHeight="42.0" prefWidth="113.0" styleClass="edit_button" stylesheets="@css/Edit.css" text="Save">
          <graphic>

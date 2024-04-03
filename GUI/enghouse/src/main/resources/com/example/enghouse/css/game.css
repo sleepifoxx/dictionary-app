@@ -88,3 +88,7 @@
     -fx-border-radius: 20;
     -fx-border-width: 2;
 }
+
+.gamebackground {
+    -fx-background-color: #bcc6d6c9;
+}
