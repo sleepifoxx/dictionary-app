@@ -23,14 +23,16 @@ public class MultipleChoiceController {
     private List<Map.Entry<String, String>> wordsList = new ArrayList<>();
     private int answerIndex;
     @FXML
-    private Button ChoiceA, ChoiceB, ChoiceC, ChoiceD, NextButton, BackButton;
+    private Button ChoiceA, ChoiceB, ChoiceC, ChoiceD, NextButton, BackButton, alert_false, alert_true;
     @FXML
-    private Text Word, text_choiceA, text_choiceB, text_choiceC, text_choiceD, alert;
+    private Text Word, text_choiceA, text_choiceB, text_choiceC, text_choiceD;
     @FXML
     private AnchorPane mainPane, contentAnchorPane;
 
     @FXML
     public void initialize() {
+        alert_false.setVisible(false);
+        alert_true.setVisible(false);
         NextButton.setVisible(false);
         Random rd = new Random();
         insertFromFile();
@@ -51,15 +53,16 @@ public class MultipleChoiceController {
     @FXML
     private void checkText() {
         if (a.get(answerIndex).equals(questionEntry)) {
-            alert.setText("Chính xác! Nhấn Next để chơi tiếp.");
+            alert_true.setVisible(true);
+            alert_true.setText("Chính xác!");
             ChoiceA.setDisable(true);
             ChoiceB.setDisable(true);
             ChoiceC.setDisable(true);
             ChoiceD.setDisable(true);
             NextButton.setVisible(true);
         } else {
-            alert.setText("Rất tiếc, bạn đã trả lời sai." + "\n" + "Đáp án đúng là: " + questionEntry.getValue() + "\n"
-                    + "Nhấn Next để chơi tiếp.");
+            alert_false.setVisible(true);
+            alert_false.setText("Sai rồi! Đáp án đúng là: " + questionEntry.getValue());
             ChoiceA.setDisable(true);
             ChoiceB.setDisable(true);
             ChoiceC.setDisable(true);
@@ -116,7 +119,10 @@ public class MultipleChoiceController {
         ChoiceB.setDisable(false);
         ChoiceC.setDisable(false);
         ChoiceD.setDisable(false);
-        alert.setText("");
+        alert_true.setText("");
+        alert_false.setText("");
+        alert_true.setVisible(false);
+        alert_false.setVisible(false);
     }
 
     public void insertFromFile() {

@@ -13,6 +13,6 @@
 }
 
 .main_panel {
-    -fx-background-color: #ffffff;
+    -fx-background-color: linear-gradient(to right, rgb(230, 230, 230) 0%, rgb(186, 186, 186) 100%);
     -fx-background-radius: 15;
 }

@@ -17,6 +17,7 @@ public class EditController {
 
     @FXML
     private void initialize() {
+        edit_save_button.setDisable(true);
         edit_alert.setVisible(false);
         edit_remove_button.setVisible(false);
         edit_word_target.setText("");
@@ -27,6 +28,7 @@ public class EditController {
     @FXML
     private void handleCheckButton() {
         String word_target = edit_word_target.getText();
+        edit_save_button.setDisable(false);
         if (Data.isWordExist(word_target)) {
             App.Alert(edit_alert, "Từ đã có trong từ điển!", 2);
             edit_remove_button.setVisible(true);
@@ -47,6 +49,7 @@ public class EditController {
         word_explain = edit_word_explain.getText();
         edit_remove_button.setVisible(false);
         edit_word_explain.setDisable(true);
+        edit_save_button.setDisable(true);
         edit_word_explain.setText("");
         edit_word_target.setText("");
         Word word = new Word(word_target, word_explain);
@@ -62,5 +65,6 @@ public class EditController {
         edit_word_explain.setText("");
         edit_remove_button.setVisible(false);
         edit_word_explain.setDisable(true);
+        edit_save_button.setDisable(true);
     }
 }

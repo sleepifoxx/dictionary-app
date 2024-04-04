@@ -1,7 +1,6 @@
 import java.util.Scanner;
 import java.io.File;
 import java.io.FileNotFoundException;
-import java.io.IOException;
 import java.util.Map;
 import java.util.TreeMap;
 
@@ -132,6 +131,23 @@ class DictionaryManagerBasic {
         for (Map.Entry<String, String> entry : dictionary.words.entrySet()) {
             System.out.println(index + " | " + entry.getKey() + " | " + entry.getValue());
             index++;
+        }
+    }
+
+    // minigame
+    public static void minigame(Dictionary dictionary) {
+        Scanner scanner = new Scanner(System.in);
+        System.out.println("Chọn trò chơi: ");
+        System.out.println("1. Trò chơi đoán từ");
+        System.out.println("2. Trò chơi sắp xếp từ");
+        int choice = scanner.nextInt();
+        switch (choice) {
+            case 1:
+                game1.game_multiple_choice(dictionary);
+                break;
+            case 2:
+                game2.game_transplant(dictionary);
+                break;
         }
     }
 

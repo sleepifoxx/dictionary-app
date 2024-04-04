@@ -30,11 +30,15 @@ public class GoogleTranslateController {
     }
 
     @FXML
-    private void handleSearchButton() throws IOException {
-        String word_target = Google_Translate_target.getText().toLowerCase();
-        String word_explain = GoogleAPI.translate(word_target, language_target,
-                language_explain);
-        Google_Translate_explain.setText(word_explain.substring(1, word_explain.length() - 1));
+    private void handleSearchButton() {
+        try {
+            String word_target = Google_Translate_target.getText().toLowerCase();
+            String word_explain = GoogleAPI.translate(word_target, language_target,
+                    language_explain);
+            Google_Translate_explain.setText(word_explain.substring(1, word_explain.length() - 1));
+        } catch (IOException e) {
+            Google_Translate_explain.setText("Kết nối Internet không ổn định!");
+        }
     }
 
     @FXML
