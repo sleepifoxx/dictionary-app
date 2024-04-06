@@ -1,7 +1,7 @@
-quant
 world
-quantum
-array
-ad-lib
 ad-libber
 hello
+ad-lib
+array
+quantum
+quant

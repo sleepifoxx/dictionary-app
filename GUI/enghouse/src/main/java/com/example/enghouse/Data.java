@@ -4,7 +4,7 @@ import java.io.*;
 import java.util.*;
 
 public class Data {
-    private static Map<String, String> data = new TreeMap<>();
+    private static Map<String, String> data = new LinkedHashMap<>();
     public static List<String> suggestWordList = new ArrayList<>();
 
     public static void insertFromDictionaries() {
