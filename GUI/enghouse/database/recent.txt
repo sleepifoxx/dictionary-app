@@ -1,2 +1,7 @@
-hello
+quant
 world
+quantum
+array
+ad-lib
+ad-libber
+hello
