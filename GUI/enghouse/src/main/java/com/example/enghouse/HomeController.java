@@ -1,8 +1,6 @@
 package com.example.enghouse;
 
-import java.io.IOException;
-import java.io.PrintWriter;
-import java.io.File;
+import java.io.*;
 import java.util.ArrayList;
 import java.util.List;
 import java.util.Scanner;
@@ -38,12 +36,6 @@ public class HomeController {
         home_recent_list.getItems().clear();
         recent.clear();
         insertfromRecent();
-
-        if (bookmark.size() != 0) {
-            saveBookmark();
-        }
-        bookmark.clear();
-        insertfromBookmark();
 
         home_word_target.setVisible(false);
         home_reset_recent_button.setDisable(true);
@@ -130,7 +122,7 @@ public class HomeController {
     @FXML
     private void handleBookmarkButton() {
         String word_target = home_search_bar.getText().toLowerCase();
-        bookmark.add(word_target);
+        addTextToFile("database/bookmark.txt", word_target);
         App.Alert(home_alert, "Thêm từ vào Bookmark thành công!", 2);
         home_bookmark_button.setVisible(false);
     }
@@ -208,7 +200,7 @@ public class HomeController {
 
     @FXML
     private void VisibleTrue() {
-        if (bookmark.contains(selectedWord)) {
+        if (checkWordExists("database/bookmark.txt", selectedWord)) {
             home_bookmark_button.setVisible(false);
         } else {
             home_bookmark_button.setVisible(true);
@@ -246,29 +238,35 @@ public class HomeController {
             System.out.println("An error occur with file: " + e);
         }
     }
-
-    public static void saveBookmark() {
-        try {
-            PrintWriter writer = new PrintWriter(new File("database/bookmark.txt"));
-            for (String word : bookmark) {
-                writer.println(word);
-            }
-            writer.close();
+    public static void addTextToFile(String filePath, String textToAdd) {
+        try (FileWriter fw = new FileWriter(filePath, true);
+             BufferedWriter bw = new BufferedWriter(fw);
+             PrintWriter out = new PrintWriter(bw)) {
+            out.println(textToAdd); // Thêm từ vào file
+            System.out.println("Đã thêm từ vào bookmark thành công!");
         } catch (IOException e) {
-            System.out.println("An error occur with file: " + e);
+            System.err.println("Có lỗi xảy ra khi ghi vào file: " + e.getMessage());
         }
     }
+    public static boolean checkWordExists(String filePath, String targetWord) {
+        File file = new File(filePath);
 
-    public static void insertfromBookmark() {
         try {
-            Scanner scanner = new Scanner(new File("database/bookmark.txt"));
+            Scanner scanner = new Scanner(file);
+
             while (scanner.hasNextLine()) {
-                String word = scanner.nextLine();
-                bookmark.add(word);
+                String line = scanner.nextLine();
+                if (line.contains(targetWord)) {
+                    scanner.close();
+                    return true;
+                }
             }
+
             scanner.close();
-        } catch (IOException e) {
-            System.out.println("An error occur with file: " + e);
+        } catch (FileNotFoundException e) {
+            System.out.println("Lỗi: Tệp không tồn tại hoặc không thể đọc.");
         }
+
+        return false;
     }
 }
