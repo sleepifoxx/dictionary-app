@@ -28,7 +28,7 @@ public class App extends Application {
         stage.setOnCloseRequest(e -> {
             Data.saveData();
             HomeController.saveRecent();
-            HomeController.saveBookmark();
+            // HomeController.saveBookmark();
         });
     }
 
