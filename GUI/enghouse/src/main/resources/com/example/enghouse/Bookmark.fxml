@@ -8,7 +8,7 @@
 <AnchorPane prefHeight="590.0" prefWidth="802.0" styleClass="main_panel" stylesheets="@css/bookmark.css" xmlns="http://javafx.com/javafx/21" xmlns:fx="http://javafx.com/fxml/1" fx:controller="com.example.enghouse.BookmarkController">
    <children>
       <ListView fx:id="listView" layoutX="51.0" layoutY="121.0" prefHeight="367.0" prefWidth="200.0" />
-      <TextArea fx:id="textArea" editable="false" layoutX="365.0" layoutY="121.0" prefHeight="367.0" prefWidth="422.0" />
+      <TextArea fx:id="textArea" editable="false" layoutX="335.0" layoutY="121.0" prefHeight="367.0" prefWidth="422.0" />
       <Button fx:id="btnDelete" layoutX="91.0" layoutY="517.0" mnemonicParsing="false" prefHeight="26.0" prefWidth="106.0" text="Xóa" />
    </children>
 </AnchorPane>
