@@ -57,7 +57,9 @@ This is an example of how to list things you need to use the software and how to
 Install JDK: https://www.oracle.com/java/technologies/downloads/
 ```
 
-### Installation
+### How to RUN
+
+***You can use RUNFILE folder or do the steps below:***
 
 **A. GUI Version**
 1. Clone the repo
@@ -86,10 +88,17 @@ Run this file.
 git clone https://github.com/sleepifoxx/dictionary-app.git
 ```
 
-2. Open RUNFILE/Commandline
+2. Open Project
 
 ```sh
-Run: click_to_run.bat
+- On IntelliJ, choose File/Open. Redirect to /GUI/enghouse/pom.xml
+- On VSCode, open /GUI/enghouse/ folder
+```
+
+3. Go to DictionaryBasic.java
+
+```sh
+Run this file.
 ```
 
 ## Usage
