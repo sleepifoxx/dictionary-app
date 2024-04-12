@@ -1,0 +1,3198 @@
+ability
+Khả năng
+absent
+Vắng mặt
+access
+Truy cập
+accommodation
+Chỗ ở
+achieve
+Đạt được
+act
+Hành động
+action
+Hành động
+active
+Hoạt động
+activity
+Hoạt động
+add
+Thêm vào
+address
+Địa chỉ
+adult
+Người trưởng thành
+advantage
+Ưu điểm
+advertise
+Quảng cáo
+advice
+Lời khuyên
+afford
+Có khả năng chi trả
+afraid
+Sợ
+after
+Sau
+against
+Phản đối
+age
+Tuổi
+agree
+Đồng ý
+agreement
+Thỏa thuận
+ahead
+Phía trước
+aim
+Mục tiêu
+air
+Không khí
+alive
+Sống
+all
+Tất cả
+allow
+Cho phép
+allowance
+Tiền trợ cấp
+almost
+Gần như
+alone
+Một mình
+along
+Dọc theo
+already
+Đã
+also
+Cũng
+although
+Mặc dù
+always
+Luôn luôn
+among
+Trong số
+amount
+Số lượng
+and
+Và
+angry
+Tức giận
+animal
+Động vật
+announce
+Thông báo
+another
+Một cái khác
+answer
+Trả lời
+any
+Bất kỳ
+anyone
+Bất kỳ ai
+anything
+Bất kỳ thứ gì
+anyway
+Dù sao
+appear
+Xuất hiện
+apple
+Quả táo
+apply
+Áp dụng
+appoint
+Bổ nhiệm
+appointment
+Cuộc hẹn
+area
+Khu vực
+argue
+Tranh luận
+argument
+Cuộc tranh luận
+arm
+Cánh tay
+around
+Xung quanh
+arrange
+Sắp xếp
+arrangement
+Sắp xếp
+arrive
+Đến
+art
+Nghệ thuật
+article
+Bài báo
+artist
+Nghệ sĩ
+as
+Như là
+ask
+Hỏi
+asleep
+Đang ngủ
+at
+Ở
+attack
+Tấn công
+attempt
+Cố gắng
+attention
+Sự chú ý
+attitude
+Thái độ
+attract
+Thu hút
+attraction
+Điểm thu hút
+audience
+Khán giả
+author
+Tác giả
+authority
+Quyền lực
+available
+Có sẵn
+average
+Trung bình
+avoid
+Tránh
+award
+Giải thưởng
+aware
+Nhận thức
+away
+Xa
+baby
+Em bé
+back
+Lưng
+bad
+Xấu
+bag
+Túi
+balance
+Cân bằng
+ball
+Quả bóng
+bank
+Ngân hàng
+bar
+Thanh
+base
+Cơ sở
+basic
+Cơ bản
+basis
+Cơ sở
+be
+Là
+bear
+Gấu
+beat
+Đánh
+beauty
+Vẻ đẹp
+because
+Bởi vì
+become
+Trở thành
+bed
+Giường
+before
+Trước
+begin
+Bắt đầu
+beginning
+Bắt đầu
+behaviour
+Hành vi
+behind
+Đằng sau
+believe
+Tin
+below
+Dưới
+best
+Tốt nhất
+better
+Tốt hơn
+between
+Giữa
+big
+Lớn
+bill
+Hóa đơn
+biology
+Sinh học
+bird
+Chim
+bit
+Một ít
+black
+Đen
+block
+Khối
+blood
+Máu
+blow
+Thổi
+blue
+Xanh da trời
+board
+Bảng
+boat
+Thuyền
+body
+Cơ thể
+book
+Sách
+both
+Cả hai
+box
+Hộp
+boy
+Cậu bé
+brain
+Bộ não
+branch
+Nhánh
+break
+Sự phá vỡ
+breath
+Hơi thở
+bridge
+Cây cầu
+brief
+Tóm tắt
+bright
+Sáng
+bring
+Mang lại
+broad
+Rộng
+brother
+Anh em
+brown
+Nâu
+build
+Xây dựng
+building
+Toà nhà
+burn
+Đốt
+business
+Kinh doanh
+but
+Nhưng
+buy
+Mua
+by
+Bằng
+call
+Gọi
+camera
+Máy ảnh
+camp
+Trại
+campaign
+Chiến dịch
+can
+Có thể
+cancer
+Ung thư
+candidate
+Ứng cử viên
+capital
+Thủ đô
+car
+Xe hơi
+card
+Thẻ
+care
+Chăm sóc
+career
+Sự nghiệp
+carry
+Mang
+case
+Trường hợp
+catch
+Bắt
+cause
+Nguyên nhân
+cell
+Tế bào
+century
+Thế kỷ
+certain
+Chắc chắn
+certainly
+Chắc chắn
+chain
+Chuỗi
+chair
+Ghế
+challenge
+Thách thức
+chance
+Cơ hội
+change
+Thay đổi
+channel
+Kênh
+chapter
+Chương
+character
+Nhân vật
+charge
+Phí
+cheap
+Rẻ
+check
+Kiểm tra
+child
+Đứa trẻ
+choice
+Sự lựa chọn
+choose
+Chọn
+church
+Nhà thờ
+citizen
+Công dân
+city
+Thành phố
+civil
+Dân sự
+claim
+Yêu cầu
+class
+Lớp
+clean
+Sạch sẽ
+clear
+Rõ ràng
+clearly
+Rõ ràng
+client
+Khách hàng
+climate
+Khí hậu
+climb
+Leo
+close
+Đóng
+closely
+Cẩn thận
+closer
+Gần hơn
+club
+Câu lạc bộ
+coach
+Huấn luyện viên
+coal
+Than
+coast
+Bờ biển
+coat
+Áo choàng
+code
+Mã
+coffee
+Cà phê
+cold
+Lạnh
+collection
+Bộ sưu tập
+college
+Trường cao đẳng
+colour
+Màu sắc
+combine
+Kết hợp
+come
+Đến
+comfortable
+Thoải mái
+command
+Lệnh
+commercial
+Thương mại
+commission
+Ủy ban
+commit
+Cam kết
+committee
+Ủy ban
+common
+Phổ biến
+communication
+Giao tiếp
+community
+Cộng đồng
+company
+Công ty
+compare
+So sánh
+computer
+Máy tính
+concern
+Liên quan
+condition
+Điều kiện
+conference
+Hội nghị
+confidence
+Tin tưởng
+conflict
+Xung đột
+confuse
+Gây nhầm lẫn
+congress
+Quốc hội
+connect
+Kết nối
+connection
+Kết nối
+consciousness
+Tâm trí
+consider
+Xem xét
+considerable
+Đáng kể
+consideration
+Sự cân nhắc
+consist
+Gồm có
+constant
+Liên tục
+constitutional
+Hiến pháp
+construct
+Xây dựng
+construction
+Xây dựng
+consumer
+Người tiêu dùng
+contact
+Liên hệ
+contain
+Chứa
+content
+Nội dung
+context
+Bối cảnh
+continue
+Tiếp tục
+contract
+Hợp đồng
+contrast
+Sự tương phản
+contribute
+Đóng góp
+contribution
+Đóng góp
+control
+Kiểm soát
+conversation
+Cuộc trò chuyện
+cook
+Đầu bếp
+cool
+Mát
+cooperation
+Sự hợp tác
+cop
+Cảnh sát
+copy
+Bản sao
+core
+Lõi
+corner
+Góc
+corporate
+Công ty
+correct
+Đúng
+cost
+Chi phí
+could
+Có thể
+council
+Hội đồng
+count
+Đếm
+country
+Quốc gia
+county
+Quận
+couple
+Cặp
+course
+Khóa học
+court
+Tòa án
+cover
+Bìa
+create
+Tạo ra
+creation
+Sự tạo ra
+credit
+Tín dụng
+crime
+Tội ác
+criminal
+Tội phạm
+crisis
+Khủng hoảng
+criterion
+Tiêu chí
+critical
+Quan trọng
+criticism
+Sự phê bình
+cross
+Băng qua
+crowd
+Đám đông
+cry
+Kêu lên
+cultural
+Văn hóa
+culture
+Văn hóa
+cup
+Cốc
+current
+Hiện tại
+currently
+Hiện tại
+customer
+Khách
+cut
+Cắt
+dark
+Tối
+data
+Dữ liệu
+daughter
+Con gái
+day
+Ngày
+dead
+Chết
+deal
+Giao dịch
+death
+Sự chết
+debate
+Tranh luận
+decade
+Thập kỷ
+decide
+Quyết định
+decision
+Quyết định
+deep
+Sâu
+defence
+Phòng thủ
+defend
+Bảo vệ
+degree
+Bằng cấp
+democracy
+Dân chủ
+democratic
+Dân chủ
+demonstrate
+Chứng minh
+demonstration
+Cuộc biểu tình
+deny
+Từ chối
+department
+Bộ phận
+depend
+Phụ thuộc
+dependent
+Phụ thuộc
+depth
+Sâu
+describe
+Mô tả
+description
+Sự mô tả
+design
+Thiết kế
+desire
+Khao khát
+desk
+Bàn
+destroy
+Phá hủy
+destruction
+Sự phá hủy
+detail
+Chi tiết
+detailed
+Chi tiết
+determine
+Xác định
+develop
+Phát triển
+development
+Sự phát triển
+device
+Thiết bị
+die
+Chết
+diet
+Chế độ ăn uống
+difference
+Sự khác biệt
+different
+Khác nhau
+difficult
+Khó khăn
+difficulty
+Sự khó khăn
+dinner
+Bữa tối
+direct
+Trực tiếp
+direction
+Hướng
+directly
+Trực tiếp
+director
+Giám đốc
+discover
+Khám phá
+discovery
+Khám phá
+discuss
+Thảo luận
+discussion
+Cuộc thảo luận
+disease
+Bệnh
+dish
+Món
+distance
+Khoảng cách
+distant
+Xa
+distinguish
+Phân biệt
+distribute
+Phân phối
+distribution
+Sự phân phối
+district
+Quận
+divide
+Chia
+division
+Sự chia
+do
+Làm
+doctor
+Bác sĩ
+document
+Tài liệu
+dog
+Con chó
+domestic
+Trong nước
+door
+Cửa
+double
+Gấp đôi
+doubt
+Nghi ngờ
+down
+Xuống
+draw
+Vẽ
+drawing
+Bức v
+dream
+Giấc mơ
+dress
+Điều
+drink
+Uống
+drive
+Lái xe
+driver
+Tài xế
+drop
+Nhỏ giọt
+drug
+Thuốc
+dry
+Khô
+due
+Do
+during
+Trong
+duty
+Nhiệm vụ
+each
+Mỗi
+ear
+Tai
+early
+Sớm
+earn
+Kiếm
+earth
+Trái đất
+easily
+Dễ dàng
+east
+Phía đông
+easy
+Dễ dàng
+eat
+Ăn
+economic
+Kinh tế
+economy
+Nền kinh tế
+edge
+Cạnh
+education
+Giáo dục
+effect
+Tác động
+effective
+Hiệu quả
+effectively
+Một cách hiệu qu
+effort
+Nỗ lực
+eight
+Tám
+either
+Hoặc là
+election
+Cuộc bầu cử
+else
+Khác
+elsewhere
+Ở nơi khác
+empire
+Đế quốc
+employ
+Tuyển dụng
+employee
+Nhân viên
+employer
+Nhà tuyển dụng
+employment
+Việc làm
+empty
+Trống
+end
+Kết thúc
+enemy
+Kẻ thù
+energy
+Năng lượng
+engage
+Tham gia
+engine
+Động cơ
+engineer
+Kỹ sư
+engineering
+Kỹ thuật
+enjoy
+Thưởng thức
+enough
+Đủ
+enter
+Nhập
+enterprise
+Doanh nghiệp
+entertainment
+Giải trí
+entire
+Toàn bộ
+entirely
+Hoàn toàn
+entirely
+Toàn bộ
+entirely
+Hoàn toàn
+entrance
+Lối vào
+entry
+Mục nhập
+environment
+Môi trường
+environmental
+Môi trường
+equal
+Bằng nhau
+equally
+Bằng nhau
+equipment
+Thiết bị
+escape
+Trốn thoát
+especially
+Đặc biệ
+essential
+Cần thiết
+essentially
+Về cơ bản
+establish
+Thành lập
+estate
+Tài sản
+estimate
+Ước lượng
+even
+Thậm chí
+evening
+Buổi tối
+event
+Sự kiện
+eventually
+Cuối cùng
+ever
+Từng
+every
+Mỗi
+everybody
+Mọi người
+everyone
+Mọi người
+everything
+Mọi thứ
+everywhere
+Mọi nơi
+evidence
+Bằng chứng
+exactly
+Chính xác
+examination
+Sự kiểm tra
+examine
+Kiểm tra
+example
+Ví dụ
+excellent
+Xuất sắc
+except
+Ngoại trừ
+exchange
+Trao đổi
+exciting
+Thú vị
+executive
+Thực thi
+exercise
+Bài tập
+exist
+Tồn tại
+existence
+Sự tồn tại
+existing
+Hiện hành
+expect
+Mong đợi
+expectation
+Sự mong đợi
+expenditure
+Chi tiêu
+expense
+Chi phí
+expensive
+Đắt
+experience
+Kinh nghiệm
+experienced
+Có kinh nghiệm
+experiment
+Thí nghiệm
+expert
+Chuyên gia
+explain
+Giải thích
+explanation
+Sự giải thích
+explore
+Khám phá
+explosion
+Vụ nổ
+expose
+Phơi bày
+express
+Diễn đạt
+expression
+Biểu hiện
+extend
+Mở rộng
+extension
+Sự mở rộng
+extensive
+Mở rộng
+extent
+Phạm vi
+extra
+Phụ
+extraordinary
+Phi thường
+extreme
+Cực đoan
+extremely
+Cực kỳ
+eye
+Mắt
+face
+Gương mặt
+facility
+Cơ sở vật chấ
+fact
+Sự thực
+factor
+Yếu tố
+factory
+Nhà máy
+fail
+Thất bạ
+failure
+Thất bại
+fair
+Hợp lý
+fairly
+Khá
+faith
+Niềm tin
+fall
+Rơi
+familiar
+Quen
+family
+Gia đình
+famous
+Nổi tiếng
+far
+Xa
+farm
+Nông trại
+farmer
+Nông dân
+fashion
+Thời trang
+fast
+Nhanh
+fat
+Mỡ
+father
+Cha
+fault
+Lỗi
+fear
+Sợ hãi
+federal
+Liên ban
+feed
+Cho ăn
+feel
+Cảm thấy
+feeling
+Cảm giác
+female
+Nữ
+few
+Ít
+field
+Lĩnh vực
+fight
+Trận đấu
+figure
+Con số
+fill
+Lấp đầy
+film
+Phim
+final
+Cuối cùng
+finally
+Cuối cùng
+finance
+Tài chính
+financial
+Tài chính
+find
+Tìm
+finding
+Tì
+fine
+Tốt
+finger
+Ngón ta
+finish
+Kết thúc
+fire
+Lửa
+firm
+Cứng
+first
+Đầu tiên
+fish
+Cá
+fit
+Phù hợp
+fitness
+Sức khỏe
+five
+Năm
+fix
+Sử
+flat
+Phẳng
+flight
+Chuyến bay
+floor
+Sàn
+flow
+Luồng
+flower
+Hoa
+fly
+Bay
+focus
+Tập trung
+follow
+Theo
+food
+Thức ăn
+foot
+Chân
+football
+Bóng đá
+for
+Để
+force
+Lực
+foreign
+Nước ngoài
+forest
+Rừng
+forget
+Quên
+form
+Hình thức
+formal
+Chính thức
+formerly
+Trước đây
+formula
+Công thức
+forth
+Về phía trước
+fortunate
+May mắn
+fortune
+Vận may
+forward
+Tiến lên
+foundation
+Nền
+four
+Bốn
+frame
+Khung
+free
+Miễn phí
+freedom
+Tự do
+freeze
+Đóng băng
+frequent
+Thường xuyên
+frequently
+Thường xuyên
+fresh
+Tươi
+friend
+Bạn bè
+friendly
+Thân thiện
+from
+Từ
+front
+Phía trước
+fruit
+Trái câ
+fuel
+Nhiên liệu
+full
+Đầy đủ
+fully
+Hoàn toàn
+fun
+Vui
+function
+Chức năng
+fund
+Quỹ
+fundamental
+Cơ bản
+funding
+Ngân sách
+funeral
+Đám tan
+funny
+Buồn cười
+furniture
+Đồ nội thất
+further
+Hơn nữa
+future
+Tương lai
+gain
+Thu được
+game
+Trò chơi
+garden
+Vườn
+gas
+Khí
+gate
+Cổng
+gather
+Thu thập
+gay
+Đồng tính
+gene
+Gen
+general
+Chung
+generally
+Nói chung
+generate
+Tạo ra
+generation
+Thế hệ
+genetic
+Di truyền
+gentleman
+Anh
+get
+Nhận
+girl
+Cô gái
+give
+Cho
+glass
+Cốc
+go
+Đi
+goal
+Mục tiêu
+god
+Thần
+gold
+Vàng
+good
+Tố
+government
+Chính phủ
+governor
+Thống đốc
+grab
+Nắm lấy
+grade
+Lớp
+gradually
+Dần dần
+grain
+Hạt
+grand
+Lớn
+grandfather
+Ông
+grandmother
+Bà
+grant
+Khoản hỗ trợ
+grass
+Cỏ
+grateful
+Biết ơn
+grave
+Nghĩa trang
+great
+Tuyệt vời
+green
+Xanh
+grey
+Xám
+grocery
+Cửa hàng tạp hóa
+ground
+Mặt đấ
+group
+Nhóm
+grow
+Mọc
+growth
+Sự phát triển
+guarantee
+Đảm bảo
+guard
+Bảo vệ
+guess
+Đoán
+guest
+Khách
+guide
+Hướng dẫn
+guilty
+Tội
+gun
+Súng
+guy
+Người đàn ông
+habit
+Thói quen
+hair
+Tóc
+half
+Một nửa
+hall
+Hội trường
+hand
+Bàn tay
+handle
+Xử lý
+hang
+Treo
+happen
+Xảy ra
+happy
+Hạnh phúc
+hard
+Khó khăn
+hardly
+Gần như không
+hat
+Mũ
+hate
+Ghét
+have
+Có
+he
+Anh ấy
+head
+Đầu
+health
+Sức khỏe
+hear
+Nghe
+hearing
+Nghe
+heart
+Trái tim
+heat
+Nhiệt
+heavy
+Nặng
+help
+Giúp đỡ
+hence
+Do đó
+her
+Cô ấy
+here
+Ở đây
+herself
+Chính mình
+hide
+Ẩn
+high
+Cao
+highlight
+Nổi bật
+highly
+Rất
+highway
+Đường cao tốc
+hill
+Đồi
+him
+Anh ấy
+himself
+Anh ấy
+his
+Của anh ấy
+historical
+Lịch sử
+history
+Lịch sử
+hit
+Đánh
+hold
+Nắm giữ
+hole
+Lỗ
+holiday
+Kỳ nghỉ
+holy
+Thánh
+home
+Nhà
+honest
+Trung thực
+honestly
+Trung thực
+honour
+Vinhdanh
+hope
+Hi vọng
+hopefully
+Hi vọng
+horse
+Ngựa
+hospital
+Bệnh viện
+host
+Chủ nhà
+hot
+Nóng
+hotel
+Khách sạn
+hour
+Giờ
+house
+Nhà
+household
+Hộ gia đình
+housing
+Nhà ở
+how
+Như thế nào
+however
+Tuy nhiên
+huge
+To lớn
+human
+Con người
+humor
+Sự hài hước
+hundred
+Trăm
+hungry
+Đói
+hunt
+Săn
+hurry
+Nhanh chóng
+hurt
+Đau
+husband
+Chồng
+I
+Tôi
+ice
+Đá
+idea
+Ý tưởng
+identify
+Xác định
+if
+Nếu
+ignore
+Bỏ qua
+ill
+Ốm
+illegal
+Bất hợp pháp
+illness
+Bệnh
+illustrate
+Minh họa
+image
+Hình ảnh
+imagine
+Tưởng tượng
+immediate
+Ngay lập tứ
+immediately
+Ngay lập tức
+impact
+Tác độn
+implement
+Thực hiện
+implication
+Hậu quả
+imply
+Gợi ý
+importance
+Tầm quan trọng
+important
+Quan trọng
+impose
+Áp đặt
+impossible
+Không thể
+impression
+Ấn tượng
+improve
+Cải thiện
+improvement
+Cải thiện
+in
+Trong
+incentive
+Động cơ
+incident
+Sự việc
+include
+Bao gồ
+including
+Bao gồm
+income
+Thu nhập
+incorporate
+Kết hợp
+increase
+Tăng
+increasingly
+Ngày càng
+indeed
+Thực s
+independence
+Độc lập
+independent
+Độc lập
+index
+Chỉ số
+indicate
+Chỉ ra
+individual
+Cá nhân
+industrial
+Công nghiệp
+industry
+Ngành
+infection
+Nhiễm trùng
+inflation
+Lạm phát
+influence
+Ảnh hưởng
+inform
+Thông báo
+information
+Thông tin
+ingredient
+Nguyên liệu
+initial
+Ban đầu
+initially
+Ban đầu
+initiative
+Sáng kiến
+injure
+Làm tổn thương
+injury
+Vết thương
+inner
+Bên tron
+innocent
+Vô tộ
+inquiry
+Cuộc điều tra
+inside
+Bên trong
+insist
+Khăng khăng
+inspect
+Kiểm tra
+inspection
+Kiểm tra
+install
+Cài đặ
+instance
+Ví dụ
+instead
+Thay vào đó
+institution
+Cơ sở
+institutional
+Thuộc về cơ sở
+instruction
+Hướng dẫn
+instructor
+Giảng viên
+instrument
+Dụng cụ
+insurance
+Bảo hiểm
+intellectual
+Trí tuệ
+intelligence
+Thông minh
+intelligent
+Thông minh
+intend
+Dự định
+intense
+Mạnh mẽ
+intensity
+Mức độ
+intention
+Ý định
+interaction
+Tương tác
+interest
+Sự quan tâm
+interested
+Quan tâm
+interesting
+Thú vị
+internal
+Nội bộ
+international
+Quốc tế
+Internet
+Internet
+interpret
+Dịch
+interpretation
+Sự giải thích
+intervention
+Can thiệp
+interview
+Phỏng vấn
+into
+Vào
+introduce
+Giới thiệu
+introduction
+Sự giới thiệu
+invest
+Đầu tư
+investigate
+Điều tra
+investigation
+Cuộc điều tra
+investment
+Sự đầu tư
+investor
+Nhà đầu tư
+invite
+Mời
+involve
+Liên quan
+involved
+Liên quan
+involvement
+Sự liên quan
+iron
+Sắt
+island
+Hòn đảo
+issue
+Vấn đề
+it
+Nó
+item
+Mục
+its
+Của nó
+itself
+Nó
+jail
+Nhà tù
+job
+Công việc
+join
+Tham gia
+joint
+Chung
+joke
+Trò đù
+judge
+Thẩm phán
+judgment
+Sự phán xét
+juice
+Nước trái cây
+jump
+Nhảy
+junior
+Thấp hơn
+jury
+Ban giám khảo
+just
+Chỉ
+justice
+Công lý
+justify
+Xác min
+keep
+Gi
+key
+Chìa khóa
+kick
+Đá
+kid
+Đứa trẻ
+kill
+Giết
+killer
+Kẻ giết ngườ
+killing
+Sự giết người
+kind
+Loại
+king
+Vua
+kiss
+Hô
+kitchen
+Nhà bếp
+knee
+Đầu gối
+knife
+Con dao
+knock
+Gõ
+know
+Biết
+knowledge
+Kiến thức
+lab
+Phòng thí nghiệm
+label
+Nhãn
+labor
+Lao động
+laboratory
+Phòng thí nghiệm
+lack
+Thiếu hụt
+lady
+Quý cô
+lake
+Hồ
+land
+Đất đai
+landscape
+Phong cảnh
+language
+Ngôn ngữ
+large
+Lớn
+largely
+Chủ yếu
+last
+Cuối cùng
+late
+Muộn
+later
+Sau
+latest
+Mới nhất
+latter
+Thứ hai
+laugh
+Cười
+launch
+Phóng
+law
+Luật
+lawyer
+Luật sư
+lay
+Đặt
+layer
+Lớp
+lead
+Dẫn dắt
+leader
+Lãnh đạo
+leadership
+Lãnh đạo
+leading
+Dẫn đầu
+leaf
+Lá
+league
+Liên minh
+lean
+Dựa
+learn
+Học
+learning
+Học
+least
+Ít nhất
+leather
+Da
+leave
+Rời khỏi
+left
+Bên trái
+leg
+Chân
+legacy
+Di sản
+legal
+Hợp pháp
+legislation
+Pháp luật
+legitimate
+Hợp pháp
+lemon
+Quả chanh
+length
+Chiều dài
+less
+Ít hơn
+lesson
+Bài học
+let
+Cho phép
+letter
+Thư
+level
+Mức độ
+liberal
+Tự do
+library
+Thư viện
+lie
+Nói dối
+life
+Cuộc sống
+lift
+Nâng
+light
+Ánh sáng
+like
+Như
+likely
+Có khả năng
+limit
+Giới hạ
+limited
+Hạn chế
+line
+Dòng
+link
+Liên kết
+lip
+Môi
+list
+Danh sách
+listen
+Nghe
+literally
+Thực sự
+literary
+Văn học
+literature
+Văn học
+little
+Nhỏ
+live
+Sống
+living
+Sống
+load
+Tải
+loan
+Cho vay
+local
+Địa phương
+location
+Vị trí
+lock
+Khóa
+long
+Dài
+look
+Nhìn
+loose
+Lỏng
+lose
+Mất
+loss
+Mất
+lot
+Nhiều
+lots
+Nhiều
+loud
+To
+love
+Yêu
+lovely
+Dễ thương
+lover
+Tình nhân
+low
+Thấp
+luck
+Sự may mắn
+lucky
+May mắn
+lunch
+Bữa trưa
+machine
+Máy móc
+magazine
+Tạp chí
+main
+Chính
+mainly
+Chủ yếu
+maintain
+Bảo quản
+maintenance
+Bảo trì
+major
+Chính
+majority
+Đa số
+make
+Tạo
+male
+Nam
+mall
+Trung tâm mua sắm
+man
+Người đàn ông
+manage
+Quản lý
+management
+Quản lý
+manager
+Quản lý
+manner
+Cách thức
+manufacturer
+Nhà sản xuất
+manufacturing
+Sản xuất
+many
+Nhiều
+map
+Bản đồ
+margin
+Biên
+mark
+Đánh dấu
+market
+Thị trường
+marketing
+Tiếp thị
+marriage
+Hôn nhân
+married
+Kết hôn
+marry
+Kết hôn
+mass
+Khối lượng
+massive
+To lớn
+master
+Chủ nhân
+match
+Trận đấu
+material
+Chất liệu
+mathematics
+Toán học
+matter
+Vấn đề
+may
+Có thể
+maybe
+Có thể
+me
+Tôi
+meal
+Bữa ăn
+mean
+Có nghĩa là
+meaning
+Ý nghĩa
+meanwhile
+Trong khi đó
+measure
+Đo lườn
+measurement
+Đo lường
+meat
+Thịt
+media
+Truyền thông
+medical
+Y tế
+medicine
+Thuốc
+medium
+Trung bình
+meet
+Gặp gỡ
+meeting
+Cuộc họp
+member
+Thành viên
+membership
+Hội viên
+memory
+Kí ức
+mental
+Tinh thần
+mention
+Đề cập
+menu
+Thực đơn
+mere
+Chỉ là
+merely
+Chỉ
+mess
+Tình trạng hỗn độn
+message
+Tin nhắn
+metal
+Kim loại
+meter
+Thước đo
+method
+Phương pháp
+middle
+Giữa
+might
+Có thể
+military
+Quân sự
+milk
+Sữa
+million
+Triệu
+mind
+Tâm trí
+mine
+Mỏ
+minister
+Bộ trưởng
+ministry
+Bộ
+minor
+Nhỏ hơn
+minority
+Thiểu số
+minute
+Phút
+mirror
+Gương
+miss
+Nhớ
+missile
+Tên lửa
+mission
+Nhiệm vụ
+mistake
+Sai lầm
+mix
+Kết hợp
+mixture
+Hỗn hợp
+model
+Mô hình
+modern
+Hiện đại
+mom
+Mẹ
+moment
+Phút
+money
+Tiền
+monitor
+Màn hình
+month
+Tháng
+mood
+Tâm trạng
+moon
+Mặt trăng
+moral
+Đạo đức
+more
+Nhiều hơn
+moreover
+Hơn nữa
+morning
+Buổi sáng
+mortgage
+Thế chấp
+most
+Hầu hết
+mostly
+Hầu hết
+mother
+Mẹ
+motion
+Chuyển độn
+motivation
+Dong lực
+motor
+Động c
+mountain
+Núi
+mouse
+Chuột
+mouth
+Miệng
+move
+Di chuyển
+movement
+Sự di chuyển
+movie
+Phim
+much
+Nhiều
+multiple
+Nhiều
+murder
+Giết
+muscle
+Cơ
+museum
+Bảo tàng
+music
+Âm nhạc
+musical
+Âm nhạc
+must
+Phải
+my
+Của tôi
+myself
+Bản thân tôi
+mystery
+Bí mật
+myth
+Cuyện hoang đường
+name
+Tên
+narrow
+Hẹp
+nation
+Quốc gia
+national
+Quốc gia
+native
+Bản xứ
+natural
+Tự nhiên
+naturally
+Tự nhiên
+nature
+Tự nhiên
+near
+Gần
+nearby
+Gần
+nearly
+Gần
+necessarily
+Cần thiết
+necessary
+Cần thiết
+neck
+Cổ
+need
+Cần
+negative
+Tiêu cực
+negotiate
+Đàm phán
+negotiation
+Sự đàm phán
+neighbor
+Hàng xóm
+neither
+Không
+nerve
+Dây thần kinh
+nervous
+Lo lắng
+net
+Mạng
+network
+Mạng lưới
+never
+Không bao giờ
+nevertheless
+Tuy nhiên
+new
+Mới
+newly
+Mới
+news
+Tin tức
+newspaper
+Báo
+next
+Tiếp theo
+nice
+Dễ thương
+night
+Đêm
+nine
+Chín
+no
+Không
+nobody
+Không ai
+nod
+Gật đầu
+noise
+Tiếng ồn
+nomination
+Sự đề cử
+none
+Không ai
+nonetheless
+Tuy nhiên
+nor
+Không
+normal
+Bình thường
+normally
+Thường
+north
+Phía bắc
+northern
+Bắc
+nose
+Mũi
+not
+Không
+note
+Ghi chú
+nothing
+Không gì
+notice
+Chú ý
+notion
+Quan niệm
+novel
+Tiểu thuyết
+now
+Bây giờ
+nowhere
+Không đâu
+nuclear
+Hạt nhân
+number
+Số
+numerous
+Nhiều
+nurse
+Y tá
+object
+Đối tượng
+objective
+Mục tiêu
+obligation
+Nghĩa vụ
+observation
+Quan sát
+observe
+Quan sát
+observer
+Người quan sát
+obtain
+Đạt được
+obvious
+Rõ ràng
+obviously
+Rõ ràng
+of
+Của
+off
+Tắt
+offer
+Đề xuất
+office
+Văn phòng
+officer
+Sĩ quan
+official
+Chính thức
+often
+Thường xuyên
+oh
+Ồ
+oil
+Dầu
+ok
+Được
+old
+Cũ
+on
+Trên
+once
+Một lần
+one
+Một
+only
+Chỉ
+onto
+Vào
+open
+Mở
+operation
+Hoạt động
+opportunity
+Cơ hội
+oppose
+Phản đối
+opposite
+Ngược lại
+opposition
+Sự phản đối
+option
+Lựa chọn
+or
+Hoặc
+order
+Thứ tự
+ordinary
+Bình thường
+organization
+Tổ chức
+organize
+Tổ chức
+other
+Khác
+others
+Những người khác
+our
+Của chúng ta
+out
+Ra
+outside
+Bên ngoài
+over
+Hơn
+own
+Sở hữu
+owner
+Chủ sở hữu
+page
+Trang
+pain
+Đau
+paint
+Sơn
+painting
+Bức tranh
+paper
+Giấy
+parent
+Phụ huynh
+part
+Phần
+particular
+Cụ thể
+particularly
+Đặc biệt
+partly
+Một phần
+partner
+Đối tác
+party
+Bên
+pass
+Vượt qua
+past
+Quá khứ
+path
+Con đường
+patient
+Bệnh nhân
+pattern
+Mẫu
+pay
+Trả
+peace
+Hòa bình
+people
+Mọi người
+per
+Mỗi
+perform
+Biểu diễn
+performance
+Hiệu suất
+perhaps
+Có lẽ
+period
+Giai đoạn
+permanent
+Vĩnh viễn
+person
+Ngườ
+personal
+Cá nhâ
+phone
+Điện thoại
+physical
+Vật lý
+pick
+Chọn
+picture
+Hình
+piece
+Mảnh
+place
+Nơi
+plan
+Kế hoạch
+plant
+Cây cối
+play
+Chơi
+player
+Người chơi
+PM
+Buổi chiều
+point
+Điểm
+police
+Cảnh sát
+policy
+Chính sách
+political
+Chính trị
+politics
+Chính trị
+poor
+Nghèo
+popular
+Phổ biến
+population
+Dân số
+position
+Vị trí
+positive
+Tích cực
+possibility
+Khả năng
+possible
+Có thể
+possibly
+Có thể
+post
+Bài đăng
+power
+Sức mạnh
+powerful
+Mạnh mẽ
+practical
+Thực tế
+practice
+Thực hành
+prepare
+Chuẩn bị
+present
+Hiện tại
+president
+Tổng thống
+press
+Nhấn
+pressure
+Áp lực
+pretty
+Xinh xắn
+prevent
+Ngăn chặn
+previous
+Trước đó
+price
+Giá
+primary
+Chính
+prime
+Chính
+principle
+Nguyên tắc
+print
+In
+prior
+Trước
+private
+Tư
+probably
+Có lẽ
+problem
+Vấn đề
+process
+Quy trình
+produce
+Sản xuất
+product
+Sản phẩm
+production
+Sản xuất
+professional
+Chuyên nghiệp
+professional
+Chuyên nghiệp
+professor
+Giáo sư
+program
+Chương trình
+project
+Dự án
+property
+Tài sản
+protect
+Bảo vệ
+prove
+Chứng minh
+provide
+Cung cấp
+public
+Công cộng
+pull
+Kéo
+purpose
+Mục đích
+push
+Đẩy
+put
+Đặt
+quality
+Chất lượng
+question
+Câu hỏi
+quick
+Nhanh
+quickly
+Nhanh chóng
+quiet
+Yên tĩnh
+quite
+Hoàn toàn
+race
+Cuộc đua
+radio
+Đài phát thanh
+rain
+Mưa
+raise
+Nâng lên
+range
+Phạm vi
+rate
+Tỷ lệ
+rather
+Thà
+reach
+Đạt được
+read
+Đọc
+ready
+Sẵn sàng
+real
+Thự
+reality
+Hiện thực
+realize
+Nhận ra
+really
+Thực sự
+reason
+Lý do
+receive
+Nhận
+recent
+Gần đây
+recently
+Gần đây
+recognize
+Nhận ra
+record
+Ghi
+red
+Đỏ
+reduce
+Giảm
+reflect
+Phản chiếu
+region
+Khu vực
+relate
+Liên quan
+relationship
+Mối quan hệ
+religious
+Tôn giáo
+remain
+Còn lại
+remember
+Nhớ
+remove
+Loại bỏ
+report
+Báo cáo
+represent
+Đại diện
+Republican
+Đảng cộng hòa
+require
+Yêu cầu
+research
+Nghiên cứu
+resource
+Nguồn lực
+respond
+Phản ứng
+response
+Phản hồi
+responsibility
+Trách nhiệm
+rest
+Nghỉ
+result
+Kết quả
+return
+Trở lại
+reveal
+Tiết lộ
+rich
+Giàu có
+right
+Đúng
+rise
+Tăng lên
+risk
+Rủi ro
+road
+Con đường
+rock
+Đá
+role
+Vai trò
+room
+Phòng
+rule
+Quy tắc
+run
+Chạy
+safe
+An toàn
+same
+Giống như
+same
+Giống như
+save
+Tiết kiệm
+say
+Nói
+scene
+Cảnh
+school
+Trường học
+science
+Khoa học
+scientist
+Nhà khoa học
+score
+Điểm
+sea
+Biển
+season
+Mùa
+seat
+Chỗ ngồi
+second
+Thứ hai
+section
+Phần
+security
+Bảo mật
+see
+Nhìn
+seek
+Tìm kiếm
+seem
+Dường như
+sell
+Bán
+send
+Gửi
+senior
+Cao cấp
+sense
+Giác quan
+series
+Loạt
+serious
+Nghiêm trọng
+serve
+Phục vụ
+service
+Dịch vụ
+set
+Cài đặt
+seven
+Bảy
+several
+Nhiều
+sex
+Giới tính
+sexual
+Tình dục
+shake
+Rung
+share
+Chia sẻ
+she
+Cô ấy
+shoot
+Bắn
+short
+Ngắn
+shot
+Ảnh
+should
+Nên
+shoulder
+Vai
+show
+Chỉ
+side
+Bên
+sign
+Dấu hiệu
+significant
+Quan trọng
+similar
+Tương tự
+simple
+Đơn giản
+simply
+Đơn giản
+since
+Kể từ
+sing
+Hát
+single
+Đơn
+sister
+Chị em
+sit
+Ngồi
+site
+Trang web
+situation
+Tình huống
+six
+Sáu
+size
+Kích thước
+skill
+Kỹ năng
+skin
+Da
+small
+Nhỏ
+smile
+Nụ cười
+so
+Vì vậy
+social
+Xã hội
+society
+Xã hội
+soldier
+Quân nhân
+some
+Một số
+somebody
+Ai đó
+someone
+Một ai đó
+something
+Một cái gì đó
+sometimes
+Đôi khi
+son
+Con trai
+song
+Bài hát
+soon
+Sớm
+sort
+Loại
+sound
+Âm thanh
+source
+Nguồn
+south
+Phía Nam
+southern
+Phía Nam
+space
+Không gian
+speak
+Nói
+special
+Đặc biệt
+specific
+Cụ thể
+speech
+Bài phát biểu
+spend
+Chi tiêu
+spend
+Tiêu (tiền)
+spending
+Sự tiêu (tiền)
+special
+Đặc biệt
+specific
+Cụ thể
+speech
+Bài phát biểu
+speed
+Tốc độ
+spend
+Dành (thời gian)
+spending
+Sự dành (thời gian)
+spin
+Quay
+spirit
+Tinh thần
+split
+Chia
+spokesperson
+Người phát ngôn
+sport
+Thể thao
+spot
+Điểm
+spread
+Phổ biến
+spring
+Mùa xuân
+staff
+Nhân viên
+stage
+Giai đoạn
+stand
+Đứng
+standard
+Tiêu chuẩn
+star
+Ngôi sao
+start
+Bắt đầu
+state
+Trạng thái
+statement
+Tuyên bố
+station
+Trạm
+stay
+Ở lại
+steal
+Ăn cắp
+step
+Bước
+still
+Vẫn
+stock
+Hàng tồn kho
+stop
+Dừng lại
+store
+Cửa hàng
+story
+Câu chuyện
+strategy
+Chiến lược
+street
+Đường phố
+strength
+Sức mạnh
+strong
+Mạnh mẽ
+structure
+Cấu trúc
+student
+Học sinh, sinh viên
+studio
+Studio
+study
+Nghiên cứu
+stuff
+Đồ đạc
+style
+Phong cách
+subject
+Chủ đề
+success
+Thành công
+successful
+Thành công
+such
+Như vậy
+suddenly
+Đột ngột
+suffer
+Chịu
+suggest
+Đề xuất
+suggestion
+Đề xuất
+suitable
+Phù hợp
+sum
+Tổng
+summer
+Mùa hè
+sun
+Mặt trời
+supper
+Bữa tối
+support
+Hỗ trợ
+sure
+Chắc chắn
+surface
+Bề mặt
+system
+Hệ thống
+support
+Hỗ trợ
+sure
+Chắc chắn
+surface
+Bề mặt
+system
+Hệ thốn
+table
+Bàn
+take
+Lấy
+talk
+Nói chuyện
+task
+Nhiệm vụ
+tax
+Thuế
+teach
+Dạy
+teacher
+Giáo viên
+team
+Đội
+technology
+Công nghệ
+television
+Truyền hình
+tell
+Kể
+ten
+Mười
+trend
+Có xu hướng
+test
+Kiểm tra
+than
+Hơn
+thank
+Cảm ơn
+that
+Đó
+the
+Các
+their
+Của họ
+them
+Họ
+themselves
+Chính họ
+then
+Sau đó
+theory
+Lý thuyết
+there
+Ở đó
+these
+Những
+they
+Họ
+thick
+Dày
+thin
+Mỏng
+thing
+Điều
+think
+Nghĩ
+third
+Thứ ba
+this
+Này
+those
+Những
+though
+Tuy
+thought
+Suy nghĩ
+thousand
+Nghìn
+threat
+Mối đe dọa
+three
+Ba
+through
+Qua
+throughout
+Trong suốt
+throw
+Ném
+thus
+Do đó
+time
+Thời gian
+to
+Đến
+today
+Hôm nay
+together
+Cùng
+tonight
+Tối nay
+too
+Quá
+top
+Đỉnh
+total
+Tổng cộng
+tough
+Khó khăn
+toward
+Hướng
+town
+Thị trấn
+trade
+Thương mại
+traditional
+Truyền thống
+training
+Đào tạo
+travel
+Du lịch
+treat
+Đối xử
+treatment
+Điều trị
+tree
+Cây
+trial
+Thử nghiệm
+trip
+Chuyến đi
+trouble
+Rắc rối
+true
+Đúng
+truth
+Sự thật
+try
+Thử
+turn
+Lượt
+TV
+TV
+two
+Hai
+type
+Loại
+under
+Dưới
+understand
+Hiểu
+unit
+Đơn vị
+until
+Cho đến khi
+up
+Lên
+upon
+Trên
+us
+Chúng ta
+use
+Sử dụng
+usually
+Thường
+value
+Giá trị
+various
+Đa dạng
+very
+Rất
+victim
+Nạn nhân
+view
+Quan điểm
+visit
+Thăm
+voice
+Tiếng nói
+vote
+Bỏ phiếu
+wait
+Chờ
+walk
+Đi bộ
+wall
+Tường
+want
+Muốn
+war
+Chiến tranh
+watch
+Xem
+water
+Nước
+way
+Cách
+we
+Chúng ta
+weapon
+Vũ khí
+wear
+Mặc
+week
+Tuần
+weight
+Trọng lượng
+well
+Tốt
+west
+Phía Tây
+western
+Phương Tâ
+what
+Cái gì
+whatever
+Bất kỳ cái gì
+when
+Khi nào
+where
+Ở đâ
+whether
+Liệ
+which
+Cái nào
+while
+Trong khi
+white
+Trắng
+who
+Ai
+whole
+Toàn bộ
+whom
+Ai
+whose
+Của ai
+why
+Tại sa
+wide
+Rộng
+wife
+Vợ
+will
+Sẽ
+win
+Thắng
+wind
+Gió
+window
+Cửa sổ
+wish
+Ướ
+with
+Với
+within
+Trong
+without
+Không
+woman
+Phụ nữ
+wonder
+Tự hỏi
+word
+Từ
+work
+Công việc
+worker
+Người lao động
+world
+Thế giới
+worry
+Lo lắng
+would
+Sẽ
+write
+Viết
+writer
+Nhà văn
+wrong
+Sai
+yard
+Sân
+yeah
+Dạ vâng
+year
+Năm
+yes
+Vâng
+yet
+Vẫn
+you
+Bạn
+young
+Trẻ
+your
+Của bạn
+yourself
+Chính bạn
+youth
+Tuổi trẻ
+zone
+Khu vực
+zero
+Không
+zoo
+Vườn bách thú

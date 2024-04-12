@@ -1,0 +1,65 @@
+.home_search_button {
+    -fx-background-color: #363737;
+    -fx-background-radius: 15;
+}
+
+.home_search_button:hover {
+    -fx-scale-x: 1.1;
+    -fx-scale-y: 1.1;
+}
+
+.home_reset_recent_button {
+    -fx-background-color: #363737;
+    -fx-text-fill: #ffffff;
+}
+
+.home_reset_recent_button:hover {
+    -fx-scale-x: 1.1;
+    -fx-scale-y: 1.1;
+}
+
+.home_control_area {
+    -fx-background-color: #363737;
+    -fx-background-radius: 3;
+    -fx-border-color: #363737;
+    -fx-border-width: 1;
+    -fx-border-radius: 3;
+}
+
+.home_save_button {
+    -fx-background-color: #363737;
+}
+
+.home_save_button:hover {
+    -fx-scale-x: 1.1;
+    -fx-scale-y: 1.1;
+}
+
+.home_control_button {
+    -fx-background-color: transparent;
+}
+
+.home_control_button:hover {
+    -fx-scale-x: 1.1;
+    -fx-scale-y: 1.1;
+}
+
+.home_alert {
+    -fx-background-color: #C23B22;
+    -fx-background-radius: 15;
+    -fx-text-fill: #ffffff;
+}
+
+.home_search_bar {
+    -fx-background-radius: 15;
+    -fx-border-color: #363737;
+    -fx-border-width: 2;
+    -fx-border-radius: 15;
+}
+
+.home_text_area {
+    -fx-background-radius: 3;
+    -fx-border-color: #363737;
+    -fx-border-width: 2;
+    -fx-border-radius: 3;
+}

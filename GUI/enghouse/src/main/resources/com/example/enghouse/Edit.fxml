@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.Button?>
+<?import javafx.scene.control.TextArea?>
+<?import javafx.scene.control.TextField?>
+<?import javafx.scene.image.Image?>
+<?import javafx.scene.image.ImageView?>
+<?import javafx.scene.layout.AnchorPane?>
+<?import javafx.scene.text.Font?>
+
+<AnchorPane prefHeight="590.0" prefWidth="800.0" styleClass="main_panel" stylesheets="@css/style.css" xmlns="http://javafx.com/javafx/21" xmlns:fx="http://javafx.com/fxml/1" fx:controller="com.example.enghouse.EditController">
+   <children>
+      <Button fx:id="edit_save_button" graphicTextGap="10.0" layoutX="331.0" layoutY="509.0" mnemonicParsing="false" onAction="#handleSaveButton" prefHeight="42.0" prefWidth="113.0" styleClass="edit_button" stylesheets="@css/Edit.css" text="Save">
+         <graphic>
+            <ImageView fitHeight="30.0" fitWidth="30.0" pickOnBounds="true" preserveRatio="true">
+               <image>
+                  <Image url="@icons/diskette.png" />
+               </image>
+            </ImageView>
+         </graphic>
+         <font>
+            <Font size="16.0" />
+         </font></Button>
+      <Button fx:id="edit_check_button" contentDisplay="RIGHT" layoutX="642.0" layoutY="45.0" mnemonicParsing="false" onAction="#handleCheckButton" prefHeight="30.0" prefWidth="82.0" styleClass="edit_button" stylesheets="@css/Edit.css" text="Check">
+         <graphic>
+            <ImageView fitHeight="20.0" fitWidth="20.0" pickOnBounds="true" preserveRatio="true">
+               <image>
+                  <Image url="@icons/check.png" />
+               </image>
+            </ImageView>
+         </graphic></Button>
+      <TextArea fx:id="edit_word_explain" layoutX="71.0" layoutY="115.0" prefHeight="380.0" prefWidth="654.0" promptText="Nhập định nghĩa của từ..." styleClass="edit_word_explain" stylesheets="@css/Edit.css" wrapText="true">
+         <font>
+            <Font size="16.0" />
+         </font></TextArea>
+      <TextField fx:id="edit_word_target" layoutX="73.0" layoutY="40.0" prefHeight="40.0" prefWidth="553.0" promptText="Nhập từ cần sửa" styleClass="edit_word_target" stylesheets="@css/Edit.css">
+         <font>
+            <Font size="16.0" />
+         </font></TextField>
+      <Button fx:id="edit_alert" layoutX="303.0" layoutY="85.0" mnemonicParsing="false" styleClass="edit_alert" stylesheets="@css/Edit.css" text="alert">
+         <graphic>
+            <ImageView fitHeight="15.0" fitWidth="15.0" pickOnBounds="true" preserveRatio="true">
+               <image>
+                  <Image url="@icons/alert-icon-red-11.png" />
+               </image>
+            </ImageView>
+         </graphic>
+         <font>
+            <Font size="11.0" />
+         </font>
+      </Button>
+      <Button fx:id="edit_remove_button" contentDisplay="GRAPHIC_ONLY" layoutX="665.0" layoutY="444.0" mnemonicParsing="false" onAction="#handleRemoveButton" styleClass="edit_button" stylesheets="@css/Edit.css" text="Remove">
+         <graphic>
+            <ImageView fitHeight="30.0" fitWidth="30.0" pickOnBounds="true" preserveRatio="true">
+               <image>
+                  <Image url="@icons/bin.png" />
+               </image>
+            </ImageView>
+         </graphic>
+      </Button>
+   </children>
+</AnchorPane>
