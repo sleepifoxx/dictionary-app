@@ -1,9 +1,2 @@
-quant
-array
-apple
-ad-libber
-null
-world
 hello
-ad-lib
-quantum
+world

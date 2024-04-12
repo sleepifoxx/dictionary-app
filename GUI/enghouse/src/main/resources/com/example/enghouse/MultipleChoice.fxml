@@ -34,7 +34,7 @@
          </graphic>
       </Button>
       <Button fx:id="NextButton" layoutX="672.0" layoutY="469.0" mnemonicParsing="false" onAction="#handleNextButton" styleClass="multipleChoiceGame" stylesheets="@css/game.css" text="Next" />
-      <Button fx:id="BackButton" contentDisplay="GRAPHIC_ONLY" layoutX="10.0" layoutY="10.0" mnemonicParsing="false" onAction="#handleBackButton" styleClass="backbutton" stylesheets="@css/game.css" text="Back to Game">
+      <Button fx:id="BackButton" contentDisplay="GRAPHIC_ONLY" layoutX="36.0" layoutY="28.0" mnemonicParsing="false" onAction="#handleBackButton" styleClass="backbutton" stylesheets="@css/game.css" text="Back to Game">
          <graphic>
             <ImageView fitHeight="40.0" fitWidth="40.0" pickOnBounds="true" preserveRatio="true">
                <image>

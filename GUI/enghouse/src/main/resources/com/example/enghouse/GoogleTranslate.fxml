@@ -18,11 +18,11 @@
                </image>
             </ImageView>
          </graphic></Button>
-      <TextArea fx:id="Google_Translate_explain" editable="false" layoutX="466.0" layoutY="195.0" prefHeight="200.0" prefWidth="300.0" styleClass="gg_textarea" stylesheets="@css/GoogleTranslate.css">
+      <TextArea fx:id="Google_Translate_explain" editable="false" layoutX="465.0" layoutY="153.0" prefHeight="283.0" prefWidth="300.0" styleClass="gg_textarea" stylesheets="@css/GoogleTranslate.css">
          <font>
             <Font size="14.0" />
          </font></TextArea>
-      <TextArea fx:id="Google_Translate_target" layoutX="35.0" layoutY="195.0" prefHeight="200.0" prefWidth="300.0" styleClass="gg_textarea" stylesheets="@css/GoogleTranslate.css">
+      <TextArea fx:id="Google_Translate_target" layoutX="34.0" layoutY="153.0" prefHeight="283.0" prefWidth="300.0" styleClass="gg_textarea" stylesheets="@css/GoogleTranslate.css">
          <font>
             <Font size="14.0" />
          </font></TextArea>
@@ -35,12 +35,12 @@
             </ImageView>
          </graphic>
       </Button>
-      <Text fx:id="text_target" layoutX="133.0" layoutY="191.0" strokeType="OUTSIDE" strokeWidth="0.0" textAlignment="CENTER" wrappingWidth="102.40000000000009">
+      <Text fx:id="text_target" layoutX="133.0" layoutY="148.0" strokeType="OUTSIDE" strokeWidth="0.0" textAlignment="CENTER" wrappingWidth="102.40000000000009">
          <font>
             <Font name="System Bold" size="15.0" />
          </font>
       </Text>
-      <Text fx:id="text_explain" layoutX="564.0" layoutY="190.0" strokeType="OUTSIDE" strokeWidth="0.0" textAlignment="CENTER" wrappingWidth="102.40000000000009">
+      <Text fx:id="text_explain" layoutX="564.0" layoutY="147.0" strokeType="OUTSIDE" strokeWidth="0.0" textAlignment="CENTER" wrappingWidth="102.40000000000009">
          <font>
             <Font name="System Bold" size="15.0" />
          </font>
