@@ -15,7 +15,6 @@ import javafx.scene.text.Text;
 public class HomeController {
     private static List<String> recent = new ArrayList<>();
     private static List<String> bookmark = new ArrayList<>();
-    private String selectedWord;
     @FXML
     private TextField home_search_bar;
     @FXML
@@ -36,12 +35,6 @@ public class HomeController {
         home_recent_list.getItems().clear();
         recent.clear();
         insertfromRecent();
-
-        // if (bookmark.size() != 0) {
-        // saveBookmark();
-        // }
-        // bookmark.clear();
-        // insertfromBookmark();
 
         home_word_target.setVisible(false);
         home_reset_recent_button.setDisable(true);
@@ -74,12 +67,12 @@ public class HomeController {
 
     @FXML
     private void handleSuggestWordSelection() {
-        selectedWord = home_suggestWord_list.getSelectionModel().getSelectedItem();
+        String selectedWord = home_suggestWord_list.getSelectionModel().getSelectedItem();
         home_search_bar.setText(selectedWord);
         handleSearchButton();
         suggestWordListExited();
         home_word_target.setText(selectedWord);
-        VisibleTrue();
+        VisibleTrue(selectedWord);
     }
 
     @FXML
@@ -141,7 +134,7 @@ public class HomeController {
 
     @FXML
     private void handleRecentListSelection() {
-        selectedWord = home_recent_list.getSelectionModel().getSelectedItem();
+        String selectedWord = home_recent_list.getSelectionModel().getSelectedItem();
         if (selectedWord != null) {
             reloadRecentList(selectedWord);
             home_search_bar.setText(selectedWord);
@@ -149,13 +142,14 @@ public class HomeController {
             home_explain_area.setText(word_explain);
             home_suggestWord_list.setVisible(false);
             home_word_target.setText(selectedWord);
-            VisibleTrue();
+            VisibleTrue(selectedWord);
         }
     }
 
     @FXML
     private void handleSearchButton() {
-        String word_target = home_search_bar.getText().toLowerCase();
+        String word_target = "";
+        word_target = home_search_bar.getText().toLowerCase();
         suggestWordListExited();
         if (Data.isWordExist(word_target) == false) {
             App.Alert(home_alert, "Không tìm thấy từ: " + word_target + "!", 2);
@@ -172,7 +166,7 @@ public class HomeController {
                 reloadRecentList(word_target);
             }
             home_word_target.setText(word_target);
-            VisibleTrue();
+            VisibleTrue(word_target);
         }
     }
 
@@ -206,8 +200,8 @@ public class HomeController {
     }
 
     @FXML
-    private void VisibleTrue() {
-        if (checkWordExists("database/bookmark.txt", selectedWord)) {
+    private void VisibleTrue(String word) {
+        if (checkWordExists("database/bookmark.txt", word)) {
             home_bookmark_button.setVisible(false);
         } else {
             home_bookmark_button.setVisible(true);
