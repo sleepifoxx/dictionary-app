@@ -4,7 +4,7 @@ import java.io.*;
 import java.util.*;
 
 public class Data {
-    private static Map<String, String> data = new HashMap<>();
+    private static Map<String, String> data = new LinkedHashMap<>();
     public static List<String> suggestWordList = new ArrayList<>();
 
     public static void insertFromDictionaries() {
@@ -51,7 +51,10 @@ public class Data {
         try {
             FileWriter fileWriter = new FileWriter("database/dictionaries.txt");
             for (Map.Entry<String, String> entry : data.entrySet()) {
-                fileWriter.write("|" + entry.getKey() + "\n" + entry.getValue() + "\n");
+                if (!entry.getValue().endsWith("\n")) {
+                    entry.setValue(entry.getValue() + "\n");
+                }
+                fileWriter.write("|" + entry.getKey() + "\n" + entry.getValue());
             }
             fileWriter.close();
         } catch (IOException e) {

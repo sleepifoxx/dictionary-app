@@ -1,2 +1,4 @@
 apple
 simple
+tree
+school

@@ -967,7 +967,7 @@ Yếu tố
 factory
 Nhà máy
 fail
-Thất bạ
+Thất bại
 failure
 Thất bại
 fair
@@ -1039,7 +1039,7 @@ Tì
 fine
 Tốt
 finger
-Ngón ta
+Ngón tay
 finish
 Kết thúc
 fire

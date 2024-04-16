@@ -2,7 +2,6 @@ package com.example.enghouse;
 
 import javafx.fxml.FXML;
 import javafx.scene.control.Button;
-import javafx.application.HostServices;
 import java.awt.Desktop;
 import java.net.URI;
 import java.io.IOException;
@@ -10,8 +9,6 @@ import java.io.IOException;
 public class AboutController {
     @FXML
     private Button githubButton1, githubButton2, githubButton3, facebookButton1, facebookButton2, facebookButton3;
-
-    private HostServices hostServices;
 
     @FXML
     private void handlegithubButton1() {

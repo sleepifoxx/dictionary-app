@@ -5,48 +5,52 @@ import javafx.fxml.FXMLLoader;
 import javafx.scene.layout.AnchorPane;
 import java.io.IOException;
 import javafx.scene.control.Button;
+import javafx.animation.TranslateTransition;
+import javafx.util.Duration;
 
 public class MenuController {
     @FXML
-    private AnchorPane mainPane, contentAnchorPane;
+    private AnchorPane contentAnchorPane;
     @FXML
     private Button homeButton;
-    @FXML
-    private AnchorPane contentPane;
 
     @FXML
     public void initialize() {
-        loadFXML("Home.fxml");
+        handleTransition("Home.fxml");
     }
 
     @FXML
     private void handleHomeButton() {
-        loadFXML("Home.fxml");
+        handleTransition("Home.fxml");
     }
 
     @FXML
     private void handleGoogleTranslateButton() {
-        loadFXML("GoogleTranslate.fxml");
+        handleTransition("GoogleTranslate.fxml");
     }
 
     @FXML
     private void handleEditButton() {
-        loadFXML("Edit.fxml");
+        // handleTransition();
+        handleTransition("Edit.fxml");
     }
 
     @FXML
     private void handleBookmarkButton() {
-        loadFXML("Bookmark.fxml");
+        // handleTransition();
+        handleTransition("Bookmark.fxml");
     }
 
     @FXML
     private void handleGameButton() {
-        loadFXML("Game.fxml");
+        // handleTransition();
+        handleTransition("Game.fxml");
     }
 
     @FXML
     private void handleAboutButton() {
-        loadFXML("About.fxml");
+        // handleTransition();
+        handleTransition("About.fxml");
     }
 
     @FXML
@@ -54,6 +58,21 @@ public class MenuController {
         try {
             AnchorPane pane = FXMLLoader.load(getClass().getResource(fxmlFileName));
             contentAnchorPane.getChildren().setAll(pane);
+        } catch (IOException e) {
+            e.printStackTrace();
+        }
+    }
+
+    @FXML
+    private void handleTransition(String fxmlFileName) {
+        try {
+            AnchorPane pane = FXMLLoader.load(getClass().getResource(fxmlFileName));
+            pane.setTranslateY(contentAnchorPane.getHeight());
+            contentAnchorPane.getChildren().setAll(pane);
+
+            TranslateTransition transition = new TranslateTransition(Duration.seconds(0.3), pane);
+            transition.setToY(0);
+            transition.play();
         } catch (IOException e) {
             e.printStackTrace();
         }
