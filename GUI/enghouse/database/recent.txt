@@ -1,4 +1,4 @@
-school
 tree
 hello
+school
 world

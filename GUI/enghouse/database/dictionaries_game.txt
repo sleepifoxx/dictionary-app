@@ -719,7 +719,7 @@ Xuống
 draw
 Vẽ
 drawing
-Bức v
+Bức vẽ
 dream
 Giấc mơ
 dress
@@ -773,7 +773,7 @@ Tác động
 effective
 Hiệu quả
 effectively
-Một cách hiệu qu
+Một cách hiệu quả
 effort
 Nỗ lực
 eight
@@ -959,7 +959,7 @@ Mắt
 face
 Gương mặt
 facility
-Cơ sở vật chấ
+Cơ sở vật chất
 fact
 Sự thực
 factor
@@ -1057,7 +1057,7 @@ Sức khỏe
 five
 Năm
 fix
-Sử
+Sửa
 flat
 Phẳng
 flight
@@ -1133,7 +1133,7 @@ Từ
 front
 Phía trước
 fruit
-Trái câ
+Trái cây
 fuel
 Nhiên liệu
 full
@@ -1431,7 +1431,7 @@ Ngay lập tứ
 immediately
 Ngay lập tức
 impact
-Tác độn
+Tác động
 implement
 Thực hiện
 implication
@@ -1459,7 +1459,7 @@ incentive
 incident
 Sự việc
 include
-Bao gồ
+Bao gồm
 including
 Bao gồm
 income
@@ -1471,7 +1471,7 @@ Tăng
 increasingly
 Ngày càng
 indeed
-Thực s
+Thực sự
 independence
 Độc lập
 independent
@@ -1509,9 +1509,9 @@ Làm tổn thương
 injury
 Vết thương
 inner
-Bên tron
+Bên trong
 innocent
-Vô tộ
+Vô tội
 inquiry
 Cuộc điều tra
 inside
@@ -1523,7 +1523,7 @@ Kiểm tra
 inspection
 Kiểm tra
 install
-Cài đặ
+Cài đặt
 instance
 Ví dụ
 instead
@@ -1641,9 +1641,9 @@ Chỉ
 justice
 Công lý
 justify
-Xác min
+Xác minh
 keep
-Gi
+Giữ
 key
 Chìa khóa
 kick
@@ -1653,7 +1653,7 @@ kid
 kill
 Giết
 killer
-Kẻ giết ngườ
+Kẻ giết người
 killing
 Sự giết người
 kind
@@ -1661,7 +1661,7 @@ Loại
 king
 Vua
 kiss
-Hô
+Hôn
 kitchen
 Nhà bếp
 knee
@@ -1787,7 +1787,7 @@ Như
 likely
 Có khả năng
 limit
-Giới hạ
+Giới hạn
 limited
 Hạn chế
 line
@@ -1935,7 +1935,7 @@ meaning
 meanwhile
 Trong khi đó
 measure
-Đo lườn
+Đo lường
 measurement
 Đo lường
 meat
@@ -2051,11 +2051,11 @@ Hầu hết
 mother
 Mẹ
 motion
-Chuyển độn
+Chuyển động
 motivation
-Dong lực
+Động lực
 motor
-Động c
+Động cơ
 mountain
 Núi
 mouse
@@ -2242,12 +2242,8 @@ official
 Chính thức
 often
 Thường xuyên
-oh
-Ồ
 oil
 Dầu
-ok
-Được
 old
 Cũ
 on
@@ -2353,9 +2349,9 @@ Giai đoạn
 permanent
 Vĩnh viễn
 person
-Ngườ
+Người
 personal
-Cá nhâ
+Cá nhân
 phone
 Điện thoại
 physical
@@ -2376,8 +2372,6 @@ play
 Chơi
 player
 Người chơi
-PM
-Buổi chiều
 point
 Điểm
 police
@@ -2443,7 +2437,7 @@ In
 prior
 Trước
 private
-Tư
+Riêng tư
 probably
 Có lẽ
 problem
@@ -2456,8 +2450,6 @@ product
 Sản phẩm
 production
 Sản xuất
-professional
-Chuyên nghiệp
 professional
 Chuyên nghiệp
 professor
@@ -2517,7 +2509,7 @@ read
 ready
 Sẵn sàng
 real
-Thự
+Thực
 reality
 Hiện thực
 realize
@@ -2888,14 +2880,6 @@ surface
 Bề mặt
 system
 Hệ thống
-support
-Hỗ trợ
-sure
-Chắc chắn
-surface
-Bề mặt
-system
-Hệ thốn
 table
 Bàn
 take
@@ -3030,8 +3014,6 @@ try
 Thử
 turn
 Lượt
-TV
-TV
 two
 Hai
 type
@@ -3101,7 +3083,7 @@ Tốt
 west
 Phía Tây
 western
-Phương Tâ
+Phương Tây
 what
 Cái gì
 whatever
@@ -3109,9 +3091,9 @@ Bất kỳ cái gì
 when
 Khi nào
 where
-Ở đâ
+Ở đâu
 whether
-Liệ
+Liệu
 which
 Cái nào
 while
@@ -3127,7 +3109,7 @@ Ai
 whose
 Của ai
 why
-Tại sa
+Tại sao
 wide
 Rộng
 wife
@@ -3141,7 +3123,7 @@ Gió
 window
 Cửa sổ
 wish
-Ướ
+Ước
 with
 Với
 within
