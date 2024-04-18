@@ -1,4 +1,4 @@
-package com.example.enghouse;
+package com.example.enghouse.controller;
 
 import javafx.fxml.FXML;
 import javafx.scene.control.Button;

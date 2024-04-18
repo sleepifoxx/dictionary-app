@@ -1,5 +1,8 @@
-package com.example.enghouse;
+package com.example.enghouse.controller;
 
+import com.example.enghouse.App;
+import com.example.enghouse.model.Data;
+import com.example.enghouse.model.Word;
 import javafx.fxml.FXML;
 import javafx.scene.control.TextField;
 import javafx.scene.control.TextArea;

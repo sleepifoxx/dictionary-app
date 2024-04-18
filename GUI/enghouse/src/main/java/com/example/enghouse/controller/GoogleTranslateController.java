@@ -1,5 +1,6 @@
-package com.example.enghouse;
+package com.example.enghouse.controller;
 
+import com.example.enghouse.model.GoogleAPI;
 import javafx.fxml.FXML;
 import javafx.scene.control.Button;
 import javafx.scene.control.TextArea;

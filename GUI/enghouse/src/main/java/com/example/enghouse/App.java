@@ -1,5 +1,7 @@
 package com.example.enghouse;
 
+import com.example.enghouse.controller.HomeController;
+import com.example.enghouse.model.Data;
 import javafx.animation.KeyFrame;
 import javafx.animation.Timeline;
 import javafx.application.Application;
@@ -15,7 +17,8 @@ import java.io.IOException;
 public class App extends Application {
     @Override
     public void start(Stage stage) throws IOException {
-        FXMLLoader fxmlLoader = new FXMLLoader(App.class.getResource("Menu.fxml"));
+        FXMLLoader fxmlLoader = new FXMLLoader(
+                App.class.getResource("/com/example/enghouse/views/Menu.fxml"));
         Scene scene = new Scene(fxmlLoader.load(), 960, 640);
         stage.setTitle("EngHouse - Your English Learning Assistant");
         stage.getIcons().add(new Image(App.class.getResource("icons/dictionary.png").toExternalForm()));

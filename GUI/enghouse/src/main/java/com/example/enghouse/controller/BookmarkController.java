@@ -1,5 +1,6 @@
-package com.example.enghouse;
+package com.example.enghouse.controller;
 
+import com.example.enghouse.model.Data;
 import javafx.fxml.FXML;
 import javafx.scene.control.Alert;
 import javafx.scene.control.Button;

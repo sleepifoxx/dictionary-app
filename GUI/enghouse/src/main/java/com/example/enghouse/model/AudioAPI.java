@@ -1,4 +1,4 @@
-package com.example.enghouse;
+package com.example.enghouse.model;
 
 import javazoom.jl.decoder.JavaLayerException;
 import javazoom.jl.player.Player;

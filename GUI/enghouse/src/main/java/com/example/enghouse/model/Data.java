@@ -1,4 +1,4 @@
-package com.example.enghouse;
+package com.example.enghouse.model;
 
 import java.io.*;
 import java.util.*;

@@ -1,10 +1,14 @@
-package com.example.enghouse;
+package com.example.enghouse.controller;
 
 import java.io.*;
 import java.util.ArrayList;
 import java.util.List;
 import java.util.Scanner;
 
+import com.example.enghouse.App;
+import com.example.enghouse.model.AudioAPI;
+import com.example.enghouse.model.Data;
+import com.example.enghouse.model.Word;
 import javafx.fxml.FXML;
 import javafx.scene.control.TextField;
 import javafx.scene.control.Button;

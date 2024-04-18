@@ -1,4 +1,4 @@
-package com.example.enghouse;
+package com.example.enghouse.model;
 
 public class Word {
     private String word_target;

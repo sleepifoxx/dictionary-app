@@ -1,4 +1,4 @@
-package com.example.enghouse;
+package com.example.enghouse.controller;
 
 import javafx.fxml.FXML;
 import javafx.fxml.FXMLLoader;
@@ -54,19 +54,9 @@ public class MenuController {
     }
 
     @FXML
-    private void loadFXML(String fxmlFileName) {
-        try {
-            AnchorPane pane = FXMLLoader.load(getClass().getResource(fxmlFileName));
-            contentAnchorPane.getChildren().setAll(pane);
-        } catch (IOException e) {
-            e.printStackTrace();
-        }
-    }
-
-    @FXML
     private void handleTransition(String fxmlFileName) {
         try {
-            AnchorPane pane = FXMLLoader.load(getClass().getResource(fxmlFileName));
+            AnchorPane pane = FXMLLoader.load(getClass().getResource("/com/example/enghouse/views/" + fxmlFileName));
             pane.setTranslateY(contentAnchorPane.getHeight());
             contentAnchorPane.getChildren().setAll(pane);
 

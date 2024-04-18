@@ -1,4 +1,4 @@
-package com.example.enghouse;
+package com.example.enghouse.controller;
 
 import java.io.File;
 import java.io.FileNotFoundException;
@@ -144,7 +144,7 @@ public class MultipleChoiceController {
     @FXML
     private void loadFXML(String fxmlFileName) {
         try {
-            AnchorPane pane = FXMLLoader.load(getClass().getResource(fxmlFileName));
+            AnchorPane pane = FXMLLoader.load(getClass().getResource("/com/example/enghouse/views/" + fxmlFileName));
             contentAnchorPane.getChildren().setAll(pane);
         } catch (IOException e) {
             e.printStackTrace();
