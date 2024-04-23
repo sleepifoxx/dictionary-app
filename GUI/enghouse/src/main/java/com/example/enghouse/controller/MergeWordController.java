@@ -1,13 +1,9 @@
 package com.example.enghouse.controller;
 
-import java.io.File;
-import java.io.FileNotFoundException;
 import java.util.ArrayList;
-import java.util.HashMap;
 import java.util.List;
 import java.util.Map;
 import java.util.Random;
-import java.util.Scanner;
 
 import javafx.animation.PauseTransition;
 import javafx.fxml.FXML;
@@ -17,10 +13,8 @@ import javafx.scene.control.TextField;
 import javafx.scene.layout.AnchorPane;
 import javafx.util.Duration;
 
-public class MergeWordController extends Transition {
-    private Map<String, String> dictionary = new HashMap<>();
+public class MergeWordController extends GameController {
     private List<Map.Entry<String, String>> wordsList = new ArrayList<>();
-    private Map.Entry<String, String> questionEntry;
     private String word_target;
     private char[] word_target_array;
 
@@ -35,6 +29,10 @@ public class MergeWordController extends Transition {
 
     @FXML
     public void initialize() {
+        Answer_Exactly.setText("");
+        inputWord.setText("");
+        true_button.setText("");
+        false_button.setText("");
         true_button.setVisible(false);
         false_button.setVisible(false);
         NextButton.setVisible(false);
@@ -87,28 +85,7 @@ public class MergeWordController extends Transition {
 
     @FXML
     private void handleNextButton() {
-
         initialize();
-        Answer_Exactly.setText("");
-        inputWord.setText("");
-        true_button.setText("");
-        false_button.setText("");
-        true_button.setVisible(false);
-        false_button.setVisible(false);
     }
 
-    public void insertFromFile() {
-        try {
-            Scanner scanner = new Scanner(new File("database/dictionaries_game.txt"));
-            while (scanner.hasNextLine()) {
-                String word_target = scanner.nextLine();
-                String word_explain = scanner.nextLine();
-                dictionary.put(word_target, word_explain);
-            }
-            scanner.close();
-        } catch (FileNotFoundException e) {
-            System.out.println("An error occurred.");
-            e.printStackTrace();
-        }
-    }
 }

@@ -1,21 +1,15 @@
 package com.example.enghouse.controller;
 
-import java.io.File;
-import java.io.FileNotFoundException;
 import java.util.ArrayList;
-import java.util.HashMap;
 import java.util.List;
 import java.util.Map;
 import java.util.Random;
-import java.util.Scanner;
 import javafx.fxml.FXML;
 import javafx.scene.control.Button;
 import javafx.scene.text.Text;
 
-public class MultipleChoiceController extends Transition {
-    private Map<String, String> dictionary = new HashMap<>();
+public class MultipleChoiceController extends GameController {
     private Map.Entry<String, String> randomEntry;
-    private Map.Entry<String, String> questionEntry;
     private List<Map.Entry<String, String>> a = new ArrayList<>();
     private List<Map.Entry<String, String>> wordsList = new ArrayList<>();
     private int answerIndex;
@@ -27,7 +21,6 @@ public class MultipleChoiceController extends Transition {
     @FXML
     public void initialize() {
         a.clear();
-
         nextShow(false);
         Random rd = new Random();
         insertFromFile();
@@ -107,19 +100,4 @@ public class MultipleChoiceController extends Transition {
         initialize();
     }
 
-    public void insertFromFile() {
-        try {
-            Scanner scanner = new Scanner(new File("database/dictionaries_game.txt"));
-
-            while (scanner.hasNextLine()) {
-                String word_target = scanner.nextLine();
-                String word_explain = scanner.nextLine();
-                dictionary.put(word_target, word_explain);
-            }
-            scanner.close();
-        } catch (FileNotFoundException e) {
-            System.out.println("An error occurred.");
-            e.printStackTrace();
-        }
-    }
 }
