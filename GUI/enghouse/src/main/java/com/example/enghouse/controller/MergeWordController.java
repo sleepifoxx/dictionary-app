@@ -2,7 +2,6 @@ package com.example.enghouse.controller;
 
 import java.io.File;
 import java.io.FileNotFoundException;
-import java.io.IOException;
 import java.util.ArrayList;
 import java.util.HashMap;
 import java.util.List;
@@ -12,14 +11,13 @@ import java.util.Scanner;
 
 import javafx.animation.PauseTransition;
 import javafx.fxml.FXML;
-import javafx.fxml.FXMLLoader;
 import javafx.scene.text.Text;
 import javafx.scene.control.Button;
 import javafx.scene.control.TextField;
 import javafx.scene.layout.AnchorPane;
 import javafx.util.Duration;
 
-public class MergeWordController {
+public class MergeWordController extends Transition {
     private Map<String, String> dictionary = new HashMap<>();
     private List<Map.Entry<String, String>> wordsList = new ArrayList<>();
     private Map.Entry<String, String> questionEntry;
@@ -62,13 +60,10 @@ public class MergeWordController {
 
     @FXML
     private void checkText() {
-        // ...
-
         if (inputWord.getText().equals(word_target)) {
             true_button.setVisible(true);
             true_button.setText("Chính xác!");
             NextButton.setVisible(true);
-            // alert.setText("Chính xác! Nhấn Next để chơi tiếp.");
             NextButton.setVisible(true);
         } else {
             false_button.setVisible(true);
@@ -82,7 +77,7 @@ public class MergeWordController {
 
     @FXML
     private void handleBackButton() {
-        loadFXML("Game.fxml");
+        handleTransition("Game.fxml");
     }
 
     @FXML
@@ -92,6 +87,7 @@ public class MergeWordController {
 
     @FXML
     private void handleNextButton() {
+
         initialize();
         Answer_Exactly.setText("");
         inputWord.setText("");
@@ -112,16 +108,6 @@ public class MergeWordController {
             scanner.close();
         } catch (FileNotFoundException e) {
             System.out.println("An error occurred.");
-            e.printStackTrace();
-        }
-    }
-
-    @FXML
-    private void loadFXML(String fxmlFileName) {
-        try {
-            AnchorPane pane = FXMLLoader.load(getClass().getResource("/com/example/enghouse/views/" + fxmlFileName));
-            contentAnchorPane.getChildren().setAll(pane);
-        } catch (IOException e) {
             e.printStackTrace();
         }
     }

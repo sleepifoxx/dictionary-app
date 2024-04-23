@@ -62,11 +62,7 @@ public class HomeController {
     private void handleSuggestWordList() {
         String word = home_search_bar.getText();
         home_suggestWord_list.setVisible(true);
-        Data.returnSuggestWord(word);
-        home_suggestWord_list.getItems().clear();
-        for (String suggestWord : Data.suggestWordList) {
-            home_suggestWord_list.getItems().add(suggestWord);
-        }
+        Data.returnSuggestWord(word, home_suggestWord_list);
     }
 
     @FXML

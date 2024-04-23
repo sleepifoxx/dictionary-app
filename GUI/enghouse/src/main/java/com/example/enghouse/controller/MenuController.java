@@ -1,21 +1,11 @@
 package com.example.enghouse.controller;
 
 import javafx.fxml.FXML;
-import javafx.fxml.FXMLLoader;
-import javafx.scene.layout.AnchorPane;
-import java.io.IOException;
-import javafx.scene.control.Button;
-import javafx.animation.TranslateTransition;
-import javafx.util.Duration;
 
-public class MenuController {
-    @FXML
-    private AnchorPane contentAnchorPane;
-    @FXML
-    private Button homeButton;
+public class MenuController extends Transition {
 
     @FXML
-    public void initialize() {
+    private void initialize() {
         handleTransition("Home.fxml");
     }
 
@@ -31,40 +21,21 @@ public class MenuController {
 
     @FXML
     private void handleEditButton() {
-        // handleTransition();
         handleTransition("Edit.fxml");
     }
 
     @FXML
     private void handleBookmarkButton() {
-        // handleTransition();
         handleTransition("Bookmark.fxml");
     }
 
     @FXML
     private void handleGameButton() {
-        // handleTransition();
         handleTransition("Game.fxml");
     }
 
     @FXML
     private void handleAboutButton() {
-        // handleTransition();
         handleTransition("About.fxml");
-    }
-
-    @FXML
-    private void handleTransition(String fxmlFileName) {
-        try {
-            AnchorPane pane = FXMLLoader.load(getClass().getResource("/com/example/enghouse/views/" + fxmlFileName));
-            pane.setTranslateY(contentAnchorPane.getHeight());
-            contentAnchorPane.getChildren().setAll(pane);
-
-            TranslateTransition transition = new TranslateTransition(Duration.seconds(0.3), pane);
-            transition.setToY(0);
-            transition.play();
-        } catch (IOException e) {
-            e.printStackTrace();
-        }
     }
 }

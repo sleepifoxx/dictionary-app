@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.ProgressBar?>
+<?import javafx.scene.image.Image?>
+<?import javafx.scene.image.ImageView?>
+<?import javafx.scene.layout.AnchorPane?>
+<?import javafx.scene.text.Font?>
+<?import javafx.scene.text.Text?>
+
+<AnchorPane fx:id="contentAnchorPane" maxHeight="640.0" maxWidth="960.0" minHeight="640.0" minWidth="960.0" prefHeight="640.0" prefWidth="960.0" styleClass="menu_background" stylesheets="@../css/style.css" xmlns="http://javafx.com/javafx/21" xmlns:fx="http://javafx.com/fxml/1" fx:controller="com.example.enghouse.controller.LoadingController">
+   <children>
+      <ImageView fitHeight="196.0" fitWidth="349.0" layoutX="380.0" layoutY="91.0" pickOnBounds="true" preserveRatio="true">
+         <image>
+            <Image url="@../icons/dictionary.png" />
+         </image>
+      </ImageView>
+      <ProgressBar fx:id="progressBar" layoutX="223.0" layoutY="455.0" prefHeight="43.0" prefWidth="506.0" progress="0.0" />
+      <Text fill="WHITE" layoutX="414.0" layoutY="323.0" strokeType="OUTSIDE" strokeWidth="0.0" text="EngHouse">
+         <font>
+            <Font name="System Bold" size="27.0" />
+         </font>
+      </Text>
+      <Text fill="WHITE" layoutX="338.0" layoutY="358.0" strokeType="OUTSIDE" strokeWidth="0.0" text="--- Your English Learning Assistant ---">
+         <font>
+            <Font name="System Italic" size="17.0" />
+         </font>
+      </Text>
+      <Text fill="#74d5ff" layoutX="426.0" layoutY="605.0" strokeType="OUTSIDE" strokeWidth="0.0" text="Made by XTeam">
+         <font>
+            <Font size="14.0" />
+         </font>
+      </Text>
+      <Text fill="#74d5ff" layoutX="354.0" layoutY="622.0" strokeType="OUTSIDE" strokeWidth="0.0" text="Images and icons are supported by Flaticon">
+         <font>
+            <Font size="14.0" />
+         </font>
+      </Text>
+   </children>
+</AnchorPane>

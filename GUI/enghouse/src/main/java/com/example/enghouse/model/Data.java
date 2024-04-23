@@ -3,9 +3,11 @@ package com.example.enghouse.model;
 import java.io.*;
 import java.util.*;
 
+import javafx.scene.control.ListView;
+
 public class Data {
     private static Map<String, String> data = new LinkedHashMap<>();
-    public static List<String> suggestWordList = new ArrayList<>();
+    private static Set<String> suggestWordList = new TreeSet<>();
 
     public static void insertFromDictionaries() {
         try {
@@ -36,7 +38,7 @@ public class Data {
         }
     }
 
-    public static void returnSuggestWord(String word) {
+    public static void returnSuggestWord(String word, ListView<String> listView) {
         word = word.toLowerCase();
         suggestWordList.clear();
         for (Map.Entry<String, String> entry : data.entrySet()) {
@@ -44,7 +46,7 @@ public class Data {
                 suggestWordList.add(entry.getKey());
             }
         }
-        suggestWordList.sort(String::compareTo);
+        listView.getItems().setAll(suggestWordList);
     }
 
     public static void saveData() {
