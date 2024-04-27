@@ -101,6 +101,8 @@ git clone https://github.com/sleepifoxx/dictionary-app.git
 Run this file.
 ```
 
+## UML
+
 ## Usage
 
 To be continue...
