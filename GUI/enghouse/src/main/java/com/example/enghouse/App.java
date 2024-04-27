@@ -10,8 +10,11 @@ import javafx.scene.Scene;
 import javafx.stage.Stage;
 import javafx.util.Duration;
 import javafx.scene.image.Image;
+import javafx.scene.text.Font;
 import javafx.scene.control.Button;
 
+import java.io.File;
+import java.io.FileInputStream;
 import java.io.IOException;
 
 public class App extends Application {
@@ -36,13 +39,19 @@ public class App extends Application {
     }
 
     public static void Alert(Button alert_location, String massage, int seconds) {
-        alert_location.setVisible(true);
-        alert_location.setText(massage);
-        Timeline timeline = new Timeline(new KeyFrame(Duration.seconds(seconds), event -> {
-            alert_location.setText("");
-            alert_location.setVisible(false);
-        }));
-        timeline.play();
+        try {
+            alert_location.setVisible(true);
+            alert_location.setText(massage);
+            Font quicksand = Font.loadFont(new FileInputStream(new File("quicksand.ttf")), 12);
+            Timeline timeline = new Timeline(new KeyFrame(Duration.seconds(seconds), event -> {
+                alert_location.setText("");
+                alert_location.setFont(quicksand);
+                alert_location.setVisible(false);
+            }));
+            timeline.play();
+        } catch (Exception e) {
+            System.out.println("Error");
+        }
     }
 
     public static void main(String[] args) {
