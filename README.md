@@ -23,7 +23,7 @@
 * [Getting Started](#getting-started)
   * [Prerequisites](#prerequisites)
   * [Installation](#installation)
-* [Usage](#usage)
+* [UML](#UML)
 * [Authors](#authors)
 * [Acknowledgements](#acknowledgements)
 
