@@ -7,4 +7,8 @@ module com.example.enghouse {
     opens com.example.enghouse to javafx.fxml;
 
     exports com.example.enghouse;
+    exports com.example.enghouse.controller;
+    opens com.example.enghouse.controller to javafx.fxml;
+    exports com.example.enghouse.model;
+    opens com.example.enghouse.model to javafx.fxml;
 }
