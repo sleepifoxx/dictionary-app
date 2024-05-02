@@ -103,15 +103,15 @@ Run this file.
 
 ## UML
 
-## Usage
-
-To be continue...
+```sh
+https://drive.google.com/file/d/1C6f90nxPtIQHnawbT2doE_Bt30iEJuTF/view?usp=sharing
+```
 
 ## Authors
 
 * **Minh Quan** - *AI Student* - [GitHub](https://github.com/sleepifoxx) - *Home, About page; Data management*
-* **Toi Vu** - *AI Student* - [GitHub](https://github.com/toivuvan) - *Add, Bookmark Page*
-* **Minh Quang** - *AI Student* - [GitHub](https://github.com/quang011105) - *Game Page*
+* **Toi Vu** - *AI Student* - [GitHub](https://github.com/toivuvan) - *Add, Bookmark Page; Data Management*
+* **Minh Quang** - *AI Student* - [GitHub](https://github.com/quang011105) - *Game, Class Diagram*
 
 ## Acknowledgements
 
