@@ -240,14 +240,26 @@ public class HomeController {
         }
     }
 
-    public static void addTextToFile(String filePath, String textToAdd) {
-        try (FileWriter fw = new FileWriter(filePath, true);
-                BufferedWriter bw = new BufferedWriter(fw);
-                PrintWriter out = new PrintWriter(bw)) {
-            out.println(textToAdd); // Thêm từ vào file
-            System.out.println("Đã thêm từ vào bookmark thành công!");
-        } catch (IOException e) {
-            System.err.println("Có lỗi xảy ra khi ghi vào file: " + e.getMessage());
+    public static void addTextToFile(String filePath, String word) {
+        try {
+            BufferedReader reader = new BufferedReader(new FileReader(filePath));
+            List<String> lines = new ArrayList<>();
+            String currentLine;
+
+            while ((currentLine = reader.readLine()) != null) {
+                lines.add(currentLine);
+            }
+            reader.close();
+
+            lines.add(0, word);
+
+            PrintWriter writer = new PrintWriter(new FileWriter(filePath));
+            for (String line : lines) {
+                writer.println(line);
+            }
+            writer.close();
+        } catch (Exception e) {
+            System.out.println("Có lỗi xảy ra: " + e.getMessage());
         }
     }
 
